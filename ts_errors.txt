@@ -1,0 +1,19 @@
+.next/types/validator.ts(5,79): error TS2306: File 'C:/Users/sktga/Documents/Boi/ai-study-architect/.next/types/routes.d.ts' is not a module.
+.next/types/validator.ts(25,32): error TS2304: Cannot find name 'LayoutProps'.
+.next/types/validator.ts(25,63): error TS2304: Cannot find name 'LayoutProps'.
+src/app/api/exam/generate/route.ts(29,34): error TS2339: Property 'notes' does not exist on type 'Promise<StudySession | null>'.
+src/app/api/exam/generate/route.ts(29,60): error TS2339: Property 'materials' does not exist on type 'Promise<StudySession | null>'.
+src/app/api/exam/generate/route.ts(29,74): error TS7006: Parameter 'm' implicitly has an 'any' type.
+src/app/api/exam/generate/route.ts(30,39): error TS2339: Property 'flashcards' does not exist on type 'Promise<StudySession | null>'.
+src/app/api/exam/generate/route.ts(30,60): error TS2339: Property 'flashcards' does not exist on type 'Promise<StudySession | null>'.
+src/app/api/exam/generate/route.ts(30,75): error TS7006: Parameter 'f' implicitly has an 'any' type.
+src/app/api/generate/route.ts(35,32): error TS2339: Property 'materials' does not exist on type 'Promise<StudySession | null>'.
+src/app/api/generate/route.ts(35,46): error TS7006: Parameter 'm' implicitly has an 'any' type.
+src/app/api/generate/route.ts(45,40): error TS2339: Property 'focusAreas' does not exist on type 'Promise<StudySession | null>'.
+src/app/api/generate/route.ts(45,71): error TS2339: Property 'selectedChapters' does not exist on type 'Promise<StudySession | null>'.
+src/app/api/generate/route.ts(50,90): error TS2339: Property 'studyDepth' does not exist on type 'Promise<StudySession | null>'.
+src/app/api/generate/route.ts(95,33): error TS2339: Property 'studyDepth' does not exist on type 'Promise<StudySession | null>'.
+src/app/api/quiz/route.ts(32,48): error TS2339: Property 'materials' does not exist on type 'Promise<StudySession | null>'.
+src/app/api/quiz/route.ts(32,62): error TS7006: Parameter 'm' implicitly has an 'any' type.
+src/app/api/time-suggestion/route.ts(25,32): error TS2339: Property 'materials' does not exist on type 'Promise<StudySession | null>'.
+src/app/api/time-suggestion/route.ts(25,46): error TS7006: Parameter 'm' implicitly has an 'any' type.

@@ -1,0 +1,3481 @@
+[
+  {
+    "id": "ad743641-e4b2-444f-8486-7b9abcc5a434",
+    "sessionId": "fe0d4a91-c21c-4786-8134-90f53c813ac8",
+    "title": "Quiz - medium",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which statement best describes the primary distinction between Ethics and Morality as presented in the study material?",
+        "options": [
+          "A. Ethics is a philosophical study of moral standards, while Morality refers to accepted codes of conduct.",
+          "B. Ethics deals with legal principles, while Morality focuses on social norms.",
+          "C. Ethics guides individual behavior, while Morality establishes universal rules.",
+          "D. Ethics is primarily practical, while Morality is theoretical."
+        ],
+        "correctAnswer": "A. Ethics is a philosophical study of moral standards, while Morality refers to accepted codes of conduct.",
+        "explanation": "The study material states that Ethics is a 'Philosophical study of moral standards' and 'More theoretical,' while Morality is a 'Code of conduct followed by individuals' and 'More practical.'",
+        "id": "a08ef126-184e-4c5f-ab54-84694b915181"
+      },
+      {
+        "type": "true_false",
+        "question": "Normative Ethics primarily involves studying and analyzing existing moral beliefs and practices without establishing standards.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Normative Ethics 'Establishes standards of right and wrong' and 'Guides moral behavior.' It is Non-Normative Ethics that 'Studies and analyzes moral beliefs and practices.'",
+        "id": "fe1275f6-26fa-4e68-9f37-2ab90e64fddd"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The word \"morality\" comes from the Latin word \"moralitas\" meaning Character and ______________.",
+        "correctAnswer": "Proper behavior",
+        "explanation": "The study material explicitly states that 'Morality comes from the Latin word “moralitas” meaning: Character Proper behavior.'",
+        "id": "107a842a-398c-470e-8b0d-5a02d5a4e0dd"
+      },
+      {
+        "type": "short_answer",
+        "question": "Provide an example of an action that is considered 'illegal but ethical' according to the study material and briefly explain why.",
+        "correctAnswer": "Breaking speed limits to take someone to the hospital. It is illegal because it violates traffic laws, but it is considered ethical due to the moral obligation to save a life or prevent harm, prioritizing human well-being over strict adherence to law.",
+        "explanation": "The material directly provides the example: 'Illegal but ethical: Breaking speed limits to take someone to hospital.' The ethical justification is the critical need for assistance, overriding the legal infraction.",
+        "id": "a48a58fe-4a11-441b-9453-9ea3291ab092"
+      },
+      {
+        "type": "mcq",
+        "question": "In which type of political culture, according to Almond and Verba, do citizens exhibit low awareness of politics and limited participation?",
+        "options": [
+          "A. Subject Culture",
+          "B. Participant Culture",
+          "C. Parochial Culture",
+          "D. Democratic Culture"
+        ],
+        "correctAnswer": "C. Parochial Culture",
+        "explanation": "The material defines Parochial Culture as characterized by 'Low awareness of politics' and 'Limited participation,' contrasting it with Subject Culture (citizens obey government, limited participation) and Participant Culture (active political participation).",
+        "id": "f58b09db-34ca-418b-9b33-83fea6c6d686"
+      },
+      {
+        "type": "true_false",
+        "question": "Citizens' rights are generally independent of their duties and responsibilities, allowing for a broader scope of freedoms.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "The study material states, 'Rights and duties are two sides of the same coin' and emphasizes the key principle: 'Rights must be balanced with responsibilities.'",
+        "id": "70d339e6-325f-45e9-878e-1eccfb80c624"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Effective citizenship requires Knowledge, Skills, and positive _______________.",
+        "correctAnswer": "Attitudes",
+        "explanation": "The study material lists these three components: 'Knowledge – understanding laws and rights; Skills – critical thinking and participation; Positive attitudes – honesty, responsibility' for effective citizenship.",
+        "id": "5edfe7a2-1b89-468e-8180-34a92ecfda8b"
+      },
+      {
+        "type": "short_answer",
+        "question": "List two primary aims of Civic and Moral Education as outlined in the study material.",
+        "correctAnswer": "Two primary aims include: Promote democratic culture; Develop ethical values; Respect rule of law; Understand rights and duties; Build responsible citizens. (Any two of these are acceptable).",
+        "explanation": "The 'Purpose of Civic and Moral Education' section lists several aims, including 'Promote democratic culture,' 'Develop ethical values,' 'Respect rule of law,' 'Understand rights and duties,' and 'Build responsible citizens.'",
+        "id": "26807965-dbfa-4ab6-b561-d1307f52cf90"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is NOT listed as a core value of Civic and Moral Education in the provided text?",
+        "options": [
+          "A. Respect for life",
+          "B. Financial prosperity",
+          "C. Fairness",
+          "D. Peaceful conflict resolution"
+        ],
+        "correctAnswer": "B. Financial prosperity",
+        "explanation": "The 'Core Values of Civic and Moral Education' section lists 'Respect for life,' 'Respect for reasoning,' 'Fairness,' 'Concern for others,' 'Respect for diversity,' and 'Peaceful conflict resolution.' Financial prosperity is not mentioned.",
+        "id": "f56605e6-1067-4d24-bf35-5af26da72a52"
+      },
+      {
+        "type": "mcq",
+        "question": "Ethics is defined as a branch of philosophy that primarily studies which of the following?",
+        "options": [
+          "A. Economic systems and market behaviors",
+          "B. Moral beliefs, human behavior, and right/wrong actions",
+          "C. The history of legal codes and their enforcement",
+          "D. Political structures and governance models"
+        ],
+        "correctAnswer": "B. Moral beliefs, human behavior, and right/wrong actions",
+        "explanation": "The 'What is Ethics?' section clearly states: 'Ethics is a branch of philosophy that studies: Moral beliefs, Human behavior, Right and wrong actions.'",
+        "id": "c9b66636-0575-469a-a3c8-96c88549dab7"
+      }
+    ]
+  },
+  {
+    "id": "1a066198-75ae-48ac-aee8-648b5a26cc6e",
+    "sessionId": "fe0d4a91-c21c-4786-8134-90f53c813ac8",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which branch of ethics focuses on establishing standards of right and wrong to guide moral behavior?",
+        "options": [
+          "Normative Ethics",
+          "Non-Normative Ethics",
+          "Meta-Ethics",
+          "Applied Ethics"
+        ],
+        "correctAnswer": "Normative Ethics",
+        "explanation": "Normative Ethics is explicitly defined as the branch that establishes standards of right and wrong and guides moral behavior, contrasting with Non-Normative Ethics which studies and analyzes moral beliefs.",
+        "id": "85167d1b-54fa-4c2e-8c2f-25a19960a90a"
+      },
+      {
+        "type": "true_false",
+        "question": "Ethics is primarily focused on applying moral principles, while morality is more theoretical and concerned with moral reasoning.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "The study material states the opposite: Ethics is 'more theoretical' and 'focus on moral reasoning', while Morality is 'more practical' and 'focus on moral behavior'.",
+        "id": "77798f7b-ad45-48ae-8659-674a04038793"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The word \"morality\" comes from the Latin word \"moralitas\" which means _________ and proper behavior.",
+        "correctAnswer": "Character",
+        "explanation": "The study material directly states that 'Morality comes from the Latin word “moralitas” meaning: Character Proper behavior'.",
+        "id": "5832a006-4785-4867-8fe3-28ea340fbed4"
+      },
+      {
+        "type": "short_answer",
+        "question": "Provide an example of a situation that is illegal but ethical, as mentioned in the study material.",
+        "correctAnswer": "Breaking speed limits to take someone to hospital.",
+        "explanation": "The study material provides 'Breaking speed limits to take someone to hospital' as a specific example of an action that is illegal but can be considered ethical.",
+        "id": "c83c64f1-9830-4f74-a6aa-340a864dcaa5"
+      },
+      {
+        "type": "mcq",
+        "question": "According to Almond and Verba, which type of political culture is characterized by low awareness of politics and limited participation?",
+        "options": [
+          "Participant Culture",
+          "Subject Culture",
+          "Parochial Culture",
+          "Democratic Culture"
+        ],
+        "correctAnswer": "Parochial Culture",
+        "explanation": "The study material defines Parochial Culture as having 'Low awareness of politics' and 'Limited participation'.",
+        "id": "92e179f2-24f5-4261-a211-961e26e3893a"
+      },
+      {
+        "type": "true_false",
+        "question": "The study material states that citizens' rights should always take precedence over their duties.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "The key principle emphasized is that 'Rights and duties are two sides of the same coin' and 'Rights must be balanced with responsibilities'.",
+        "id": "648c0caf-484f-4f03-a971-9b0aba25409c"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Socrates stated, \"We are discussing no small matter, but how we ought to _______.\"",
+        "correctAnswer": "live",
+        "explanation": "Socrates' quote is directly provided: '“We are discussing no small matter, but how we ought to live.”'",
+        "id": "a131249b-8bdf-4445-8147-883593bd785a"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is NOT an aim of civic and moral education according to the study material?",
+        "options": [
+          "Promote democratic culture",
+          "Develop ethical values",
+          "Encourage passive obedience to government",
+          "Build responsible citizens"
+        ],
+        "correctAnswer": "Encourage passive obedience to government",
+        "explanation": "The aims listed are to 'Promote democratic culture', 'Develop ethical values', 'Respect rule of law', 'Understand rights and duties', and 'Build responsible citizens'. Passive obedience contradicts the idea of responsible and active citizenship.",
+        "id": "2ba3426a-bbd5-4045-87d6-cf3cedc9775c"
+      },
+      {
+        "type": "short_answer",
+        "question": "List two problems that may arise in a society without positive attitudes, as identified in the study material regarding effective citizenship.",
+        "correctAnswer": "Corruption, Abuse of power, Lack of responsibility (any two)",
+        "explanation": "The section 'Importance of Knowledge, Skills and Attitudes' explicitly states that 'Without positive attitudes, problems may arise such as: Corruption, Abuse of power, Lack of responsibility'.",
+        "id": "3219866d-168a-43c6-a500-c65b9affc6fd"
+      },
+      {
+        "type": "true_false",
+        "question": "Aristotle argued that good citizens are born, not made through education.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "The text states 'Aristotle argued that citizens must be educated to suit the constitution of the state' and concludes 'Good citizens are made through education, not born'.",
+        "id": "4a602967-5999-433c-bcf2-41c51576dba3"
+      },
+      {
+        "type": "mcq",
+        "question": "All of the following are listed as core values of civic and moral education EXCEPT:",
+        "options": [
+          "Respect for life",
+          "Fairness",
+          "Peaceful conflict resolution",
+          "Unconditional obedience to authority"
+        ],
+        "correctAnswer": "Unconditional obedience to authority",
+        "explanation": "The Core Values of Civic and Moral Education include 'Respect for life', 'Respect for reasoning', 'Fairness', 'Concern for others', 'Respect for diversity', and 'Peaceful conflict resolution'. Unconditional obedience is not listed and contradicts the emphasis on reasoning and rights.",
+        "id": "9eddf379-18d8-44d9-a2ad-71d5aa3b9e7c"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Civic education focuses on the rights and _________ of citizens, and their participation in democratic society.",
+        "correctAnswer": "responsibilities",
+        "explanation": "Civic education is defined as focusing on 'Rights and responsibilities of citizens' and 'Participation in democratic society'.",
+        "id": "82569b20-9514-4854-ade9-52a9d0a1e0aa"
+      },
+      {
+        "type": "true_false",
+        "question": "Ethics is defined as a branch of sociology that studies moral beliefs and human behavior.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Ethics is clearly defined as 'a branch of philosophy that studies: Moral beliefs Human behavior Right and wrong actions'.",
+        "id": "8c45a1b1-3d8f-4c20-8716-53e1393e2d79"
+      },
+      {
+        "type": "short_answer",
+        "question": "Briefly explain what morality refers to, according to the study material.",
+        "correctAnswer": "Morality refers to principles of right and wrong behavior, accepted codes of conduct in society, and values shared within a culture or community.",
+        "explanation": "The section 'What is Morality?' explicitly defines it as 'Principles of right and wrong behavior', 'Accepted codes of conduct in society', and 'Values shared within a culture or community'.",
+        "id": "33df0b72-54ee-4cc1-b273-b4a26516dc38"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following situations is given as an example of something unethical but legal?",
+        "options": [
+          "Breaking speed limits to save a life",
+          "Stealing essential goods to survive",
+          "Lying in everyday situations",
+          "Historical laws supporting slavery"
+        ],
+        "correctAnswer": "Lying in everyday situations",
+        "explanation": "The study material specifically lists 'Lying in everyday situations' under 'Unethical but legal'.",
+        "id": "c009fc83-33e6-4a6f-b148-edee26447c22"
+      }
+    ]
+  },
+  {
+    "id": "ba33b07b-d34e-49a3-90ea-87bf48c27fb6",
+    "sessionId": "fe0d4a91-c21c-4786-8134-90f53c813ac8",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which branch of ethics is primarily concerned with establishing standards of right and wrong to guide moral behavior?",
+        "options": [
+          "Normative Ethics",
+          "Non-Normative Ethics",
+          "Meta-ethics",
+          "Applied Ethics"
+        ],
+        "correctAnswer": "Normative Ethics",
+        "explanation": "Normative ethics focuses on establishing moral rules and standards, while Non-Normative ethics studies and analyzes moral beliefs without prescribing them.",
+        "id": "d4320edf-53fd-49ba-9ad2-5d672df49eff"
+      },
+      {
+        "type": "true_false",
+        "question": "Ethics is generally considered more practical, focusing on moral behavior, while morality is more theoretical, focusing on moral reasoning.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "This statement reverses the definitions. Ethics is more theoretical (philosophical study of moral standards, focusing on moral reasoning), and morality is more practical (code of conduct, focusing on moral behavior).",
+        "id": "4ee98383-1784-4115-a6c8-8c6007bf6b8f"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The word 'morality' comes from the Latin word 'moralitas' meaning character and proper ________.",
+        "correctAnswer": "behavior",
+        "explanation": "The study material defines 'moralitas' as meaning 'Character Proper behavior'.",
+        "id": "563e079a-406d-48ea-aac6-c939d7e3a553"
+      },
+      {
+        "type": "short_answer",
+        "question": "Give one example of a situation that is considered 'unethical but legal.'",
+        "correctAnswer": "Lying in everyday situations (or similar, such as breaking a non-contractual promise).",
+        "explanation": "An 'unethical but legal' situation describes an action that goes against moral principles but does not violate any established laws, such as telling a lie that has no legal consequence.",
+        "id": "627bff66-df93-4984-8018-3096861d39d0"
+      },
+      {
+        "type": "mcq",
+        "question": "In which type of political culture, according to Almond and Verba, do citizens exhibit low awareness of politics and limited participation?",
+        "options": [
+          "Participant Culture",
+          "Subject Culture",
+          "Parochial Culture",
+          "Civic Culture"
+        ],
+        "correctAnswer": "Parochial Culture",
+        "explanation": "Parochial culture is characterized by low political awareness and limited participation, indicating a focus on local or personal concerns rather than broader political systems.",
+        "id": "36e7c695-e73a-4b44-ae51-baebb8d2c53a"
+      },
+      {
+        "type": "true_false",
+        "question": "The study material states that citizens' rights should always take precedence over their duties, as rights are fundamental.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "The material emphasizes that 'Rights and duties are two sides of the same coin' and that 'Rights must be balanced with responsibilities,' indicating a reciprocal relationship rather than one taking precedence.",
+        "id": "89b44634-594f-4c48-9738-58a0b513b7b7"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is NOT listed as a core value of Civic and Moral Education?",
+        "options": [
+          "Respect for reasoning",
+          "Fairness",
+          "Self-interest promotion",
+          "Peaceful conflict resolution"
+        ],
+        "correctAnswer": "Self-interest promotion",
+        "explanation": "The core values listed include respect for life, respect for reasoning, fairness, concern for others, respect for diversity, and peaceful conflict resolution. Self-interest promotion is contrary to these communal values.",
+        "id": "758d194b-4050-4490-a0ca-80fcebefc5e0"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Socrates famously said, 'We are discussing no small matter, but how we ought to _________.'",
+        "correctAnswer": "live",
+        "explanation": "This is a direct quote from Socrates mentioned in the 'Morality According to Socrates' section, highlighting the profound importance of morality.",
+        "id": "299da52d-9927-4d99-8982-7b426f342190"
+      },
+      {
+        "type": "short_answer",
+        "question": "List two aims of Civic and Moral Education as outlined in the study material.",
+        "correctAnswer": "Any two of: Promote democratic culture, Develop ethical values, Respect rule of law, Understand rights and duties, Build responsible citizens.",
+        "explanation": "Civic and moral education serves multiple purposes, including fostering a democratic society and instilling ethical values and responsibilities in individuals.",
+        "id": "1c3ab1e3-58c3-485a-add5-6004871e3a0b"
+      },
+      {
+        "type": "mcq",
+        "question": "All of the following are characteristics of morality EXCEPT:",
+        "options": [
+          "Principles guiding personal behavior",
+          "Efforts to reduce harm and promote good",
+          "Values shared exclusively within a single culture",
+          "Socially accepted habits and practices"
+        ],
+        "correctAnswer": "Values shared exclusively within a single culture",
+        "explanation": "The study material states that morality includes 'Values shared across cultures,' not exclusively within a single one. The other options are listed characteristics.",
+        "id": "f78f04ea-dbd5-48c7-a9e6-82a86c92f18b"
+      },
+      {
+        "type": "true_false",
+        "question": "As a branch of philosophy, Ethics primarily examines moral beliefs, human behavior, and right and wrong actions.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "The definition section for Ethics explicitly states it is a branch of philosophy that studies moral beliefs, human behavior, and right and wrong actions.",
+        "id": "9d28e856-3a8f-4bd8-b69e-47f79dff3aae"
+      },
+      {
+        "type": "mcq",
+        "question": "Which action best demonstrates active citizenship?",
+        "options": [
+          "Passively accepting all government decisions",
+          "Avoiding political discussions",
+          "Participating in community service and holding leaders accountable",
+          "Prioritizing personal gain above public good"
+        ],
+        "correctAnswer": "Participating in community service and holding leaders accountable",
+        "explanation": "Active citizens participate in civic and political life, promote the public good, and hold leaders accountable, contributing to a strong democracy.",
+        "id": "aac4bcf4-8240-451d-900a-1218fcfccc67"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Without positive attitudes in effective citizenship, problems such as corruption, abuse of power, and lack of _________ may arise.",
+        "correctAnswer": "responsibility",
+        "explanation": "The study material specifies that 'Without positive attitudes, problems may arise such as: Corruption, Abuse of power, Lack of responsibility.'",
+        "id": "863e51ee-480d-45c9-853c-ecd57f5db13f"
+      },
+      {
+        "type": "short_answer",
+        "question": "According to John Stuart Mill, what is essential for a society to develop?",
+        "correctAnswer": "Building responsible citizens.",
+        "explanation": "John Stuart Mill's view is that a society progresses when it cultivates responsible citizens, highlighting the importance of individual character for collective advancement.",
+        "id": "5229a22f-1177-4fda-9b76-1a37d70cf70c"
+      },
+      {
+        "type": "mcq",
+        "question": "Which scenario is an example of an 'illegal but ethical' situation as described in the study material?",
+        "options": [
+          "Lying to a friend to avoid an argument",
+          "Breaking speed limits to take someone to the hospital",
+          "A law supporting slavery",
+          "Reporting a minor workplace infraction"
+        ],
+        "correctAnswer": "Breaking speed limits to take someone to the hospital",
+        "explanation": "The study material specifically uses 'Breaking speed limits to take someone to hospital' as its example of an action that is against the law but is morally justified or ethical under urgent circumstances.",
+        "id": "8e17ae2e-1224-4524-8ea9-11a73027602c"
+      }
+    ]
+  },
+  {
+    "id": "2a85771e-a9e4-4266-807f-e9bb51ff1911",
+    "sessionId": "fe9537ed-196d-4abe-91e8-9e49bbc14ffa",
+    "title": "Quiz - easy",
+    "difficulty": "easy",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "According to the study material, what is one of the main goals for learners to support?",
+        "options": [
+          "National unity in diversity",
+          "Economic competition",
+          "Technological advancement",
+          "Total cultural assimilation"
+        ],
+        "correctAnswer": "National unity in diversity",
+        "matchingPairs": null,
+        "explanation": "The material specifically mentions supporting justice, peace, and national unity in diversity.",
+        "id": "b4eb9626-0f1e-402b-a58b-d7981353415e"
+      },
+      {
+        "type": "true_false",
+        "question": "The course is designed to help learners navigate the Ethiopian federal system.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "matchingPairs": null,
+        "explanation": "The text states the course equips learners with knowledge to navigate the Ethiopian federal structure.",
+        "id": "4e86db23-70e8-4802-bea9-9008f1c1a7d6"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The course equips learners with knowledge to support justice, __________, and national unity in diversity.",
+        "options": null,
+        "correctAnswer": "peace",
+        "matchingPairs": null,
+        "explanation": "The study material lists peace as one of the three core values alongside justice and national unity.",
+        "id": "d2577cab-a051-4330-9347-435511470829"
+      }
+    ]
+  },
+  {
+    "id": "93a219f3-c3bd-4dd0-9db0-072caa9ddce1",
+    "sessionId": "fe9537ed-196d-4abe-91e8-9e49bbc14ffa",
+    "title": "Quiz - easy",
+    "difficulty": "easy",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which term refers to the philosophical study of values and what constitutes good and bad human conduct?",
+        "options": [
+          "Morality",
+          "Ethics",
+          "Civic Education",
+          "Legality"
+        ],
+        "correctAnswer": "Ethics",
+        "explanation": "Ethics is the theoretical and philosophical study of moral conduct, whereas morality refers to the actual practice or conduct itself.",
+        "id": "826348db-b368-4d38-99c1-c5192683b8ab"
+      },
+      {
+        "type": "true_false",
+        "question": "According to John Stuart Mill's version of utilitarianism, the quality of a pleasure is more important than the mere quantity of pleasure.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "John Stuart Mill distinguished between higher (intellectual) and lower (sensual) pleasures, arguing that higher quality pleasures are superior.",
+        "id": "bc8f825a-5868-428b-8454-d3ab230f3d86"
+      },
+      {
+        "type": "fill_blank",
+        "question": "According to the Montevideo Convention, the four essential features of a state are a permanent population, an effective government, sovereignty, and a defined ________.",
+        "correctAnswer": "territory",
+        "explanation": "The four classic elements of a state are population, territory, government, and sovereignty.",
+        "id": "23aafb94-239c-482b-a120-f1ac31bbb765"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical theory with its primary focus.",
+        "matchingPairs": [
+          {
+            "left": "Teleological Ethics",
+            "right": "Focuses on the consequences of an action"
+          },
+          {
+            "left": "Deontological Ethics",
+            "right": "Focuses on duty and moral rules"
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Focuses on character and moral habits"
+          },
+          {
+            "left": "Meta-ethics",
+            "right": "Focuses on the meaning of moral terms"
+          }
+        ],
+        "correctAnswer": "Teleological-Consequences; Deontological-Duty; Virtue-Character; Meta-ethics-Meaning",
+        "explanation": "These are the three main branches of normative ethics plus meta-ethics, each defined by what it prioritizes in moral evaluation.",
+        "id": "46e37f14-14be-4b37-983b-42777162823b"
+      },
+      {
+        "type": "short_answer",
+        "question": "Why is an action like lying often considered unethical even if it is not always illegal?",
+        "correctAnswer": "Because ethics is broader than law; it evaluates behavior based on moral values rather than just formal state statutes.",
+        "explanation": "Law consists of formally approved norms by the state, while ethics explores broader moral obligations that may not be codified in legal systems.",
+        "id": "1e9d82c7-6aa9-4fe4-8e11-fe5e1c9edf8f"
+      },
+      {
+        "type": "mcq",
+        "question": "Immanuel Kant’s 'Categorical Imperative' suggests that individuals should act only according to rules that:",
+        "options": [
+          "Produce the greatest happiness for the majority",
+          "Can be willed as a universal law for everyone",
+          "Are based on personal self-interest",
+          "Are commanded by the government"
+        ],
+        "correctAnswer": "Can be willed as a universal law for everyone",
+        "explanation": "Kant's deontology is based on the idea that moral actions must be universalizable and consistent for all rational beings.",
+        "id": "d5b8cf46-7b84-4a41-8d0a-7f7bfb68a79b"
+      },
+      {
+        "type": "true_false",
+        "question": "A 'Flexible Constitution' is one that requires a very complex and difficult special procedure to be amended.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "A Flexible Constitution can be amended through a simple legislative process, whereas a Rigid Constitution requires a difficult, special procedure.",
+        "id": "36ffedac-1a5c-4889-bbd9-48c8f78af12a"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The principle of acquiring citizenship based on the 'law of the blood' (parentage) is known as Jus ________.",
+        "correctAnswer": "Sanguinis",
+        "explanation": "Jus Sanguinis allows a child to acquire the nationality of their parents regardless of where the child is born.",
+        "id": "93b5f845-e830-4516-9286-a02da6336760"
+      },
+      {
+        "type": "mcq",
+        "question": "Which 'generation' of human rights primarily includes civil and political rights, such as the right to life and freedom of speech?",
+        "options": [
+          "First generation",
+          "Second generation",
+          "Third generation",
+          "Fourth generation"
+        ],
+        "correctAnswer": "First generation",
+        "explanation": "First generation rights are negative rights that protect individuals from state interference, focusing on civil and political liberties.",
+        "id": "afc82b07-de63-40c9-b076-bce5f3b16daf"
+      },
+      {
+        "type": "matching",
+        "question": "Match the approach to ethical decision-making with its definition.",
+        "matchingPairs": [
+          {
+            "left": "Rights Approach",
+            "right": "Focuses on the individual's ability to choose freely"
+          },
+          {
+            "left": "Fairness Approach",
+            "right": "Focuses on treating equals equally"
+          },
+          {
+            "left": "Common Good",
+            "right": "Focuses on the welfare of the community"
+          },
+          {
+            "left": "Utilitarian",
+            "right": "Focuses on the greatest balance of good over harm"
+          }
+        ],
+        "correctAnswer": "Rights-Choice; Fairness-Equality; Common Good-Community; Utilitarian-Consequences",
+        "explanation": "These represent different frameworks used to resolve moral dilemmas by appealing to different core values.",
+        "id": "f1af7809-2a73-40d7-8753-28bae7011919"
+      }
+    ]
+  },
+  {
+    "id": "a45ee4a7-3cd6-45d5-b1a7-4e199a5c009e",
+    "sessionId": "fe9537ed-196d-4abe-91e8-9e49bbc14ffa",
+    "title": "Quiz - medium",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which statement best describes the distinction between \"ethics\" and \"morality\" as presented in the study material?",
+        "options": [
+          "A) Ethics refers to individual conduct, while morality is the philosophical study of conduct.",
+          "B) Ethics is the philosophical study of values and conduct, while morality refers to the conduct itself or the code one follows.",
+          "C) Morality is concerned with legal compliance, while ethics deals with religious tenets.",
+          "D) Ethics is objective, while morality is subjective and varies by individual."
+        ],
+        "correctAnswer": "B",
+        "explanation": "The study material clarifies that 'a precise usage would apply the term’s morals and moral to the conduct itself, while the terms ethics and ethical would refer to the study of moral conduct or to the code that one follows'.",
+        "id": "62863bc8-b243-4625-8d2f-d46a3c77b1ea"
+      },
+      {
+        "type": "mcq",
+        "question": "According to the module introduction and Chapter One, a primary goal of Moral and Citizenship Education (MCED) in Ethiopia is to:",
+        "options": [
+          "A) Ensure students adhere strictly to government policies without question.",
+          "B) Equip learners with relevant knowledge, respect for human dignity, right attitudes, and requisite skills to be credible and responsible members of society.",
+          "C) Promote a single, uniform cultural identity across all diverse ethnic groups.",
+          "D) Prioritize individual self-interest over collective societal well-being."
+        ],
+        "correctAnswer": "B",
+        "explanation": "The module introduction states that the module 'basically aspires to equip the learners with relevant knowledge, respect for the worth and human dignity of every individual, right attitudes and requisite skills to enable them perform their roles as a credible members of their society'.",
+        "id": "bdf35952-6d9e-4d71-95a6-647d94ff4f7c"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical approach to its primary focus.",
+        "matchingPairs": [
+          {
+            "left": "Teleological Ethics",
+            "right": "Focuses on the consequences or outcomes of an action to determine its moral rightness."
+          },
+          {
+            "left": "Deontological Ethics",
+            "right": "Emphasizes moral duties, rules, and intentions, regardless of the consequences."
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Centers on the character of the moral agent and the cultivation of virtuous dispositions."
+          },
+          {
+            "left": "Meta-ethics",
+            "right": "Examines the meaning of moral terms and the nature of moral judgments."
+          }
+        ],
+        "correctAnswer": [
+          {
+            "left": "Teleological Ethics",
+            "right": "Focuses on the consequences or outcomes of an action to determine its moral rightness."
+          },
+          {
+            "left": "Deontological Ethics",
+            "right": "Emphasizes moral duties, rules, and intentions, regardless of the consequences."
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Centers on the character of the moral agent and the cultivation of virtuous dispositions."
+          },
+          {
+            "left": "Meta-ethics",
+            "right": "Examines the meaning of moral terms and the nature of moral judgments."
+          }
+        ],
+        "explanation": "The study material defines Teleological (consequentialist) as 'the end justifies the means,' Deontological as 'duty-based' where 'the means justifies the end,' Virtue Ethics as 'focused on the virtues, or moral character,' and Meta-ethics as concerned with 'questions about questions like these' (meaning, about the nature of moral inquiry itself).",
+        "id": "c046e025-c4e6-48e0-8410-0a8c46f9287e"
+      },
+      {
+        "type": "mcq",
+        "question": "What is the core difference between Ethical Egoism and Psychological Egoism?",
+        "options": [
+          "A) Ethical egoism describes how people *do* act, while psychological egoism states how people *ought* to act.",
+          "B) Ethical egoism focuses on long-term self-interest, while psychological egoism focuses on immediate gratification.",
+          "C) Ethical egoism states how people *ought* to act, while psychological egoism claims how people *always* act.",
+          "D) Ethical egoism promotes helping others for personal gain, while psychological egoism promotes genuine altruism."
+        ],
+        "correctAnswer": "C",
+        "explanation": "The study material clarifies that Ethical Egoism 'is an ethical theory, a normative theory about how we ought to behave,' while Psychological Egoism asserts 'that each of us is always seeking his own greatest good'.",
+        "id": "ff4d4b2d-9b0f-49b5-942b-3a4d315f4d6b"
+      },
+      {
+        "type": "mcq",
+        "question": "John Stuart Mill refined Jeremy Bentham's utilitarianism primarily by introducing the idea that:",
+        "options": [
+          "A) The quantity of pleasure is the only factor in determining moral worth.",
+          "B) The greatest good for the greatest number should sometimes be sacrificed for individual rights.",
+          "C) The quality of pleasure, differentiating between higher and lower pleasures, is crucial.",
+          "D) Moral actions should be guided by divine commands rather than consequences."
+        ],
+        "correctAnswer": "C",
+        "explanation": "The text states, 'It was to meet these sorts of objections and save utilitarianism from the charge of being a pig philosophy that Bentham’s successor, John Stuart Mill, sought to distinguish happiness from mere sensual pleasure' by emphasizing higher-order pleasures.",
+        "id": "cfdba459-60e7-4599-a8f6-9c6db5e33ad9"
+      },
+      {
+        "type": "mcq",
+        "question": "Kant's Categorical Imperative, specifically the Principle of Humanity, mandates that individuals should:",
+        "options": [
+          "A) Always prioritize the collective good over individual dignity.",
+          "B) Treat humanity, whether in oneself or others, always as an end and never merely as a means.",
+          "C) Act only on maxims that produce the greatest happiness for the greatest number.",
+          "D) Follow universal laws only if they align with one's personal desires and inclinations."
+        ],
+        "correctAnswer": "B",
+        "explanation": "The study material states Kant's second maxim: 'Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end'.",
+        "id": "11445cfc-f354-4360-bb05-da0b8a012ba9"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is NOT one of W.D. Ross's recognized prima facie duties?",
+        "options": [
+          "A) Duties of Fidelity",
+          "B) Duties of Reparation",
+          "C) Duties of Divine Obedience",
+          "D) Duties of Beneficence"
+        ],
+        "correctAnswer": "C",
+        "explanation": "Ross's list of prima facie duties includes Fidelity, Reparation, Gratitude, Justice, Beneficence, Self-improvement, and Non-maleficence. Duties of Divine Obedience relate to the Divine Command Theory, a different ethical framework.",
+        "id": "3bc9b99b-6443-4244-bac1-c6a2a1760087"
+      },
+      {
+        "type": "mcq",
+        "question": "In Aristotle's Virtue Ethics, the \"Doctrine of the Mean\" suggests that a virtue is:",
+        "options": [
+          "A) A fixed, universal rule applicable to all situations regardless of context.",
+          "B) An extreme quality to be pursued without reservation.",
+          "C) A disposition developed through practice, representing a mean between two extremes of excess and defect.",
+          "D) Inherited at birth and does not require active cultivation."
+        ],
+        "correctAnswer": "C",
+        "explanation": "The material states: 'Virtue, arete, or excellence is defined as a mean between two extremes of excess and defect in regard to a feeling or action as the practically wise person would determine it. The mean is relative to the individual and circumstances'.",
+        "id": "bacec790-11ac-4d17-a981-ce8a3dca89f1"
+      },
+      {
+        "type": "mcq",
+        "question": "What is the primary concern of meta-ethics?",
+        "options": [
+          "A) To establish specific moral rules for human conduct.",
+          "B) To analyze the psychological motivations behind moral actions.",
+          "C) To investigate the meaning of moral terms and the nature of moral judgments themselves.",
+          "D) To determine the practical application of ethical theories in real-world dilemmas."
+        ],
+        "correctAnswer": "C",
+        "explanation": "Meta-ethics is described as asking 'questions about questions like these' (normative questions), focusing on 'Meaning: what is the semantic function of moral discourse?' and 'Metaphysics: do moral facts (or properties) exist?'",
+        "id": "82598fc5-89a6-42b3-b0fd-19c998dfb7a3"
+      },
+      {
+        "type": "mcq",
+        "question": "According to the study material, which of the following is NOT a feature that makes an action moral?",
+        "options": [
+          "A) The action is performed by a moral agent capable of free choice.",
+          "B) The action is the result of intention; it was done on purpose with a particular motive.",
+          "C) The action affects only the moral agent, with no significant consequences for others.",
+          "D) The action has a significant consequence on others in respect of harm or benefits it brings about."
+        ],
+        "correctAnswer": "C",
+        "explanation": "The section 'What Makes an Action Moral?' lists three features: involves an agent, involves intention, and affects others. The text notes that while some claim morality governs self-affecting behavior, affecting others in significant ways (harm or benefit) is a core feature.",
+        "id": "75bfbc1f-49a2-4558-b4fc-a48c8edbbc47"
+      }
+    ]
+  },
+  {
+    "id": "84950caa-e159-441b-8284-f48ff8940e0d",
+    "sessionId": "af4998bf-d300-4a97-9b08-2cd84b0f8ff5",
+    "title": "Quiz - hard",
+    "difficulty": "hard",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which of the following best describes the primary focus of prescriptive moral theories as discussed in the chapter?",
+        "options": [
+          "Describing existing moral beliefs without judgment",
+          "Analyzing the historical evolution of ethical concepts",
+          "Investigating and determining what actions and qualities are morally right, wrong, good, or bad",
+          "Examining the psychological underpinnings of moral decision-making"
+        ],
+        "correctAnswer": "Investigating and determining what actions and qualities are morally right, wrong, good, or bad",
+        "explanation": "Prescriptive moral theories are concerned with making claims about what ought to be the case in terms of morality, guiding us on how to act and what to value.",
+        "id": "449bdd57-d474-4589-b8bb-b72d932d0595"
+      },
+      {
+        "type": "true_false",
+        "question": "Teleological (consequentialist) theories focus on the inherent rightness or wrongness of actions, regardless of their outcomes.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Teleological theories, also known as consequentialist theories, judge the morality of an action based on its consequences or outcomes. Deontological theories focus on the inherent rightness or wrongness of actions.",
+        "id": "a9f70f41-6e8c-4f32-8e12-19a3315163f7"
+      },
+      {
+        "type": "mcq",
+        "question": "According to the study material, what are the three primary types of prescriptive moral theories introduced?",
+        "options": [
+          "Ethical Egoism, Utilitarianism, and Kantian Ethics",
+          "Teleological, Deontological, and Virtue-based theories",
+          "Natural Law, Divine Command Theory, and Social Contract Theory",
+          "Descriptive Ethics, Applied Ethics, and Metaethics"
+        ],
+        "correctAnswer": "Teleological, Deontological, and Virtue-based theories",
+        "explanation": "The chapter explicitly lists teleological (consequentialist), deontological (non-consequentialist), and virtue-based theories as the three primary types of prescriptive moral theories discussed.",
+        "id": "c6c4e567-5b3b-443e-bffe-9f0eedd1c103"
+      }
+    ]
+  },
+  {
+    "id": "eee6d23f-e53c-4345-9428-f13a1d007458",
+    "sessionId": "74215d36-a9e5-4421-9c9d-ff7d27585549",
+    "title": "Quiz - easy",
+    "difficulty": "easy",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "What is the fundamental claim of Ethical Egoism?",
+        "options": [
+          "Individuals ought to act in ways that benefit others.",
+          "Individuals ought to act in ways that benefit themselves.",
+          "Individuals ought to act in ways that benefit the greatest number.",
+          "Individuals ought to act in ways that align with moral duties."
+        ],
+        "correctAnswer": "Individuals ought to act in ways that benefit themselves.",
+        "explanation": "Ethical egoism posits that the morally right action is the one that maximizes one's own self-interest and welfare.",
+        "id": "892e9bfa-4f0d-4bf2-b67a-04068d6e39f7"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical theory with its core principle:",
+        "matchingPairs": [
+          {
+            "left": "Utilitarianism",
+            "right": "The greatest happiness for the greatest number."
+          },
+          {
+            "left": "Deontological Ethics",
+            "right": "Morality is based on duty and rules, not consequences."
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Focuses on character and moral virtues."
+          },
+          {
+            "left": "Psychological Egoism",
+            "right": "Humans always act in their own self-interest."
+          }
+        ],
+        "explanation": "Utilitarianism prioritizes overall happiness, deontology emphasizes duties, virtue ethics focuses on character, and psychological egoism claims all actions are self-serving.",
+        "id": "77c374c5-7ed6-4d30-9be1-f44db2954e96"
+      },
+      {
+        "type": "mcq",
+        "question": "According to John Stuart Mill, what is more important than the quantity of pleasure?",
+        "options": [
+          "The duration of pleasure",
+          "The intensity of pleasure",
+          "The quality of pleasure",
+          "The certainty of pleasure"
+        ],
+        "correctAnswer": "The quality of pleasure",
+        "explanation": "Mill distinguished between higher and lower pleasures, arguing that the quality of pleasure, such as intellectual or cultural enjoyment, is more valuable than the mere quantity.",
+        "id": "e8de6e79-9d71-4d28-8c34-4c8cb3b9046c"
+      },
+      {
+        "type": "mcq",
+        "question": "What is the primary focus of Normative Ethics?",
+        "options": [
+          "The meaning of moral concepts.",
+          "The nature of moral judgments.",
+          "How people *should* act morally.",
+          "The historical development of ethical theories."
+        ],
+        "correctAnswer": "How people *should* act morally.",
+        "explanation": "Normative ethics seeks to establish principles and guidelines for how individuals ought to behave in moral situations.",
+        "id": "55e668f0-5b12-49dd-943e-65ff7d75217d"
+      },
+      {
+        "type": "mcq",
+        "question": "Which ethical theory states that the 'end justifies the means'?",
+        "options": [
+          "Deontology",
+          "Virtue Ethics",
+          "Teleological Ethics",
+          "Existentialism"
+        ],
+        "correctAnswer": "Teleological Ethics",
+        "explanation": "Teleological ethics, also known as consequentialism, judges the morality of an action based on its outcomes or consequences.",
+        "id": "369e00f6-340d-4c17-b4f2-a8e86cda353d"
+      },
+      {
+        "type": "matching",
+        "question": "Match the philosopher with their contribution to ethical thought:",
+        "matchingPairs": [
+          {
+            "left": "Jeremy Bentham",
+            "right": "Developed the 'hedonic calculus' to measure pleasure and pain."
+          },
+          {
+            "left": "Immanuel Kant",
+            "right": "Formulated the Categorical Imperative."
+          },
+          {
+            "left": "Aristotle",
+            "right": "Introduced the Doctrine of the Mean."
+          },
+          {
+            "left": "W. D. Ross",
+            "right": "Proposed the concept of Prima Facie Duties."
+          }
+        ],
+        "explanation": "Bentham's hedonic calculus quantified pleasure, Kant's Categorical Imperative provided a universal moral rule, Aristotle focused on virtue as a mean between extremes, and Ross identified several prima facie duties.",
+        "id": "3ed17f6a-bf4a-4fb0-8ddd-7d36033faf3f"
+      },
+      {
+        "type": "mcq",
+        "question": "What is a key criticism of Utilitarianism regarding justice?",
+        "options": [
+          "It overly prioritizes individual rights.",
+          "It may justify immoral actions for the greater good.",
+          "It ignores the consequences of actions.",
+          "It focuses too much on personal duty."
+        ],
+        "correctAnswer": "It may justify immoral actions for the greater good.",
+        "explanation": "Critics argue that utilitarianism's focus on maximizing overall happiness could lead to unjust outcomes, such as sacrificing an innocent person to save many.",
+        "id": "5d827845-4d42-4c50-9cc7-e855fdca0990"
+      },
+      {
+        "type": "mcq",
+        "question": "According to Kant's Principle of Humanity, how should people be treated?",
+        "options": [
+          "As a means to achieve one's own goals.",
+          "As a means to achieve the greatest good for the greatest number.",
+          "As an end in themselves, never merely as a means.",
+          "As determined by societal norms and traditions."
+        ],
+        "correctAnswer": "As an end in themselves, never merely as a means.",
+        "explanation": "Kant's Principle of Humanity emphasizes respecting the inherent dignity and autonomy of individuals, treating them as ends in themselves rather than as mere instruments.",
+        "id": "b273dc4c-1ed9-477d-93b5-a20ef25ce6b2"
+      },
+      {
+        "type": "mcq",
+        "question": "What does 'Jus Soli' refer to in the context of acquiring citizenship?",
+        "options": [
+          "Citizenship acquired through descent from parents.",
+          "Citizenship acquired through naturalization.",
+          "Citizenship based on the territory of birth.",
+          "Citizenship acquired through marriage."
+        ],
+        "correctAnswer": "Citizenship based on the territory of birth.",
+        "explanation": "Jus Soli, or 'right of the soil,' grants citizenship to individuals based on where they are born.",
+        "id": "2ae7b714-092f-442a-b425-c09f5de1428c"
+      },
+      {
+        "type": "matching",
+        "question": "Match the type of democracy with its characteristic:",
+        "matchingPairs": [
+          {
+            "left": "Direct Democracy",
+            "right": "Citizens participate directly in decision-making."
+          },
+          {
+            "left": "Indirect Democracy",
+            "right": "Citizens elect representatives to make decisions."
+          },
+          {
+            "left": "Procedural Democracy",
+            "right": "Focuses on fair elections and processes."
+          },
+          {
+            "left": "Substantive Democracy",
+            "right": "Focuses on the protection of fundamental rights and freedoms."
+          }
+        ],
+        "explanation": "Direct democracy involves direct citizen participation, indirect democracy uses elected representatives, procedural democracy emphasizes fair processes, and substantive democracy focuses on protecting rights.",
+        "id": "58b09ec4-20d7-45d8-b64b-b494ec3d870c"
+      }
+    ]
+  },
+  {
+    "id": "e89a646b-c9a6-44eb-92ee-f51b6ce6f786",
+    "sessionId": "74215d36-a9e5-4421-9c9d-ff7d27585549",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which ethical theory states that people ought to act in their own self-interest?",
+        "options": [
+          "Utilitarianism",
+          "Deontology",
+          "Ethical Egoism",
+          "Virtue Ethics"
+        ],
+        "correctAnswer": "Ethical Egoism",
+        "explanation": "Ethical egoism is the normative ethical theory that individuals ought to act in their own self-interest.",
+        "id": "bd9bb2fa-5747-4b8a-b4d4-eeff9e99323c"
+      },
+      {
+        "type": "true_false",
+        "question": "Psychological egoism claims that humans are incapable of acting in their own self-interest.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Psychological egoism claims that humans *always* act in their own self-interest, not that they are incapable of it.",
+        "id": "89d40716-b0f9-408c-b284-8fa040dd6d52"
+      },
+      {
+        "type": "fill_blank",
+        "question": "According to utilitarianism, the best action produces the greatest ______ for the greatest number.",
+        "options": [],
+        "correctAnswer": "happiness",
+        "explanation": "Utilitarianism's core principle is to maximize happiness for the greatest number of people.",
+        "id": "a83f42e2-bf3a-49e1-a9cf-67a9235157df"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the primary focus of deontological ethics?",
+        "options": [],
+        "correctAnswer": "Duty and moral rules",
+        "explanation": "Deontological ethics focuses on duties and moral rules as the basis for moral action, rather than consequences.",
+        "id": "16c3a8e3-48ca-47ca-85d6-e39811fe77dc"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical concepts with their definitions:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Ethical Egoism",
+            "right": "Advocates acting in one's own self-interest."
+          },
+          {
+            "left": "Utilitarianism",
+            "right": "Maximizes happiness for the greatest number."
+          },
+          {
+            "left": "Deontology",
+            "right": "Focuses on duties and moral rules."
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Focuses on character and moral virtues."
+          }
+        ],
+        "explanation": "These definitions highlight the core tenets of each ethical theory discussed.",
+        "id": "a2cf9159-65b3-4b94-a9bd-b86680572a36"
+      },
+      {
+        "type": "mcq",
+        "question": "Jeremy Bentham's utilitarianism emphasized the ______ of pleasure over its quality.",
+        "options": [
+          "quality",
+          "quantity",
+          "immediacy",
+          "duration"
+        ],
+        "correctAnswer": "quantity",
+        "explanation": "Bentham's approach to utilitarianism focused on measuring pleasure and pain based on factors like intensity and duration, prioritizing quantity.",
+        "id": "9de09e79-48d0-4942-8991-3964105528eb"
+      },
+      {
+        "type": "mcq",
+        "question": "John Stuart Mill distinguished between higher and lower pleasures, arguing that:",
+        "options": [
+          "Lower pleasures are more valuable.",
+          "Quality of pleasure matters more than quantity.",
+          "Quantity of pleasure is the only factor.",
+          "Pleasure is inherently evil."
+        ],
+        "correctAnswer": "Quality of pleasure matters more than quantity.",
+        "explanation": "Mill believed that intellectual and cultural pleasures (higher pleasures) were more valuable than purely sensory ones (lower pleasures).",
+        "id": "387d4dac-42cb-48ba-bf50-39c71e9dfa51"
+      },
+      {
+        "type": "true_false",
+        "question": "Act utilitarianism evaluates each situation individually to determine the right action.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "Act utilitarianism judges the morality of an action based on the specific consequences of that act in a particular situation.",
+        "id": "06db413b-0618-42eb-afb7-cf3c1e431824"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Rule utilitarianism an action is right if it follows rules that promote the greatest ______ for society.",
+        "options": [],
+        "correctAnswer": "good",
+        "explanation": "Rule utilitarianism focuses on following rules that, when generally adopted, lead to the greatest good for society.",
+        "id": "e80cf053-b597-48d0-a26f-821fd5708a7c"
+      },
+      {
+        "type": "short_answer",
+        "question": "What are the main criticisms of utilitarianism regarding justice?",
+        "options": [],
+        "correctAnswer": "It may justify immoral actions for the greater good, potentially violating justice and human rights.",
+        "explanation": "Critics argue that utilitarianism's focus on maximizing overall happiness can lead to justifying actions that are unjust or violate individual rights, like punishing an innocent person.",
+        "id": "aad95920-1c09-4cae-bfca-559db862f02d"
+      },
+      {
+        "type": "mcq",
+        "question": "According to Kant's Categorical Imperative, one should act only according to rules that:",
+        "options": [
+          "Maximize personal happiness",
+          "Are dictated by divine command",
+          "Could become universal laws without contradiction",
+          "Are based on tradition"
+        ],
+        "correctAnswer": "Could become universal laws without contradiction",
+        "explanation": "The Categorical Imperative's first formulation requires that a maxim be universalizable, meaning it could be a law for everyone without logical contradiction.",
+        "id": "81da5d6f-e0d4-43ac-ab4e-f30d1cc574ee"
+      },
+      {
+        "type": "matching",
+        "question": "Match the prima facie duties proposed by W.D. Ross with their descriptions:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Fidelity",
+            "right": "The duty to keep promises."
+          },
+          {
+            "left": "Reparation",
+            "right": "The duty to make up for past wrongs."
+          },
+          {
+            "left": "Gratitude",
+            "right": "The duty to thank those who help us."
+          },
+          {
+            "left": "Justice",
+            "right": "The duty to distribute benefits and burdens fairly."
+          }
+        ],
+        "explanation": "These pairs represent the core prima facie duties identified by W.D. Ross.",
+        "id": "8bfbf996-143c-4d6e-991d-6fc4f7a9afc0"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Virtue ethics focuses on cultivating a good ______ rather than specific actions or consequences.",
+        "options": [],
+        "correctAnswer": "character",
+        "explanation": "Virtue ethics is concerned with the development of moral character and virtues.",
+        "id": "e5aab541-b3f3-4651-a1f7-91f7f02e43e1"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the main difference between normative ethics and meta-ethics?",
+        "options": [],
+        "correctAnswer": "Normative ethics asks what we should do, while meta-ethics asks about the meaning and nature of moral judgments.",
+        "explanation": "Normative ethics deals with moral standards and how we ought to act, while meta-ethics examines the meaning of moral terms and the nature of moral claims.",
+        "id": "89760b31-782d-4006-9c87-2d71cc60804b"
+      },
+      {
+        "type": "true_false",
+        "question": "According to Aristotle's doctrine of the mean, virtue is always a strict numerical average between two extremes.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Aristotle's doctrine of the mean states that virtue is a balance relative to the individual and circumstances, not a fixed numerical average.",
+        "id": "8e35f5b5-4679-4185-b031-6dcac775465a"
+      }
+    ]
+  },
+  {
+    "id": "3a4965fc-80ee-426d-b094-d3502f137763",
+    "sessionId": "74215d36-a9e5-4421-9c9d-ff7d27585549",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "According to Ethical Egoism, when is helping others acceptable?",
+        "options": [
+          "Always, as it is the morally right thing to do.",
+          "Only when it benefits oneself.",
+          "When it is a direct command from a divine authority.",
+          "When it maximizes happiness for the greatest number."
+        ],
+        "correctAnswer": "Only when it benefits oneself.",
+        "explanation": "Ethical Egoism posits that individuals should act in their own self-interest, meaning actions are only considered morally acceptable if they yield a personal benefit, even if that action involves helping others.",
+        "id": "7ee228a1-2e30-470a-ab6b-15e5899ca3ca"
+      },
+      {
+        "type": "true_false",
+        "question": "Psychological Egoism claims that humans inherently act selfishly.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "Psychological Egoism is the theory that all human actions are ultimately motivated by self-interest or personal gain, suggesting an inherent human tendency towards selfishness.",
+        "id": "e8d705aa-99fa-44a3-95f2-1f9433602100"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The principle of ____ states that the morally right action produces the best overall consequences.",
+        "options": [
+          "Deontological Ethics",
+          "Categorical Imperative",
+          "Utility",
+          "Virtue Ethics"
+        ],
+        "correctAnswer": "Utility",
+        "explanation": "The Principle of Utility, central to Utilitarianism, asserts that the morally right action is the one that yields the best overall consequences, focusing on utility or welfare.",
+        "id": "891629ca-0350-4299-808c-ae7e4bd2f3ef"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the main distinction between Jeremy Bentham's and John Stuart Mill's utilitarianism?",
+        "options": [],
+        "correctAnswer": "Bentham focused on the quantity of pleasure, while Mill emphasized the quality of pleasure.",
+        "explanation": "Bentham believed that the morality of an action depended on the amount of pleasure it produced, while Mill argued that the quality of pleasure (higher vs. lower pleasures) was more important.",
+        "id": "31e0466d-0554-4847-98b3-702ca4a2390b"
+      },
+      {
+        "type": "mcq",
+        "question": "Which ethical theory focuses on duty and moral rules, rather than consequences?",
+        "options": [
+          "Utilitarianism",
+          "Ethical Egoism",
+          "Deontological Ethics",
+          "Virtue Ethics"
+        ],
+        "correctAnswer": "Deontological Ethics",
+        "explanation": "Deontological Ethics, also known as duty-based ethics, asserts that the morality of an action is determined by adherence to rules and duties, irrespective of the outcomes.",
+        "id": "2a5b04bb-0a94-48ca-8791-c30c872644c2"
+      },
+      {
+        "type": "true_false",
+        "question": "Kant's Categorical Imperative suggests that moral rules should be tested by considering if they could become universal laws.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "Kant's Categorical Imperative is a moral principle that requires individuals to act only according to maxims that they could rationally will to become universal laws, testing the universality and consistency of moral rules.",
+        "id": "0da119cf-eeb7-4bb8-a300-eea27d7d10c6"
+      },
+      {
+        "type": "fill_blank",
+        "question": "According to W.D. Ross, ____ duties are moral guidelines that are binding unless overridden by other moral considerations.",
+        "options": [
+          "Perfect",
+          "Imperfect",
+          "Prima Facie",
+          "Absolute"
+        ],
+        "correctAnswer": "Prima Facie",
+        "explanation": "W.D. Ross introduced the concept of 'prima facie' duties, which are initial moral obligations that are binding 'at first sight' but can be overridden by stronger moral duties in specific situations.",
+        "id": "93cc40df-eed7-42a1-8db2-1bfcc46303b5"
+      },
+      {
+        "type": "matching",
+        "question": "Match the following ethical concepts with their descriptions:",
+        "options": [],
+        "matchingPairs": [
+          {
+            "left": "Virtue Ethics",
+            "right": "Focuses on character and moral virtues."
+          },
+          {
+            "left": "Teleological Ethics",
+            "right": "Judges actions by their consequences."
+          },
+          {
+            "left": "Deontological Ethics",
+            "right": "Judges actions based on duty and rules."
+          },
+          {
+            "left": "Meta-ethics",
+            "right": "Studies the meaning and nature of moral judgments."
+          }
+        ],
+        "explanation": "These definitions align with the core tenets of each ethical approach discussed in the study material.",
+        "id": "093b8f80-9e97-4cc9-a82d-af34ba11aa61"
+      },
+      {
+        "type": "short_answer",
+        "question": "What are the four essential features of a state according to the Montevideo Convention?",
+        "options": [],
+        "correctAnswer": "A defined territory, a permanent population, an effective government, and sovereignty.",
+        "explanation": "The Montevideo Convention outlines these four criteria as essential for a political unit to be recognized as a state in international law.",
+        "id": "fcff0293-1dbd-47f7-8100-f0fc1f44df1a"
+      },
+      {
+        "type": "mcq",
+        "question": "Which theory of the state views it as a neutral 'umpire' or 'referee' in society?",
+        "options": [
+          "Capitalist State Theory",
+          "Leviathan State Theory",
+          "Patriarchal State Theory",
+          "Pluralist State Theory"
+        ],
+        "correctAnswer": "Pluralist State Theory",
+        "explanation": "Pluralist State Theory, rooted in liberal thought, posits that the state acts as an impartial arbiter, balancing the interests of various groups within society.",
+        "id": "dffc0ffd-2da2-461b-aa09-dc06e720274a"
+      },
+      {
+        "type": "true_false",
+        "question": "The Marxist notion of a capitalist state suggests that the state is primarily an instrument of class oppression.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "Marxist theory generally views the state in a capitalist society as an apparatus that serves the interests of the dominant bourgeoisie, functioning as an instrument of class oppression.",
+        "id": "19f74ac8-cd77-42f6-b594-16dcdbbdc75d"
+      },
+      {
+        "type": "fill_blank",
+        "question": "____ states intervene in economic life with the specific purpose of promoting industrial growth and economic development.",
+        "options": [
+          "Minimal",
+          "Developmental",
+          "Social-democratic",
+          "Totalitarian"
+        ],
+        "correctAnswer": "Developmental",
+        "explanation": "Developmental states actively engage in economic policy and intervention to foster industrial growth and economic advancement, often in partnership with private enterprise.",
+        "id": "6a241b30-92d3-4160-8a54-0c38cdcd7a77"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the core idea of the 'minimal state'?",
+        "options": [],
+        "correctAnswer": "The minimal state's role is limited to providing a framework of peace and order, protecting individuals' rights and liberties, and enforcing contracts.",
+        "explanation": "The minimal state, or 'night-watchman state,' advocates for the most limited government intervention possible, focusing solely on core functions like maintaining order and protecting rights.",
+        "id": "0b716bc2-87b7-4159-ba66-4336560e6830"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is NOT a core value central to the discussion of democracy?",
+        "options": [
+          "Liberty",
+          "Justice",
+          "Equality",
+          "Autonomy"
+        ],
+        "correctAnswer": "Autonomy",
+        "explanation": "While autonomy is a concept discussed in various ethical theories, Liberty, Justice, and Equality are identified as the three core values central to the discussion of democracy.",
+        "id": "3b57a2d5-04ee-49f1-94bc-f58dfad33069"
+      },
+      {
+        "type": "matching",
+        "question": "Match the following concepts related to democracy with their descriptions:",
+        "options": [],
+        "matchingPairs": [
+          {
+            "left": "Popular Sovereignty",
+            "right": "Ultimate political authority resides with the people."
+          },
+          {
+            "left": "Constitutional Supremacy",
+            "right": "The constitution is the highest law of the land."
+          },
+          {
+            "left": "Rule of Law",
+            "right": "Government and citizens are governed by and obey the law."
+          },
+          {
+            "left": "Separation of Powers",
+            "right": "Government powers are divided among different branches."
+          }
+        ],
+        "explanation": "These descriptions accurately reflect the fundamental principles of democracy as outlined in the study material.",
+        "id": "522611a1-7425-42c9-ae99-7cbbace33877"
+      }
+    ]
+  },
+  {
+    "id": "5517431e-03b0-498e-9b07-8108ba635fc0",
+    "sessionId": "74215d36-a9e5-4421-9c9d-ff7d27585549",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which ethical theory states that people ought to act in their own self-interest?",
+        "options": [
+          "Utilitarianism",
+          "Deontological Ethics",
+          "Ethical Egoism",
+          "Virtue Ethics"
+        ],
+        "correctAnswer": "Ethical Egoism",
+        "explanation": "Ethical egoism posits that morality is based on self-interest; individuals should prioritize their own welfare.",
+        "id": "cc1eb8b1-1e14-443d-aae7-a0daf72de214"
+      },
+      {
+        "type": "true_false",
+        "question": "Psychological egoism claims that humans always act in their own self-interest, even when performing seemingly altruistic acts.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "Psychological egoism asserts that all actions are fundamentally motivated by personal gain or satisfaction, including actions that appear to benefit others.",
+        "id": "f39cca2e-05cf-4797-b265-f12dc1fba4c1"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Utilitarianism states that the best action produces the greatest ______ for the greatest number.",
+        "options": [],
+        "correctAnswer": "happiness",
+        "explanation": "Utilitarianism's core principle is to maximize overall happiness and minimize suffering for the greatest number of people.",
+        "id": "0e4e21f8-cf3f-4ca8-a350-d1095f62b3ce"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the primary focus of deontological ethics?",
+        "options": [],
+        "correctAnswer": "Duty and moral rules",
+        "explanation": "Deontological ethics emphasizes that the rightness or wrongness of actions is determined by adherence to moral duties and rules, rather than by their consequences.",
+        "id": "fc1d2f7f-ad34-44b1-b4a6-1cc8e6bfdc9c"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical concept with its definition:",
+        "matchingPairs": [
+          {
+            "left": "Jeremy Bentham's Utilitarianism",
+            "right": "Emphasized the quantity of pleasure, using the hedonic calculus."
+          },
+          {
+            "left": "John Stuart Mill's Utilitarianism",
+            "right": "Argued that the quality of pleasure is more important than the quantity."
+          },
+          {
+            "left": "Act Utilitarianism",
+            "right": "Evaluates each situation individually to maximize utility."
+          },
+          {
+            "left": "Rule Utilitarianism",
+            "right": "Follows rules that are believed to promote the greatest good for society."
+          }
+        ],
+        "correctAnswer": "Jeremy Bentham's Utilitarianism:Emphasized the quantity of pleasure, using the hedonic calculus.,John Stuart Mill's Utilitarianism:Argued that the quality of pleasure is more important than the quantity.,Act Utilitarianism:Evaluates each situation individually to maximize utility.,Rule Utilitarianism:Follows rules that are believed to promote the greatest good for society.",
+        "explanation": "These descriptions accurately reflect the core tenets of each utilitarian approach and its proponents.",
+        "id": "71aeb528-f32f-466f-bfea-73c6525ab81b"
+      },
+      {
+        "type": "mcq",
+        "question": "According to Kant's Categorical Imperative, a moral maxim should be one that could become a universal law without:",
+        "options": [
+          "Causing personal inconvenience",
+          "Violating religious beliefs",
+          "Creating a logical contradiction",
+          "Encountering political opposition"
+        ],
+        "correctAnswer": "Creating a logical contradiction",
+        "explanation": "Kant's Categorical Imperative requires that the maxim behind an action should be universalizable, meaning it could be applied to everyone without logical inconsistency.",
+        "id": "41261802-a072-42ad-b9de-1c6d6ffd783c"
+      },
+      {
+        "type": "mcq",
+        "question": "What is the primary concern of Virtue Ethics?",
+        "options": [
+          "Consequences of actions",
+          "Adherence to moral rules",
+          "The character of the moral agent",
+          "Divine commands"
+        ],
+        "correctAnswer": "The character of the moral agent",
+        "explanation": "Virtue ethics focuses on cultivating good character traits (virtues) in individuals rather than solely on the rightness of specific actions or their outcomes.",
+        "id": "d425cb28-4b2c-45a5-8c6a-deac350797fd"
+      },
+      {
+        "type": "true_false",
+        "question": "Meta-ethics is concerned with determining what actions are right or wrong.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Meta-ethics is concerned with the meaning of moral concepts and the nature of moral judgments, rather than prescribing specific moral actions.",
+        "id": "73771e47-777c-4998-8f5c-8b1919ea7a50"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The Divine Command Theory posits that morality originates from ______.",
+        "options": [],
+        "correctAnswer": "God's commands",
+        "explanation": "The Divine Command Theory holds that moral rules are derived from the commands of a divine being.",
+        "id": "f5b9db95-640d-4452-95ce-78abf3702f66"
+      },
+      {
+        "type": "short_answer",
+        "question": "What are the three core values central to democracy mentioned in the material?",
+        "options": [],
+        "correctAnswer": "Liberty/Freedom, Justice, and Equality",
+        "explanation": "These three values are considered foundational principles that underpin democratic systems.",
+        "id": "ef577750-db6d-4978-8f5b-49bf8c9288dc"
+      },
+      {
+        "type": "mcq",
+        "question": "In the context of ethical decision-making, which approach emphasizes fairness and treating equals equally?",
+        "options": [
+          "The Rights Approach",
+          "The Common Good Approach",
+          "The Fairness and Justice Approach",
+          "The Virtue Approach"
+        ],
+        "correctAnswer": "The Fairness and Justice Approach",
+        "explanation": "The Fairness and Justice Approach, rooted in Aristotle's teachings, focuses on equitable treatment and absence of favoritism or discrimination.",
+        "id": "b9ee4872-80b9-4437-8ad5-02efa87370d3"
+      },
+      {
+        "type": "true_false",
+        "question": "Jus Soli refers to acquiring citizenship based on the citizenship of one's parents.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Jus Soli (right of the soil) grants citizenship based on birth within a country's territory, while Jus Sanguinis (right of blood) is based on parental citizenship.",
+        "id": "7a092f9e-e07a-4ead-bcbe-4e46a12a6e6e"
+      },
+      {
+        "type": "fill_blank",
+        "question": "______ is the condition of being a citizen of two nations simultaneously.",
+        "options": [],
+        "correctAnswer": "Dual citizenship",
+        "explanation": "Dual citizenship refers to the status of being a legal citizen of more than one country at the same time.",
+        "id": "b006d36f-fe35-4458-aa95-e20f47a897c1"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the main difference between a written and an unwritten constitution regarding their structure?",
+        "options": [],
+        "correctAnswer": "A written constitution is embodied in a single formal document, while an unwritten constitution consists of customs, conventions, and some written laws not in a single document.",
+        "explanation": "Written constitutions are codified in a formal document, whereas unwritten constitutions derive their principles from various sources like conventions and judicial decisions.",
+        "id": "f9c35293-8048-4d90-9b72-2de126476ebc"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is considered a non-derogable human right according to the provided text?",
+        "options": [
+          "Freedom of movement",
+          "Right to education",
+          "Freedom from torture",
+          "Right to work"
+        ],
+        "correctAnswer": "Freedom from torture",
+        "explanation": "The material lists freedom from torture as a non-derogable right, meaning it cannot be suspended even during emergencies.",
+        "id": "131a80dd-0adc-4ec0-82b6-5d397e9aa4b4"
+      }
+    ]
+  },
+  {
+    "id": "4acb2a4b-a042-4b44-a031-81e63c3e6506",
+    "sessionId": "74215d36-a9e5-4421-9c9d-ff7d27585549",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which of the following best describes ethical egoism?",
+        "options": [
+          "Individuals ought to act in their own self-interest.",
+          "Individuals ought to act in the interest of the greatest number.",
+          "Individuals ought to act based on duty, regardless of consequences.",
+          "Individuals ought to act to maximize personal pleasure."
+        ],
+        "correctAnswer": "Individuals ought to act in their own self-interest.",
+        "explanation": "Ethical egoism is a normative ethical theory that states that individuals ought to act in their own self-interest.",
+        "id": "437c64e0-96b6-49cc-a43d-3ee826c5357d"
+      },
+      {
+        "type": "true_false",
+        "question": "Psychological egoism claims that humans are inherently motivated by self-interest in all actions.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "Psychological egoism posits that all human actions are ultimately motivated by self-interest, even seemingly altruistic ones.",
+        "id": "d6c22b95-73da-4d2b-9e14-ce48d3c99feb"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Utilitarianism states that the best action produces the greatest __________ for the greatest number.",
+        "options": [],
+        "correctAnswer": "happiness",
+        "explanation": "The core principle of utilitarianism is to maximize happiness and minimize suffering for the greatest number of people.",
+        "id": "9b6f5a93-af04-44a1-8689-40444121e300"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the main difference between Act Utilitarianism and Rule Utilitarianism?",
+        "options": [],
+        "correctAnswer": "Act Utilitarianism judges each action individually based on its consequences, while Rule Utilitarianism judges actions based on whether they follow rules that generally maximize utility.",
+        "explanation": "Act utilitarianism focuses on the consequences of individual acts, whereas rule utilitarianism focuses on the consequences of following general rules.",
+        "id": "a0879035-9417-409e-8a37-7c73f8db299f"
+      },
+      {
+        "type": "matching",
+        "question": "Match the following ethical theories with their core principles:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Ethical Egoism",
+            "right": "Maximizes personal good"
+          },
+          {
+            "left": "Utilitarianism",
+            "right": "Maximizes society's overall good"
+          },
+          {
+            "left": "Deontological Ethics",
+            "right": "Focuses on duty and moral rules"
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Focuses on character and moral virtues"
+          }
+        ],
+        "explanation": "These pairings represent the central tenets of each ethical theory.",
+        "id": "a6f1ff4f-eb00-4f0d-810e-895257c778ad"
+      },
+      {
+        "type": "mcq",
+        "question": "According to Jeremy Bentham's utilitarianism, pleasure and pain are measured using a method called:",
+        "options": [
+          "The Principle of Utility",
+          "The Hedonic Calculus",
+          "The Categorical Imperative",
+          "The Doctrine of the Mean"
+        ],
+        "correctAnswer": "The Hedonic Calculus",
+        "explanation": "Bentham proposed the hedonic calculus as a way to quantify the intensity, duration, certainty, and other aspects of pleasure and pain.",
+        "id": "bf0d51d4-0aa0-411f-a3e2-c95f7ac87573"
+      },
+      {
+        "type": "mcq",
+        "question": "John Stuart Mill distinguished between higher and lower pleasures, arguing that:",
+        "options": [
+          "Quantity of pleasure is more important than quality.",
+          "Lower pleasures are more valuable for long-term happiness.",
+          "Quality of pleasure matters more than quantity.",
+          "All pleasures are equal in moral value."
+        ],
+        "correctAnswer": "Quality of pleasure matters more than quantity.",
+        "explanation": "Mill believed that intellectual and moral pleasures (higher pleasures) were qualitatively superior to mere physical pleasures (lower pleasures).",
+        "id": "33198e0d-0982-42b7-910b-8fd6f338f1df"
+      },
+      {
+        "type": "true_false",
+        "question": "Deontological ethics emphasizes the consequences of an action to determine its morality.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Deontological ethics, in contrast to teleological ethics, focuses on duties, rules, and intentions rather than the consequences of actions.",
+        "id": "d26ab7bf-e961-4886-a04f-52c54bd8c2a5"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Immanuel Kant's foundational ethical principle is known as the “__________ Imperative”.",
+        "options": [],
+        "correctAnswer": "Categorical",
+        "explanation": "Kant's categorical imperative is a moral command that is unconditional and applies universally.",
+        "id": "1a7120ab-5db8-4af7-8ed3-df7a818855f0"
+      },
+      {
+        "type": "short_answer",
+        "question": "Explain Kant's principle of humanity as an end in itself.",
+        "options": [],
+        "correctAnswer": "It means treating people with dignity and respect, recognizing their inherent worth, and never using them merely as a means to achieve one's own goals.",
+        "explanation": "This principle emphasizes respecting the autonomy and inherent value of all rational beings, forbidding their use as mere instruments.",
+        "id": "0420c008-1aa7-4ded-b07a-9d3d89a35e9e"
+      },
+      {
+        "type": "mcq",
+        "question": "W.D. Ross proposed the concept of ____ duties, which are moral obligations that are binding unless overridden by stronger duties.",
+        "options": [
+          "Absolute",
+          "Prima Facie",
+          "Conditional",
+          "Supererogatory"
+        ],
+        "correctAnswer": "Prima Facie",
+        "explanation": "Prima facie duties are duties that are binding at first glance, but can be overridden by more pressing moral considerations in specific circumstances.",
+        "id": "3a4454b3-d67c-4116-a02e-86b7a3fe8055"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Virtue ethics, as explored by Aristotle, defines virtue as a ____ between two extremes of excess and defect.",
+        "options": [],
+        "correctAnswer": "mean",
+        "explanation": "Aristotle's Doctrine of the Mean suggests that virtue lies in finding a balance between extremes of behavior.",
+        "id": "439c058d-d8ac-44a1-bc98-b50887a0bcef"
+      },
+      {
+        "type": "mcq",
+        "question": "Meta-ethics is concerned with:",
+        "options": [
+          "How people ought to act.",
+          "The meaning of moral terms and the nature of moral judgments.",
+          "Applying ethical theories to real-world dilemmas.",
+          "The consequences of actions."
+        ],
+        "correctAnswer": "The meaning of moral terms and the nature of moral judgments.",
+        "explanation": "Meta-ethics delves into the philosophical underpinnings of morality, exploring the meaning of ethical language and the nature of moral judgments.",
+        "id": "756e43f9-3129-4716-a498-c8d4c652d898"
+      },
+      {
+        "type": "true_false",
+        "question": "Cognitivism in ethics suggests that moral statements express emotions or attitudes and are not truth-apt.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Cognitivism holds that moral statements express beliefs and can be true or false. Non-cognitivism, on the other hand, argues that moral statements express emotions or attitudes.",
+        "id": "aa410034-d706-4266-80d0-4a8ba30c34df"
+      },
+      {
+        "type": "matching",
+        "question": "Match the following ethical approaches to decision-making with their primary focus:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Fairness and Justice Approach",
+            "right": "Treating equals equally and unequals unequally"
+          },
+          {
+            "left": "Common Good Approach",
+            "right": "Contributing to the welfare of the entire community"
+          },
+          {
+            "left": "Rights Approach",
+            "right": "Respecting the fundamental entitlements of individuals"
+          },
+          {
+            "left": "Virtue Approach",
+            "right": "Developing good character traits"
+          }
+        ],
+        "explanation": "These pairings align the core focus of each ethical approach to decision-making with its central idea.",
+        "id": "008fbf96-874d-4d1f-a82d-58dd46886e06"
+      }
+    ]
+  },
+  {
+    "id": "44968671-6f03-4ad5-b094-65101736ed35",
+    "sessionId": "74215d36-a9e5-4421-9c9d-ff7d27585549",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which ethical theory states that people ought to act in their own self-interest?",
+        "options": [
+          "Psychological Egoism",
+          "Ethical Egoism",
+          "Utilitarianism",
+          "Deontology"
+        ],
+        "correctAnswer": "Ethical Egoism",
+        "explanation": "Ethical egoism is the normative ethical theory that individuals ought to act in their own self-interest.",
+        "id": "7742fa66-577a-40b0-9c65-2cf2f0faf7e7"
+      },
+      {
+        "type": "true_false",
+        "question": "Psychological egoism claims that humans sometimes act against their own self-interest.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Psychological egoism claims that humans always act in their own self-interest, as all actions are motivated by personal gain or satisfaction.",
+        "id": "2a95e95b-2682-4ef6-886c-ec08370298bf"
+      },
+      {
+        "type": "fill_blank",
+        "question": "According to Utilitarianism, the best action is the one that produces the greatest __________ for the greatest number.",
+        "options": [],
+        "correctAnswer": "happiness",
+        "explanation": "Utilitarianism's core principle is to maximize overall happiness and minimize suffering, aiming for the greatest good for the greatest number.",
+        "id": "e55344ad-df1e-4aa0-adc9-d59a9cf98cb1"
+      },
+      {
+        "type": "short_answer",
+        "question": "What did Jeremy Bentham propose as a method to measure happiness?",
+        "options": [],
+        "correctAnswer": "The Hedonic Calculus",
+        "explanation": "Jeremy Bentham developed the Hedonic Calculus as a method to measure pleasure and pain based on seven aspects: intensity, duration, certainty, nearness, fruitfulness, purity, and extent.",
+        "id": "b109a038-d897-48c2-a593-da6ffe808b3e"
+      },
+      {
+        "type": "matching",
+        "question": "Match the following ethical concepts with their descriptions:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Deontological Ethics",
+            "right": "Focuses on duty and moral rules, where the rightness of actions depends on adherence to principles, not consequences."
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Focuses on character and moral virtues, asking 'What kind of person should I be?'"
+          },
+          {
+            "left": "Teleological Ethics",
+            "right": "Judges actions by their consequences, often summarized by 'the end justifies the means'."
+          },
+          {
+            "left": "Meta-Ethics",
+            "right": "Studies the meaning of moral concepts and the nature of moral judgments."
+          }
+        ],
+        "explanation": "Deontology emphasizes duty, virtue ethics focuses on character, teleological ethics judges by outcomes, and meta-ethics analyzes the meaning of morality.",
+        "id": "e89b08ca-e7c5-43d2-955a-7560ef938a69"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is NOT one of John Stuart Mill's higher pleasures?",
+        "options": [
+          "Knowledge",
+          "Friendship",
+          "Physical comfort",
+          "Intellectual growth"
+        ],
+        "correctAnswer": "Physical comfort",
+        "explanation": "John Stuart Mill distinguished between higher pleasures (intellectual, cultural) and lower pleasures (physical or sensory). Physical comfort falls into the category of lower pleasures.",
+        "id": "d9f29962-21fa-47e8-a364-2f22956c9107"
+      },
+      {
+        "type": "true_false",
+        "question": "Rule Utilitarianism suggests that an action is right if it follows rules that promote the greatest good for society.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "Rule utilitarianism evaluates actions based on whether they adhere to rules that, when generally followed, produce the greatest good for society.",
+        "id": "4d91d6be-b122-4fd9-b809-9842f98f6e05"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Deontological ethics, often associated with Immanuel Kant, emphasizes acting according to rules that could become __________ laws.",
+        "options": [],
+        "correctAnswer": "universal",
+        "explanation": "Kant's categorical imperative is a principle of duty that states one should act only according to maxims that could become universal laws without contradiction.",
+        "id": "ebbfcc22-f17f-4209-a504-a8d55f71caa8"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the main criticism leveled against utilitarianism regarding justice?",
+        "options": [],
+        "correctAnswer": "It may justify immoral actions or violate justice for the greater good.",
+        "explanation": "Critics argue that utilitarianism, in its pursuit of maximizing overall happiness, might justify actions that are unjust or violate individual rights, such as punishing an innocent person.",
+        "id": "9c314c4f-b18a-400b-9440-7d8b1ea90778"
+      },
+      {
+        "type": "mcq",
+        "question": "According to Aristotle's Virtue Ethics, virtue is found in:",
+        "options": [
+          "Adhering strictly to moral rules",
+          "Maximizing happiness for the greatest number",
+          "The mean between two extremes of excess and defect",
+          "Obeying divine commands"
+        ],
+        "correctAnswer": "The mean between two extremes of excess and defect",
+        "explanation": "Aristotle's doctrine of the mean suggests that virtue is the balance between two extremes, one of excess and one of deficiency.",
+        "id": "b2148425-b34d-4b56-99f7-500c14c280f2"
+      },
+      {
+        "type": "true_false",
+        "question": "The Divine Command Theory states that moral rules originate from human reason.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "The Divine Command Theory posits that moral rules are derived from God's commands, not solely from human reason.",
+        "id": "15ed2ff3-bdac-46c8-8c2a-04b549ce18dd"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Rights theory, as proposed by John Locke, identifies natural rights to life, liberty, and __________.",
+        "options": [],
+        "correctAnswer": "property",
+        "explanation": "John Locke identified life, liberty, and property as fundamental natural rights inherent to all individuals.",
+        "id": "3ed64485-6205-4e3a-a19f-672b8245d4a7"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the core idea behind Kant's Principle of Humanity formulation of the Categorical Imperative?",
+        "options": [],
+        "correctAnswer": "Treat humanity always as an end, never merely as a means.",
+        "explanation": "This formulation emphasizes respecting the inherent dignity and autonomy of individuals, preventing them from being used solely as instruments for another's goals.",
+        "id": "dfa8867d-5b45-4589-ba17-8a2e2abc39bb"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical theory with its primary focus:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Ethical Egoism",
+            "right": "Self-interest as the basis of morality."
+          },
+          {
+            "left": "Utilitarianism",
+            "right": "Maximizing happiness for the greatest number."
+          },
+          {
+            "left": "Deontology",
+            "right": "Adherence to moral duties and rules."
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Development of good character traits."
+          }
+        ],
+        "explanation": "Each theory has a distinct primary focus: egoism on self-interest, utilitarianism on collective happiness, deontology on duty, and virtue ethics on character.",
+        "id": "fabf9465-cb18-44da-abc5-d631cf2f2dd8"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is a criticism of Kant's Categorical Imperative?",
+        "options": [
+          "It is too flexible and open to interpretation.",
+          "It fails to consider the consequences of actions.",
+          "It relies too heavily on religious doctrine.",
+          "It is difficult to apply in complex ethical dilemmas."
+        ],
+        "correctAnswer": "It is difficult to apply in complex ethical dilemmas.",
+        "explanation": "Kant's deontology can be rigid, and its strict adherence to universal rules can lead to difficult or counter-intuitive outcomes in complex situations, such as the axe-murderer scenario.",
+        "id": "42dc50e3-56e9-4c26-ba0b-1b46c1c4908a"
+      }
+    ]
+  },
+  {
+    "id": "1dbd847e-2ccb-4c7e-992e-8a7670cc9ecb",
+    "sessionId": "74215d36-a9e5-4421-9c9d-ff7d27585549",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "According to ethical egoism, when should helping others be considered a moral action?",
+        "options": [
+          "Helping others is never a moral action.",
+          "Only when it directly benefits oneself.",
+          "When it increases one's reputation or leads to future personal gain.",
+          "When it aligns with societal expectations."
+        ],
+        "correctAnswer": "When it increases one's reputation or leads to future personal gain.",
+        "explanation": "Ethical egoism suggests that actions are morally right if they benefit oneself. Helping others is permissible only if it serves as a means to personal advantage, such as improving one's reputation or securing future benefits.",
+        "id": "bd712151-9a02-4c85-898d-d32e1acc14ad"
+      },
+      {
+        "type": "true_false",
+        "question": "Psychological egoism claims that humans are naturally selfish and always act in their own self-interest.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "Psychological egoism is the theory that all human actions are motivated by self-interest, even actions that appear altruistic.",
+        "id": "d7f1d233-fde2-419e-b7ae-61e71fecb189"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Utilitarianism states that the best action is the one that produces the greatest ______ for the greatest number.",
+        "options": [],
+        "correctAnswer": "happiness",
+        "explanation": "Utilitarianism's core principle is to maximize overall happiness and minimize suffering for the greatest number of people.",
+        "id": "537b88d2-8f4d-41b1-93bf-10d8a309da5e"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the fundamental difference between Bentham's and Mill's utilitarianism regarding pleasure?",
+        "options": [],
+        "correctAnswer": "Bentham focused on the quantity of pleasure, while Mill distinguished between higher (intellectual/cultural) and lower (sensory) pleasures, arguing that quality matters more.",
+        "explanation": "Bentham's approach was quantitative, measuring pleasure and pain using the hedonic calculus. Mill introduced a qualitative distinction, prioritizing higher pleasures over lower ones.",
+        "id": "43338e87-9487-4add-b0d3-78461345d513"
+      },
+      {
+        "type": "matching",
+        "question": "Match the following ethical theories with their core principles:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Deontological Ethics",
+            "right": "Focuses on duty and moral rules, regardless of consequences."
+          },
+          {
+            "left": "Teleological Ethics",
+            "right": "Judges actions based on their consequences."
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Emphasizes character and moral virtues."
+          },
+          {
+            "left": "Ethical Egoism",
+            "right": "Prioritizes self-interest as the basis of morality."
+          }
+        ],
+        "explanation": "These are the foundational principles of each ethical theory: Deontology is duty-based, Teleology is consequence-based, Virtue Ethics focuses on character, and Ethical Egoism centers on self-interest.",
+        "id": "a71d6fe2-9ec4-4af1-95c2-d058d9cf38be"
+      },
+      {
+        "type": "mcq",
+        "question": "Jeremy Bentham proposed a method to measure happiness and pain called the:",
+        "options": [
+          "Moral Calculus",
+          "Felicity Scale",
+          "Hedonic Calculus",
+          "Utility Index"
+        ],
+        "correctAnswer": "Hedonic Calculus",
+        "explanation": "Bentham's hedonic calculus was a system for quantifying pleasure and pain based on factors like intensity, duration, and certainty.",
+        "id": "e1535434-16f4-4a70-851c-188239c537ec"
+      },
+      {
+        "type": "true_false",
+        "question": "Rule utilitarianism suggests that an action is right if it follows rules that promote the greatest good for society.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "Rule utilitarianism evaluates actions based on whether they adhere to rules that, when generally followed, lead to the greatest good for the greatest number.",
+        "id": "3f38f3ae-7bac-4f5d-9006-b8f4edd73367"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Deontological ethics, also known as ______ ethics, emphasizes that the rightness or wrongness of an action depends on its adherence to moral rules and duties, not its consequences.",
+        "options": [],
+        "correctAnswer": "duty-based",
+        "explanation": "Deontology, or duty-based ethics, focuses on the inherent rightness or wrongness of actions based on rules and duties, irrespective of the outcomes.",
+        "id": "fb347b53-44df-4077-9fa1-97957faca555"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the core principle of Kant's Categorical Imperative regarding universalizability?",
+        "options": [],
+        "correctAnswer": "Act only according to that maxim whereby you can at the same time will that it should become a universal law without contradiction.",
+        "explanation": "The Categorical Imperative serves as a test for moral rules: a maxim is only moral if it can be universally applied without creating logical contradictions or undermining the very concept it relies on.",
+        "id": "8bd2635d-0e05-4131-8790-d5ba6346174a"
+      },
+      {
+        "type": "mcq",
+        "question": "According to John Locke, what are the natural rights inherent to humans?",
+        "options": [
+          "Life, Liberty, and Property",
+          "Life, Liberty, and the Pursuit of Happiness",
+          "Freedom of Speech, Religion, and Assembly",
+          "Property, Security, and the Vote"
+        ],
+        "correctAnswer": "Life, Liberty, and Property",
+        "explanation": "John Locke identified life, liberty, and property as fundamental natural rights that governments are obligated to protect.",
+        "id": "4ff6bb81-9d84-42e3-877f-ebc73c9a9911"
+      },
+      {
+        "type": "true_false",
+        "question": "Virtue ethics focuses primarily on the outcomes of actions rather than the character of the moral agent.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Virtue ethics centers on character development and cultivating virtues, distinguishing it from consequentialist and deontological approaches that focus on actions and outcomes.",
+        "id": "c3cbc0cc-bf3d-4d2c-a372-0e7cd5939d2b"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Meta-ethics is the branch of philosophy that studies the meaning of moral concepts and the ______ of moral judgments.",
+        "options": [],
+        "correctAnswer": "nature",
+        "explanation": "Meta-ethics delves into the fundamental questions about morality itself, including the meaning of moral terms and the foundations of moral judgments.",
+        "id": "127b1891-90fc-4b46-9d59-5c747f2da6a2"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the difference between cognitivism and non-cognitivism in meta-ethics?",
+        "options": [],
+        "correctAnswer": "Cognitivism holds that moral statements express beliefs and can be true or false, while non-cognitivism argues that moral statements express emotions or attitudes and are not truth-apt.",
+        "explanation": "Cognitivists believe moral language has factual content, while non-cognitivists see it as an expression of subjective states.",
+        "id": "63e57024-ef94-47af-b499-08a45031da74"
+      },
+      {
+        "type": "matching",
+        "question": "Match the following ethical concepts with their definitions:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Egoism",
+            "right": "Self-interest is the foundation of morality."
+          },
+          {
+            "left": "Utilitarianism",
+            "right": "Maximizing happiness for the greatest number."
+          },
+          {
+            "left": "Deontology",
+            "right": "Adherence to moral duties and rules."
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Focus on good character and virtues."
+          }
+        ],
+        "explanation": "These pairings define the core tenets of each major ethical framework.",
+        "id": "65833740-2a62-4d08-8585-2fe428781cc2"
+      },
+      {
+        "type": "mcq",
+        "question": "In Aristotle's virtue ethics, virtue is described as a mean between two extremes. What is this concept called?",
+        "options": [
+          "The Golden Mean",
+          "The Doctrine of the Mean",
+          "The Ethical Balance",
+          "The Principle of Moderation"
+        ],
+        "correctAnswer": "The Doctrine of the Mean",
+        "explanation": "Aristotle's Doctrine of the Mean posits that virtues are character states that lie between the extremes of excess and deficiency.",
+        "id": "fdbb1ed9-3fdf-4f1e-a84d-9769d7f83437"
+      }
+    ]
+  },
+  {
+    "id": "09d17b66-9bd9-471b-8573-0cf048f74152",
+    "sessionId": "74215d36-a9e5-4421-9c9d-ff7d27585549",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which ethical theory posits that the morality of an action is determined by its outcome, often summarized as 'the end justifies the means'?",
+        "options": [
+          "Deontological Ethics",
+          "Ethical Egoism",
+          "Virtue Ethics",
+          "Teleological Ethics"
+        ],
+        "correctAnswer": "Teleological Ethics",
+        "explanation": "Teleological ethics, also known as consequentialism, judges the morality of an action based on its consequences or outcomes.",
+        "id": "717aa9e8-294b-499b-ab57-7888a9c7949d"
+      },
+      {
+        "type": "true_false",
+        "question": "Psychological egoism claims that humans ought to act in their own self-interest.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Psychological egoism claims that humans *always* act in their own self-interest, as a matter of psychological fact, not as a moral prescription.",
+        "id": "6c5a4e2e-7811-4840-b040-76279cd2d707"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Jeremy Bentham proposed a method to measure happiness called the ______________, which evaluated pleasure using seven aspects like intensity, duration, and certainty.",
+        "options": [],
+        "correctAnswer": "Hedonic Calculus",
+        "explanation": "The Hedonic Calculus was Bentham's system for quantifying pleasure and pain based on several factors.",
+        "id": "787648bc-cc04-41e8-9c22-c81f7557f422"
+      },
+      {
+        "type": "short_answer",
+        "question": "According to John Stuart Mill, what distinguishes higher pleasures from lower pleasures?",
+        "options": [],
+        "correctAnswer": "Mill distinguished between higher pleasures (intellectual, cultural, moral) and lower pleasures (physical, sensory), arguing that higher pleasures are qualitatively more valuable.",
+        "explanation": "Mill believed that intellectual and moral pleasures are intrinsically more valuable than physical or sensory pleasures, even if the latter are more intense.",
+        "id": "46d9fb9f-37b9-4c03-baa5-f663b806a386"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical theory with its core focus:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Ethical Egoism",
+            "right": "Prioritizes the individual's self-interest as the basis of morality."
+          },
+          {
+            "left": "Utilitarianism",
+            "right": "Aims to produce the greatest happiness for the greatest number."
+          },
+          {
+            "left": "Deontological Ethics",
+            "right": "Focuses on duty, rules, and intentions as the basis of morality."
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Emphasizes character and the cultivation of virtues."
+          }
+        ],
+        "explanation": "These descriptions represent the core tenets of each respective ethical theory.",
+        "id": "4317ded8-b2ee-4764-bb33-3afbd146e252"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is a criticism of utilitarianism?",
+        "options": [
+          "It too strictly adheres to moral rules.",
+          "It ignores the consequences of actions.",
+          "It may justify immoral actions for the greater good.",
+          "It is overly focused on individual duties."
+        ],
+        "correctAnswer": "It may justify immoral actions for the greater good.",
+        "explanation": "A major criticism of utilitarianism is that it can lead to the justification of actions that are typically considered immoral if they produce the greatest overall happiness.",
+        "id": "1dd428c8-0658-4c3a-a2bf-877de6329c9a"
+      },
+      {
+        "type": "true_false",
+        "question": "Deontological ethics, unlike teleological ethics, asserts that the consequences of an action are the primary determinant of its morality.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Deontological ethics focuses on duty and rules, not consequences, while teleological ethics (consequentialism) focuses on outcomes.",
+        "id": "4007d10f-31c8-4f0b-ad2b-bf74d87aa6f0"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Immanuel Kant's principle that mandates actions based on rules that could become universal laws without contradiction is known as the _______________.",
+        "options": [],
+        "correctAnswer": "Categorical Imperative",
+        "explanation": "The Categorical Imperative is Kant's supreme principle of morality, requiring that actions be universalizable and treat humanity as an end.",
+        "id": "3321473a-83be-4cd4-b9bc-ec98c21cbab3"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is a 'prima facie' duty according to W. D. Ross?",
+        "options": [],
+        "correctAnswer": "A prima facie duty is a moral guideline that is binding 'at first sight' or 'on the surface,' meaning it is a duty that we ought to perform unless overridden by a stronger moral consideration.",
+        "explanation": "Ross's theory suggests that we have several prima facie duties, which are obligations that are binding unless outweighed by other moral considerations in a specific situation.",
+        "id": "4cee4043-3626-4dc4-8350-43556acfa8de"
+      },
+      {
+        "type": "mcq",
+        "question": "Virtue ethics, as discussed by Aristotle, emphasizes the cultivation of what?",
+        "options": [
+          "Strict adherence to moral rules",
+          "Maximizing overall happiness",
+          "Moral character and virtues",
+          "Following divine commands"
+        ],
+        "correctAnswer": "Moral character and virtues",
+        "explanation": "Aristotle's virtue ethics focuses on developing good character traits (virtues) as the foundation for living a moral and flourishing life.",
+        "id": "c8e1c4f8-b2e4-4349-8bd9-8a953d6c4e2f"
+      },
+      {
+        "type": "true_false",
+        "question": "Meta-ethics is concerned with identifying which actions are right or wrong in specific situations.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Meta-ethics is the branch of philosophy that studies the nature of moral judgments and the meaning of moral terms, rather than prescribing specific moral actions.",
+        "id": "0db60411-d341-47f6-afc0-19d1af6ef291"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The concept of _______________ suggests that moral statements express emotions or attitudes rather than beliefs about objective reality.",
+        "options": [],
+        "correctAnswer": "Non-Cognitivism",
+        "explanation": "Non-cognitivism in meta-ethics posits that moral statements are expressions of emotions, desires, or attitudes, not truth-apt beliefs.",
+        "id": "515c37d3-f2a0-4179-b13c-e8e13c2b7f0f"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the main idea behind the 'Fairness and Justice' approach to ethical decision-making?",
+        "options": [],
+        "correctAnswer": "This approach suggests that ethical actions treat everyone equally and fairly, without favoritism or discrimination, based on the principle that 'equals should be treated equally and unequals unequally'.",
+        "explanation": "The Fairness and Justice approach focuses on equitable distribution of benefits and burdens, ensuring consistent treatment unless there are morally relevant differences.",
+        "id": "f775d6ef-c4f1-4977-b356-9d6b601509e5"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical concept with its definition:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Jus Soli",
+            "right": "Citizenship acquired by being born in a country's territory."
+          },
+          {
+            "left": "Jus Sanguinis",
+            "right": "Citizenship acquired through parentage (right of blood)."
+          },
+          {
+            "left": "Naturalization",
+            "right": "The legal process by which a foreigner becomes a citizen."
+          },
+          {
+            "left": "Statelessness",
+            "right": "The condition of not being recognized as a national by any country."
+          }
+        ],
+        "explanation": "These terms define different ways citizenship is acquired or the state of lacking citizenship.",
+        "id": "05bd531b-bde4-43e5-97f6-edefcb8000d2"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is NOT considered a fundamental principle of democracy according to the material?",
+        "options": [
+          "Popular Sovereignty",
+          "Constitutional Supremacy",
+          "Unrestricted Executive Power",
+          "Rule of Law"
+        ],
+        "correctAnswer": "Unrestricted Executive Power",
+        "explanation": "Democracy is characterized by limitations on power, particularly through the rule of law and constitutional supremacy, not unrestricted executive power.",
+        "id": "b1af53ae-273e-4280-bddf-b5de7acf03bb"
+      }
+    ]
+  },
+  {
+    "id": "57bd5722-0896-4afb-ad06-e493e83dab2c",
+    "sessionId": "74215d36-a9e5-4421-9c9d-ff7d27585549",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which ethical theory posits that moral actions are determined by their consequences, specifically the greatest happiness for the greatest number?",
+        "options": [
+          "Ethical Egoism",
+          "Deontological Ethics",
+          "Utilitarianism",
+          "Virtue Ethics"
+        ],
+        "correctAnswer": "Utilitarianism",
+        "explanation": "Utilitarianism is a consequentialist ethical theory that focuses on maximizing overall happiness and minimizing suffering for the greatest number of people.",
+        "id": "005c2f60-244b-424b-b840-97119332a960"
+      },
+      {
+        "type": "true_false",
+        "question": "Psychological egoism claims that humans are inherently motivated by self-interest in all their actions.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "Psychological egoism is the descriptive claim that all human actions are ultimately motivated by self-interest, even those that appear altruistic.",
+        "id": "17181795-b416-481c-b8ba-70a835ae1e1f"
+      },
+      {
+        "type": "fill_blank",
+        "question": "According to Kant's Categorical Imperative, we should act only according to that maxim whereby you can at the same time will that it should become a __________ without contradiction.",
+        "options": [],
+        "correctAnswer": "universal law",
+        "explanation": "The Categorical Imperative's first formulation emphasizes acting according to maxims that could be universally applied without contradiction.",
+        "id": "a734c8ae-2021-4aca-81b8-63008e832691"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the primary difference between ethical egoism and utilitarianism?",
+        "options": [],
+        "correctAnswer": "Ethical egoism focuses on maximizing personal benefit, while utilitarianism aims to maximize overall happiness for the greatest number.",
+        "explanation": "Ethical egoism prioritizes the self-interest of the agent, whereas utilitarianism considers the welfare of all affected parties.",
+        "id": "e3b82752-fd7c-4c50-b147-6363256b734d"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical principle with its corresponding theory:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "The greatest happiness for the greatest number",
+            "right": "Utilitarianism"
+          },
+          {
+            "left": "Acting on duty and moral rules",
+            "right": "Deontological Ethics"
+          },
+          {
+            "left": "Focus on character and virtues",
+            "right": "Virtue Ethics"
+          },
+          {
+            "left": "Prioritizing one's own self-interest",
+            "right": "Ethical Egoism"
+          }
+        ],
+        "explanation": "These pairings represent the core tenets of each respective ethical theory.",
+        "id": "dc4c554a-1b9b-4c30-9f3d-26d1529a9644"
+      },
+      {
+        "type": "mcq",
+        "question": "Jeremy Bentham's approach to utilitarianism emphasized:",
+        "options": [
+          "The quality of pleasure over quantity",
+          "The quantity of pleasure over quality",
+          "The inherent rightness of actions regardless of consequences",
+          "The importance of individual duties above all else"
+        ],
+        "correctAnswer": "The quantity of pleasure over quality",
+        "explanation": "Bentham's utilitarianism focused on measuring pleasure and pain based on factors like intensity and duration, prioritizing the quantity of happiness.",
+        "id": "eb950a3c-08f0-4fb3-810d-a17c19d94088"
+      },
+      {
+        "type": "true_false",
+        "question": "According to John Stuart Mill, higher pleasures, such as intellectual pursuits, are more valuable than lower pleasures, such as physical satisfaction.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "Mill distinguished between higher and lower pleasures, arguing that the quality of higher pleasures makes them more valuable than the quantity of lower pleasures.",
+        "id": "53c3aeb0-0bce-4bec-93ea-ccc6b3571bef"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Deontological ethics, also known as __________, focuses on duty and moral rules rather than consequences.",
+        "options": [],
+        "correctAnswer": "non-consequentialist ethics",
+        "explanation": "Deontological ethics is a non-consequentialist approach, meaning it judges actions based on adherence to rules or duties, not their outcomes.",
+        "id": "583c4b83-1616-4b93-b966-dc59e11f79f3"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the 'Redundancy Problem' associated with the Divine Command Theory?",
+        "options": [],
+        "correctAnswer": "It makes the statement 'God is good' meaningless, as 'good' simply means 'commanded by God'.",
+        "explanation": "The Redundancy Problem arises because if 'good' is defined solely by divine command, then saying 'God is good' becomes a tautology.",
+        "id": "a4c80df9-7eea-491a-ba4c-030cff2f139b"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is NOT one of W.D. Ross's prima facie duties?",
+        "options": [
+          "Fidelity",
+          "Justice",
+          "Gratitude",
+          "Revenge"
+        ],
+        "correctAnswer": "Revenge",
+        "explanation": "Ross's prima facie duties include fidelity, justice, gratitude, beneficence, self-improvement, non-maleficence, and reparation. Revenge is not among them.",
+        "id": "0aa9935d-845a-48d7-b3ed-ce804a9ee248"
+      },
+      {
+        "type": "true_false",
+        "question": "Virtue ethics focuses on the rightness or wrongness of specific actions based on rules and consequences.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Virtue ethics focuses on the character of the moral agent and what kind of person one should be, rather than on specific rules for actions or their consequences.",
+        "id": "efa5c1ea-a8ea-4ef8-83ab-b3ec1dc7e3ec"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Meta-ethics is concerned with questions about the meaning of moral terms and the nature of moral judgments, rather than with prescribing how one ought to act. This is often referred to as the __________ study of ethics.",
+        "options": [],
+        "correctAnswer": "second-order",
+        "explanation": "Meta-ethics is considered a second-order study because it analyzes the concepts and nature of morality itself, rather than providing moral guidance directly.",
+        "id": "48b4d19a-bb82-4677-bda4-bd630d307065"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the main criticism against Kant's Categorical Imperative regarding its rigidity?",
+        "options": [],
+        "correctAnswer": "Its rigidity means it may lead to morally questionable actions, such as lying to an axe murderer.",
+        "explanation": "The Categorical Imperative's absolute nature can lead to dilemmas where following it strictly might result in actions that many would consider immoral, like telling the truth to someone intending harm.",
+        "id": "d0ce6717-5f8f-4a59-b342-0c125381332a"
+      },
+      {
+        "type": "mcq",
+        "question": "According to the Fairness and Justice approach to ethics, what is the basic moral question?",
+        "options": [
+          "How much happiness does it produce?",
+          "Does it treat everyone equally unless there's a moral reason not to?",
+          "Does it uphold individual rights?",
+          "Does it foster the common good?"
+        ],
+        "correctAnswer": "Does it treat everyone equally unless there's a moral reason not to?",
+        "explanation": "The Fairness and Justice approach is rooted in the principle of treating equals equally and unequals unequally, focusing on impartiality and the absence of favoritism or discrimination.",
+        "id": "064ebe75-6c26-4eb2-ae52-7cdb81941c18"
+      },
+      {
+        "type": "matching",
+        "question": "Match the type of ethical reasoning with its description:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Explains one thing by comparing it to something similar.",
+            "right": "Reasoning by Analogy"
+          },
+          {
+            "left": "Applies a general principle to a specific situation.",
+            "right": "Deductive Reasoning"
+          },
+          {
+            "left": "Uses evidence to support a hypothesis.",
+            "right": "Inductive Reasoning"
+          },
+          {
+            "left": "Using rational motives to cover up true motives.",
+            "right": "Rationalization"
+          }
+        ],
+        "explanation": "These descriptions define different types of reasoning and argumentation used in ethical discourse.",
+        "id": "f90ba5d6-9086-4e8d-ba32-a51ceaad1032"
+      }
+    ]
+  },
+  {
+    "id": "32d92ce5-fe5c-467a-bba1-7c27e063e8ba",
+    "sessionId": "74215d36-a9e5-4421-9c9d-ff7d27585549",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which ethical theory states that the morally right action is the one that produces the best overall consequences in terms of utility or welfare for all affected parties?",
+        "options": [
+          "Deontological Ethics",
+          "Ethical Egoism",
+          "Utilitarianism",
+          "Virtue Ethics"
+        ],
+        "correctAnswer": "Utilitarianism",
+        "explanation": "Utilitarianism is a teleological ethical theory that judges actions based on their consequences, aiming to maximize happiness or utility for the greatest number of people.",
+        "id": "68122ac0-c6d6-477c-bf80-ad366610ee9d"
+      },
+      {
+        "type": "true_false",
+        "question": "Psychological Egoism claims that humans are capable of acting purely out of self-interest.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "True",
+        "explanation": "Psychological Egoism posits that all human actions are ultimately motivated by self-interest, even actions that appear altruistic.",
+        "id": "474a4dd6-b39d-4ff3-9a8f-c86f53104858"
+      },
+      {
+        "type": "fill_blank",
+        "question": "According to Immanuel Kant, a moral action is dictated by a ___________ imperative, which commands an action as necessary in itself, regardless of personal desires.",
+        "options": [],
+        "correctAnswer": "categorical",
+        "explanation": "Kant distinguished between hypothetical imperatives (conditional on desires) and categorical imperatives (unconditional moral commands).",
+        "id": "51e628c2-1737-48dd-8ddd-32824d7e2760"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the main difference between Act Utilitarianism and Rule Utilitarianism?",
+        "options": [],
+        "correctAnswer": "Act Utilitarianism evaluates each action individually based on its consequences, while Rule Utilitarianism evaluates actions based on whether they adhere to rules that generally promote the greatest good.",
+        "explanation": "Act Utilitarianism focuses on the consequences of each specific act, whereas Rule Utilitarianism focuses on the consequences of following general moral rules.",
+        "id": "df1fc7e5-a43a-4acf-bad0-8f58030fc1f1"
+      },
+      {
+        "type": "matching",
+        "question": "Match the following ethical concepts with their definitions:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Ethical Egoism",
+            "right": "People ought to act in their own self-interest."
+          },
+          {
+            "left": "Psychological Egoism",
+            "right": "Humans always act in their own self-interest."
+          },
+          {
+            "left": "Utilitarianism",
+            "right": "The best action produces the greatest happiness for the greatest number."
+          },
+          {
+            "left": "Deontological Ethics",
+            "right": "Morality is based on duty and adherence to rules, not consequences."
+          }
+        ],
+        "explanation": "These definitions distinguish the core tenets of the four major ethical theories discussed.",
+        "id": "e6747187-9f05-4b7a-a2d2-5850f1e739c3"
+      },
+      {
+        "type": "mcq",
+        "question": "Jeremy Bentham, a proponent of utilitarianism, proposed a method to measure happiness called:",
+        "options": [
+          "The Moral Calculus",
+          "The Hedonic Calculus",
+          "The Utility Scale",
+          "The Felicific Calculus"
+        ],
+        "correctAnswer": "The Hedonic Calculus",
+        "explanation": "Bentham developed the Hedonic Calculus to quantify pleasure and pain based on factors like intensity, duration, and certainty.",
+        "id": "78f9a7c8-1f75-4903-856d-812dcfa0a087"
+      },
+      {
+        "type": "mcq",
+        "question": "John Stuart Mill distinguished between which two types of pleasures?",
+        "options": [
+          "Immediate vs. Delayed Pleasures",
+          "Sensory vs. Intellectual Pleasures",
+          "Higher vs. Lower Pleasures",
+          "Bodily vs. Mental Pleasures"
+        ],
+        "correctAnswer": "Higher vs. Lower Pleasures",
+        "explanation": "Mill argued that 'higher' pleasures (intellectual, moral) are qualitatively more valuable than 'lower' pleasures (physical, sensory).",
+        "id": "0e85053c-14be-46a3-a090-57aa3fa00002"
+      },
+      {
+        "type": "true_false",
+        "question": "Deontological ethics emphasizes the consequences of an action as the primary determinant of its moral worth.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Deontological ethics focuses on duties, rules, and intentions, asserting that the morality of an action lies in the action itself, not its consequences.",
+        "id": "f4e008e3-e4d3-4a4f-92e2-6998a2ea775b"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The __________ __________ states that the morally right action is the one that produces the best overall consequences with regard to the utility or welfare of all affected parties.",
+        "options": [],
+        "correctAnswer": "Principle of Utility",
+        "explanation": "The Principle of Utility is the foundational concept of utilitarianism, guiding actions toward maximizing overall good.",
+        "id": "8ce17f03-ae21-4ce9-9220-22526c15e99c"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the core idea behind Kant's Categorical Imperative?",
+        "options": [],
+        "correctAnswer": "The Categorical Imperative suggests acting only according to maxims that one could will to become a universal law without contradiction.",
+        "explanation": "Kant's Categorical Imperative is a test for moral rules, requiring them to be universally applicable without logical inconsistency.",
+        "id": "db4d09aa-9305-4847-90d0-54a3d1cedcf6"
+      },
+      {
+        "type": "mcq",
+        "question": "W.D. Ross proposed a set of duties that are binding 'at first sight' or 'on the surface' unless overridden by other moral considerations. These are known as:",
+        "options": [
+          "Absolute Duties",
+          "Prima Facie Duties",
+          "Conditional Duties",
+          "Moral Imperatives"
+        ],
+        "correctAnswer": "Prima Facie Duties",
+        "explanation": "Prima facie duties are moral obligations that are binding unless overridden by a more compelling moral duty in a specific situation.",
+        "id": "856bfb47-ffc8-4a13-8637-8b26f1e20ba9"
+      },
+      {
+        "type": "mcq",
+        "question": "Virtue ethics, as developed by Aristotle, focuses on:",
+        "options": [
+          "The consequences of actions",
+          "Adherence to moral rules",
+          "The character and virtues of the moral agent",
+          "The nature of moral language"
+        ],
+        "correctAnswer": "The character and virtues of the moral agent",
+        "explanation": "Virtue ethics shifts the focus from acts and consequences to the cultivation of good character traits (virtues).",
+        "id": "f89c07ba-3635-473b-961b-5430dad8144a"
+      },
+      {
+        "type": "true_false",
+        "question": "Meta-ethics is concerned with establishing specific moral guidelines for how people ought to act.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Meta-ethics is concerned with the philosophical study of the nature of morality itself, including the meaning of moral terms and the justification of moral judgments, rather than prescribing specific moral actions.",
+        "id": "ec72dfbb-fa02-4fdc-8c5c-cc73f899e2c1"
+      },
+      {
+        "type": "fill_blank",
+        "question": "__________ ethics is a branch of philosophy that examines the meaning of moral concepts and the nature of moral judgments.",
+        "options": [],
+        "correctAnswer": "Meta",
+        "explanation": "Meta-ethics delves into the fundamental questions about morality, such as the meaning of 'good' and the nature of moral judgments.",
+        "id": "c7a45447-a230-4673-8699-7f1ff8330586"
+      },
+      {
+        "type": "short_answer",
+        "question": "According to the 'Fairness and Justice' approach to ethical decision-making, what is the basic moral question?",
+        "options": [],
+        "correctAnswer": "How fair is an action? Does it treat everyone in the same way, or does it show favoritism and discrimination?",
+        "explanation": "The Fairness and Justice approach assesses actions based on whether they distribute benefits and burdens equitably and treat individuals with similar circumstances similarly.",
+        "id": "75db0b0f-45a2-48c7-a5a8-3029b1aaa008"
+      }
+    ]
+  },
+  {
+    "id": "54732fd2-a2c5-427b-b37d-d782db891dce",
+    "sessionId": "74215d36-a9e5-4421-9c9d-ff7d27585549",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "According to Ethical Egoism, under what condition is helping others acceptable?",
+        "options": [
+          "Only if it directly benefits the helper.",
+          "Only if the other person is in dire need.",
+          "Only if it is a legal requirement.",
+          "Only if it makes the helper feel good."
+        ],
+        "correctAnswer": "Only if it directly benefits the helper.",
+        "explanation": "Ethical egoism states that a moral action is one that benefits oneself, and helping others is acceptable only if it benefits the individual performing the action.",
+        "id": "60076091-8a7e-419e-ae4e-8a1a92f928c0"
+      },
+      {
+        "type": "true_false",
+        "question": "Psychological Egoism claims that humans are inherently incapable of acting out of pure self-interest.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Psychological Egoism claims that humans *always* act in their own self-interest, meaning they are inherently capable of and motivated by self-interest.",
+        "id": "09d348f8-7762-4b79-a201-8b7e5218a623"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The teleological system that focuses on maximizing personal good is known as __________.",
+        "options": [],
+        "correctAnswer": "Ethical Egoism",
+        "explanation": "Ethical Egoism is a teleological theory that emphasizes maximizing one's own personal good or self-interest.",
+        "id": "afc057e8-dd5f-4a31-8acc-924b5ad2ab6b"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the fundamental principle of Utilitarianism?",
+        "options": [],
+        "correctAnswer": "The best action is the one that produces the greatest happiness for the greatest number.",
+        "explanation": "Utilitarianism's core principle is to maximize overall happiness and minimize suffering for the largest number of people.",
+        "id": "71aae81b-0c3b-4237-9543-d746c926470b"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical concept with its description:",
+        "matchingPairs": [
+          {
+            "left": "Jeremy Bentham's Utilitarianism",
+            "right": "Focused on the quantity of pleasure."
+          },
+          {
+            "left": "John Stuart Mill's Utilitarianism",
+            "right": "Distinguished between higher and lower pleasures, emphasizing quality."
+          },
+          {
+            "left": "Hedonic Calculus",
+            "right": "A method to measure happiness using various factors."
+          },
+          {
+            "left": "Act Utilitarianism",
+            "right": "Evaluates each situation individually to maximize utility."
+          }
+        ],
+        "correctAnswer": "Jeremy Bentham's Utilitarianism: Focused on the quantity of pleasure.; John Stuart Mill's Utilitarianism: Distinguished between higher and lower pleasures, emphasizing quality.; Hedonic Calculus: A method to measure happiness using various factors.; Act Utilitarianism: Evaluates each situation individually to maximize utility.",
+        "explanation": "These pairs correctly associate the philosophers and concepts with their key contributions to Utilitarianism.",
+        "id": "916277c7-fd14-4be3-b18c-d244f9449d41"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is NOT a characteristic of 'Prima Facie Duties' as proposed by W.D. Ross?",
+        "options": [
+          "Fidelity",
+          "Justice",
+          "Beneficence",
+          "Absolute obligation"
+        ],
+        "correctAnswer": "Absolute obligation",
+        "explanation": "Prima facie duties are moral guidelines that are binding 'other things equal,' meaning they can be overridden by stronger moral considerations, making them not absolute.",
+        "id": "8bfb7433-cb59-4103-921f-15f11f239c53"
+      },
+      {
+        "type": "true_false",
+        "question": "According to Kant's Categorical Imperative, moral rules are hypothetical and depend on personal desires.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Kant's Categorical Imperative mandates actions universally, irrespective of personal desires; they are categorical, not hypothetical.",
+        "id": "9054c198-e385-42a4-8884-7301000fd3e9"
+      },
+      {
+        "type": "fill_blank",
+        "question": "Virtue ethics focuses on the development of good __________.",
+        "options": [],
+        "correctAnswer": "character",
+        "explanation": "Virtue ethics emphasizes character development and the cultivation of moral virtues rather than focusing solely on rules or consequences.",
+        "id": "9256923b-6def-4fbc-819a-b265ca422740"
+      },
+      {
+        "type": "mcq",
+        "question": "Which ethical approach focuses on duties and moral rules, asserting that the means justifies the end?",
+        "options": [
+          "Teleological Ethics",
+          "Deontological Ethics",
+          "Virtue Ethics",
+          "Utilitarianism"
+        ],
+        "correctAnswer": "Deontological Ethics",
+        "explanation": "Deontological ethics emphasizes duty and moral rules, often characterized by the idea that certain actions are right or wrong based on adherence to these rules, regardless of outcomes. While the material sometimes contrasts 'end justifies the means' (teleological) with 'means justifies the end' (deontological), the core of deontology is duty-based.",
+        "id": "27680007-5284-4706-ace2-ff642e368624"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the primary function of the state according to the minimal state theory?",
+        "options": [],
+        "correctAnswer": "To provide a framework of peace and social order by maintaining domestic order, enforcing contracts, and providing protection against external attack.",
+        "explanation": "Minimal state theory, associated with classical liberalism, posits that the state's role is limited to protecting individual rights and ensuring order, acting as a 'night watchman'.",
+        "id": "ba7883e0-bae5-415b-a9a6-331642953ac0"
+      },
+      {
+        "type": "mcq",
+        "question": "Which theory views the state as an instrument of class oppression, reflecting the economic base of society?",
+        "options": [
+          "Pluralist State Theory",
+          "Capitalist State Theory (Marxist)",
+          "Leviathan State Theory",
+          "Patriarchal State Theory"
+        ],
+        "correctAnswer": "Capitalist State Theory (Marxist)",
+        "explanation": "Marxist theory, specifically the Capitalist State theory, posits that the state functions as an instrument of the ruling class to maintain its dominance and oppress other classes.",
+        "id": "96a74339-f02a-4219-b5f3-ab7d9b85f2c0"
+      },
+      {
+        "type": "true_false",
+        "question": "According to liberal thought on citizenship, the community is prior to the individual.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Liberal theory prioritizes the individual, viewing the community as existing to serve the well-being of its individual members.",
+        "id": "892940b4-9a08-4ac0-b975-8a6d445f0819"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The idea that citizenship is shaped by the society in which one lives, emphasizing shared common good and traditions, is central to __________ thought.",
+        "options": [],
+        "correctAnswer": "Communitarian",
+        "explanation": "Communitarian thought emphasizes the role of society and community in shaping individual identity and values, viewing citizenship as rooted in collective membership and shared common good.",
+        "id": "1e304aae-830f-48b1-a033-e18b28ce65b8"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is a criticism of liberal citizenship theory?",
+        "options": [
+          "It overly emphasizes community belonging.",
+          "It neglects the 'free-rider' problem.",
+          "It promotes excessive state intervention.",
+          "It prioritizes collective rights over individual liberty."
+        ],
+        "correctAnswer": "It overly emphasizes community belonging.",
+        "explanation": "Liberal citizenship theory is criticized for potentially neglecting community and shared values by overemphasizing individualism. The 'free-rider' problem is a criticism, but the option presented is incorrect regarding liberal theory's stance on it.",
+        "id": "f28780e4-2a3c-4487-9048-c4f460911ab8"
+      },
+      {
+        "type": "short_answer",
+        "question": "What does 'Jus Soli' refer to in the context of acquiring citizenship?",
+        "options": [],
+        "correctAnswer": "The principle by which an individual obtains citizenship of a state because they were born within its territorial administration.",
+        "explanation": "Jus Soli, meaning 'right of the soil', is a principle of citizenship acquisition based on birthplace.",
+        "id": "4b2ce714-2833-41a4-b29e-ee49804bcfe6"
+      }
+    ]
+  },
+  {
+    "id": "055ad252-4252-436e-9aef-db58ac22a830",
+    "sessionId": "233a14c4-0554-456b-874b-e7eb22bebe49",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which ethical theory posits that the morality of an action is determined by its consequences?",
+        "options": [
+          "Deontological Ethics",
+          "Virtue Ethics",
+          "Teleological Ethics",
+          "Existentialism"
+        ],
+        "correctAnswer": "Teleological Ethics",
+        "explanation": "Teleological ethics, also known as consequentialism, judges the morality of an action based on its outcomes or results.",
+        "id": "3c155341-6d8e-41ae-9b9c-bd258efb5ae2"
+      },
+      {
+        "type": "true_false",
+        "question": "According to Kant's Categorical Imperative, the consequences of an action are the primary determinant of its moral worth.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Kant's deontological ethics emphasizes the intention and the adherence to moral duty, not the consequences of an action, in determining its moral worth.",
+        "id": "8a7f4289-2125-4175-b844-1428eb8700c4"
+      },
+      {
+        "type": "fill_blank",
+        "question": "__________ is a branch of philosophy that attempts to understand people’s moral beliefs and actions.",
+        "options": [],
+        "correctAnswer": "Ethics",
+        "explanation": "Ethics is defined as the branch of philosophy concerned with moral principles and the study of human conduct.",
+        "id": "58a5e564-3761-4490-aa10-7ecba1359256"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the primary function of a state according to the organizational approach?",
+        "options": [],
+        "correctAnswer": "The organizational view defines the state as the apparatus of government responsible for the collective organization of social existence.",
+        "explanation": "The organizational approach defines the state by its governmental institutions that are responsible for the collective organization of social existence.",
+        "id": "f96aaf31-9392-4a71-926d-16b4ee026e29"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical theory with its core principle:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Utilitarianism",
+            "right": "The greatest happiness for the greatest number"
+          },
+          {
+            "left": "Ethical Egoism",
+            "right": "Maximizing one's own self-interest"
+          },
+          {
+            "left": "Deontology",
+            "right": "Adherence to moral duties and rules"
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Development of good character traits"
+          }
+        ],
+        "explanation": "These pairings represent the core tenets of each respective ethical theory.",
+        "id": "837def46-0e70-4b0d-8ba7-736efeee8533"
+      },
+      {
+        "type": "mcq",
+        "question": "In liberal thought, the primary political unit and focus of inquiry is:",
+        "options": [
+          "The community",
+          "The state",
+          "The individual",
+          "The family"
+        ],
+        "correctAnswer": "The individual",
+        "explanation": "Liberal theory emphasizes individual liberty, rights, and the self as the primary focus of political thought.",
+        "id": "d1722f3f-3f01-4640-927e-87c17bc2bd1d"
+      },
+      {
+        "type": "true_false",
+        "question": "Social morality concerns a human being in relationship to nature.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Social morality concerns relationships between human beings, while morality and nature concerns relationships with the natural world.",
+        "id": "e8195646-d666-48c9-80b7-a80173708cbf"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The _________ approach to ethics focuses on fairness and treating equals equally and unequals unequally.",
+        "options": [],
+        "correctAnswer": "Fairness and Justice",
+        "explanation": "The Fairness and Justice approach, rooted in Aristotle's philosophy, emphasizes equitable treatment and distribution of benefits and burdens.",
+        "id": "b801cfed-f453-475f-b210-3d216b356c05"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the difference between a hypothetical imperative and a categorical imperative in Kant's philosophy?",
+        "options": [],
+        "correctAnswer": "Hypothetical imperatives are conditional on personal desires ('If you want X, then do Y'), while categorical imperatives are unconditional commands ('You ought to do X').",
+        "explanation": "Kant distinguishes between hypothetical imperatives, which are means to an end, and categorical imperatives, which are moral commands that must be followed regardless of personal desires or outcomes.",
+        "id": "a0a95bee-f0e0-46d7-b91a-1af43544f030"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is NOT considered a primary characteristic of a state according to the Montevideo Convention?",
+        "options": [
+          "Defined territory",
+          "Sovereignty",
+          "Diplomatic recognition",
+          "Permanent population"
+        ],
+        "correctAnswer": "Diplomatic recognition",
+        "explanation": "While recognition is often considered important, the Montevideo Convention specifically lists a defined territory, permanent population, effective government, and sovereignty as the essential features of a state.",
+        "id": "cf9c7036-49ba-4a97-b6f3-c7799e48a6d2"
+      },
+      {
+        "type": "true_false",
+        "question": "In Rousseau's concept of the general will, individual rights always supersede the will of the collective.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Rousseau argued that the general will, representing the common good, could supersede individual rights if they conflicted with the collective interest.",
+        "id": "f27101c8-2113-4003-928f-b78a00951497"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The ___________ principle states that the rightness or wrongness of an act is determined by the goodness or badness of the results that flow from it.",
+        "options": [],
+        "correctAnswer": "Consequentialist",
+        "explanation": "The consequentialist principle is central to teleological ethics and asserts that the outcome of an action determines its moral value.",
+        "id": "a33c0e79-90b5-4f51-a347-57813161bc56"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the main difference between Jus Soli and Jus Sanguinis regarding citizenship acquisition?",
+        "options": [],
+        "correctAnswer": "Jus Soli grants citizenship based on place of birth (soil), while Jus Sanguinis grants citizenship based on parentage (blood).",
+        "explanation": "Jus Soli relates to citizenship by right of soil, while Jus Sanguinis relates to citizenship by right of blood or descent.",
+        "id": "39a7d58e-87ee-4d0d-8eb1-e282563888dc"
+      },
+      {
+        "type": "mcq",
+        "question": "According to W.D. Ross, what term describes duties that are binding unless overridden by other moral considerations?",
+        "options": [
+          "Absolute duties",
+          "Prima facie duties",
+          "Conditional duties",
+          "Perfect duties"
+        ],
+        "correctAnswer": "Prima facie duties",
+        "explanation": "Prima facie duties are duties that are binding at first sight or on the surface, but can be overridden by stronger moral considerations in specific circumstances.",
+        "id": "8401105e-04c8-49cf-a429-1ff028286ae4"
+      },
+      {
+        "type": "matching",
+        "question": "Match the following concepts of citizenship with their primary emphasis:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Liberal Citizenship",
+            "right": "Individual liberty and autonomy"
+          },
+          {
+            "left": "Communitarian Citizenship",
+            "right": "Importance of community and shared values"
+          },
+          {
+            "left": "Republican Citizenship",
+            "right": "Active participation and civic virtue"
+          },
+          {
+            "left": "Multicultural Citizenship",
+            "right": "Recognition of group differences and rights"
+          }
+        ],
+        "explanation": "These pairings describe the core emphasis of each theoretical approach to citizenship.",
+        "id": "b60892d8-3594-4a5e-901e-f689dceff90a"
+      }
+    ]
+  },
+  {
+    "id": "cce4bcd2-2d11-4773-9e37-3d2a3a8eb3b0",
+    "sessionId": "233a14c4-0554-456b-874b-e7eb22bebe49",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "What is the primary focus of normative ethics?",
+        "options": [
+          "The study of moral language and concepts.",
+          "The examination of the best way for humans to live.",
+          "The historical development of ethical theories.",
+          "The psychological underpinnings of moral behavior."
+        ],
+        "correctAnswer": "The examination of the best way for humans to live.",
+        "explanation": "Normative ethics is concerned with establishing criteria for what actions are morally right or wrong, essentially guiding how one ought to live.",
+        "id": "d2a684cb-036e-487e-bfe8-19a5eb0b4bce"
+      },
+      {
+        "type": "true_false",
+        "question": "According to the text, morality and ethics are always used interchangeably in precise philosophical discourse.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "While often used interchangeably in everyday speech, traditionally, 'morality' refers to the conduct itself, while 'ethics' refers to the study of moral conduct or the code one follows.",
+        "id": "828b0cef-3911-44f3-affa-51becfa886ea"
+      },
+      {
+        "type": "fill_blank",
+        "question": "According to John Stuart Mill, there are two types of pleasures: the lower pleasures, which include eating and drinking, and the _________ pleasures, such as intellectual and aesthetic enjoyments.",
+        "options": [],
+        "correctAnswer": "higher",
+        "explanation": "Mill distinguished between lower, sensual pleasures and higher, intellectual pleasures, arguing that the latter were qualitatively superior.",
+        "id": "9f099288-d764-4528-893a-b1906a8eacfe"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical theories with their core principles:",
+        "matchingPairs": [
+          {
+            "left": "Teleological Ethics",
+            "right": "The consequences of an action determine its morality."
+          },
+          {
+            "left": "Deontological Ethics",
+            "right": "Actions are right or wrong based on adherence to rules or duties."
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Focuses on the character of the moral agent rather than rules or consequences."
+          }
+        ],
+        "correctAnswer": "",
+        "explanation": "Teleological ethics (consequentialism) judges actions by their outcomes. Deontological ethics emphasizes duties and rules. Virtue ethics centers on developing good character traits.",
+        "id": "629237f5-5cea-4ddd-b3ad-c6b4f33e66bb"
+      },
+      {
+        "type": "short_answer",
+        "question": "Explain the concept of 'enlightened self-interest' as a reason for being moral.",
+        "options": [],
+        "correctAnswer": "Enlightened self-interest suggests that acting morally and promoting a good society is ultimately beneficial for one's own long-term well-being, even if it requires some personal sacrifice.",
+        "explanation": "The argument from enlightened self-interest posits that a society where everyone acts morally benefits each individual member, making it in their own best interest to be good.",
+        "id": "e6b76069-1f83-4a2c-95f9-9cdbd8076741"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is NOT a characteristic of a state according to the Montevideo Convention?",
+        "options": [
+          "A defined territory",
+          "A permanent population",
+          "A cultural identity",
+          "An effective government"
+        ],
+        "correctAnswer": "A cultural identity",
+        "explanation": "The Montevideo Convention outlines a defined territory, a permanent population, an effective government, and sovereignty as essential attributes of a state.",
+        "id": "0659e915-76e1-4bfa-a1c7-ac0cdc941911"
+      },
+      {
+        "type": "true_false",
+        "question": "The pluralist theory of the state views the state as an instrument of class oppression.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "The pluralist theory sees the state as a neutral arbiter or referee among competing groups, not as an instrument of class oppression.",
+        "id": "61ebc7a4-179e-4f1f-98ff-f14b9f3eb5fd"
+      },
+      {
+        "type": "fill_blank",
+        "question": "According to liberal thought, the primary political unit and focus of political inquiry is the _________.",
+        "options": [],
+        "correctAnswer": "individual",
+        "explanation": "Liberal theory places strong emphasis on the individual, their liberty, rights, and preferences as the core of political analysis and societal organization.",
+        "id": "03796226-6cce-40f2-89ab-9bcb5c24cdb8"
+      },
+      {
+        "type": "mcq",
+        "question": "Which ethical theory emphasizes the importance of developing good character and virtues?",
+        "options": [
+          "Deontology",
+          "Utilitarianism",
+          "Virtue Ethics",
+          "Ethical Egoism"
+        ],
+        "correctAnswer": "Virtue Ethics",
+        "explanation": "Virtue ethics, as discussed by Aristotle, focuses on the cultivation of moral character and virtues as the basis for ethical living.",
+        "id": "08831aef-d091-4689-bc5b-036f5a06583e"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical theories with their key proponents mentioned:",
+        "matchingPairs": [
+          {
+            "left": "Utilitarianism (Quantity over Quality)",
+            "right": "Jeremy Bentham"
+          },
+          {
+            "left": "Utilitarianism (Quality over Quantity)",
+            "right": "John Stuart Mill"
+          },
+          {
+            "left": "Deontology (Categorical Imperative)",
+            "right": "Immanuel Kant"
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Aristotle"
+          }
+        ],
+        "correctAnswer": "",
+        "explanation": "Bentham focused on the quantity of pleasure, Mill on its quality. Kant developed the categorical imperative, and Aristotle is the father of virtue ethics.",
+        "id": "985cd429-70ee-4176-90a7-8501198e0879"
+      },
+      {
+        "type": "true_false",
+        "question": "According to Kant's Categorical Imperative (Principle of Humanity), it is permissible to use another person merely as a means to an end.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Kant's second formulation of the categorical imperative states that humanity, in oneself or in others, should always be treated as an end and never merely as a means.",
+        "id": "809a1b1d-5b80-442f-a79e-8b927d6c34e0"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The _____ approach to ethics, rooted in Aristotle, suggests that 'equals should be treated equally and unequals unequally'.",
+        "options": [],
+        "correctAnswer": "Fairness and Justice",
+        "explanation": "The Fairness and Justice approach emphasizes treating equals equally and unequals unequally, based on morally relevant differences.",
+        "id": "7aa505cf-3e03-41ee-a1a9-84275d95ada8"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the core principle of rule-utilitarianism?",
+        "options": [],
+        "correctAnswer": "An act is right if it is required by a rule that, if generally accepted, would lead to greater utility for society than any alternative rule.",
+        "explanation": "Rule-utilitarianism focuses on the utility of the rules themselves, rather than the utility of each individual act.",
+        "id": "70b4bc90-f1b4-42da-88d8-915b790a2abb"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is a core value of democracy according to the text?",
+        "options": [
+          "Hierarchy",
+          "Autocracy",
+          "Justice",
+          "Oligarchy"
+        ],
+        "correctAnswer": "Justice",
+        "explanation": "The text identifies liberty/freedom, justice, and equality as core values central to the concept of democracy.",
+        "id": "ab47cd7d-ccd1-463f-ac7a-b47b67b21bef"
+      },
+      {
+        "type": "true_false",
+        "question": "According to the material, Jus Soli refers to acquiring citizenship based on the right of blood.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Jus Soli refers to the right of soil (place of birth), while Jus Sanguinis refers to the right of blood (parents' citizenship).",
+        "id": "e4708a9c-507a-44d5-98e8-e0d743596c9a"
+      }
+    ]
+  },
+  {
+    "id": "53bb58de-babc-490f-8549-61036776ddcd",
+    "sessionId": "233a14c4-0554-456b-874b-e7eb22bebe49",
+    "title": "Final Comprehensive Quiz",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "According to the text, which of the following is a core value central to the discussion of democracy?",
+        "options": [
+          "Nationalism",
+          "Justice",
+          "Economic growth",
+          "Cultural assimilation"
+        ],
+        "correctAnswer": "Justice",
+        "explanation": "The text explicitly mentions liberty/freedom, justice, and equality as three core values central to the discussion of democracy.",
+        "id": "34ec4a48-0607-4e74-a136-4a035a2bec30"
+      },
+      {
+        "type": "true_false",
+        "question": "In the context of ethical theories, deontology emphasizes the consequences of an action as the primary determinant of its moral rightness or wrongness.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Deontological ethics, in contrast to teleological ethics, focuses on duties, intentions, and moral principles rather than the consequences of an action.",
+        "id": "84bdeda8-03fd-4942-9282-72d7aee1fb23"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The approach to ethics that believes the end justifies the means and stresses that the consequences of an action determine its morality is known as __________ ethics.",
+        "options": [],
+        "correctAnswer": "teleological",
+        "explanation": "Teleological ethics, also referred to as consequentialist ethics, judges the morality of an action based on its outcomes or consequences.",
+        "id": "6087f69f-cafb-4483-8e73-fd50c90599fd"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the primary distinction between normative ethics and meta-ethics as presented in the material?",
+        "options": [],
+        "correctAnswer": "Normative ethics deals with questions about what is right or wrong and how one ought to live, focusing on moral principles and theories. Meta-ethics, on the other hand, is a second-order inquiry that examines the meaning of moral terms, the nature of moral judgments, and the justification for moral beliefs.",
+        "explanation": "Normative ethics is concerned with establishing moral standards and theories, while meta-ethics analyzes the language, concepts, and nature of morality itself.",
+        "id": "5edefc8d-91de-4c8a-8799-4acaaf09d625"
+      },
+      {
+        "type": "matching",
+        "question": "Match the ethical theory with its core principle:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Utilitarianism",
+            "right": "The greatest happiness for the greatest number."
+          },
+          {
+            "left": "Ethical Egoism",
+            "right": "Promoting one's own self-interest."
+          },
+          {
+            "left": "Deontology",
+            "right": "Acting according to moral duty and universal rules."
+          },
+          {
+            "left": "Virtue Ethics",
+            "right": "Focuses on developing good character traits (virtues)."
+          }
+        ],
+        "explanation": "Utilitarianism aims for the greatest good for the most people, ethical egoism prioritizes self-interest, deontology emphasizes duty, and virtue ethics focuses on character.",
+        "id": "9a00b84e-8b7d-4b5f-bf41-1e30d82d4b03"
+      },
+      {
+        "type": "mcq",
+        "question": "According to Immanuel Kant, what is the only thing that can be considered good without qualification?",
+        "options": [
+          "Happiness",
+          "Reason",
+          "A good will",
+          "Duty"
+        ],
+        "correctAnswer": "A good will",
+        "explanation": "Kant believed that only a good will, which acts according to moral duty and reason, is good in itself, irrespective of its outcomes or any personal desires.",
+        "id": "36eb4e15-7d05-45e5-af9c-54c30d9e3337"
+      },
+      {
+        "type": "true_false",
+        "question": "The concept of 'social morality' primarily concerns an individual's relationship with nature.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "Social morality concerns a human being in relation to other human beings, while morality and nature concerns the relationship of humans to the natural world.",
+        "id": "77d95276-3be9-49d4-8929-a9a8d03a45de"
+      },
+      {
+        "type": "fill_blank",
+        "question": "According to the text, the __________ approach to ethics, rooted in the teachings of Aristotle, asks 'How fair is an action?' and emphasizes treating equals equally and unequals unequally.",
+        "options": [],
+        "correctAnswer": "Fairness and Justice",
+        "explanation": "The Fairness and Justice approach, as explained in the material, is based on Aristotle's principle of treating equals equally and unequals unequally.",
+        "id": "8498afd7-5291-49bf-90fc-601536156ee4"
+      },
+      {
+        "type": "short_answer",
+        "question": "What are the four essential features of a state as defined by the Montevideo Convention?",
+        "options": [],
+        "correctAnswer": "A defined territory, a permanent population, an effective government, and sovereignty.",
+        "explanation": "The Montevideo Convention outlines these four attributes as essential for a political unit to be considered a state.",
+        "id": "a6745764-4bff-44b8-b1cc-92b6bdb3825e"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is a characteristic of a 'minimal state' as described in the text?",
+        "options": [
+          "Extensive state intervention in economic life",
+          "Focus on social restructuring and welfare",
+          "Limited to providing a framework of peace and order",
+          "Centralized control of all economic activities"
+        ],
+        "correctAnswer": "Limited to providing a framework of peace and order",
+        "explanation": "Minimal states, or 'night watchman' states, focus on maintaining domestic order, enforcing contracts, and providing protection against external attack, with limited intervention in other areas.",
+        "id": "a628d9ac-d828-4039-beb2-521cea165695"
+      },
+      {
+        "type": "true_false",
+        "question": "According to liberal theory of citizenship, the community is morally prior to the individual.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": "False",
+        "explanation": "In liberal theory, the individual is considered morally prior to the community, with the community's value stemming from its contribution to individual well-being.",
+        "id": "6532c46d-256d-4879-a9f0-6a8fd3d9632b"
+      },
+      {
+        "type": "fill_blank",
+        "question": "The __________ approach to citizenship emphasizes the importance of society in articulating the good and argues that an individual's identity is deeply constructed by the society in which they are a member.",
+        "options": [],
+        "correctAnswer": "Communitarian",
+        "explanation": "Communitarian thought stresses the role of society and shared values in shaping individual identity and believes that the good of the community is paramount.",
+        "id": "8638f3df-4b95-46a6-af79-efbf54d46d03"
+      },
+      {
+        "type": "matching",
+        "question": "Match the principles of democracy with their descriptions:",
+        "options": [],
+        "correctAnswer": "",
+        "matchingPairs": [
+          {
+            "left": "Popular Sovereignty",
+            "right": "Ultimate political authority resides in the people."
+          },
+          {
+            "left": "Constitutional Supremacy",
+            "right": "The constitution is the highest law of the land."
+          },
+          {
+            "left": "Rule of Law",
+            "right": "The law governs everyone, and all are accountable to it."
+          },
+          {
+            "left": "Secularism",
+            "right": "Separation of state and religion."
+          }
+        ],
+        "explanation": "Popular sovereignty places ultimate authority with the people, constitutional supremacy upholds the constitution as the highest law, the rule of law ensures everyone is governed by law, and secularism advocates for the separation of state and religious affairs.",
+        "id": "a4abc1f7-8c2c-4998-96f7-6bc2e564ee54"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is considered a non-derogable human right according to the International Covenant on Civil and Political Rights (ICCPR)?",
+        "options": [
+          "Freedom of movement",
+          "The right to privacy",
+          "Freedom from torture or cruel, inhuman, and degrading treatment",
+          "The right to vote"
+        ],
+        "correctAnswer": "Freedom from torture or cruel, inhuman, and degrading treatment",
+        "explanation": "The ICCPR lists freedom from torture, cruel, inhuman, or degrading treatment or punishment as non-derogable rights that cannot be suspended under any circumstances.",
+        "id": "fa598a25-8c20-4d98-9e40-56fa2db246f7"
+      },
+      {
+        "type": "short_answer",
+        "question": "What is the significance of the Universal Declaration of Human Rights (UDHR)?",
+        "options": [],
+        "correctAnswer": "The UDHR is considered a foundational document for human rights, serving as a common standard of achievement for all peoples and nations and influencing subsequent national and international human rights laws and constitutions.",
+        "explanation": "The UDHR, though not binding, has significant moral weight and has served as a basis for many legal instruments and national constitutions related to human rights protection.",
+        "id": "a7bd078d-9bcc-4f6a-9554-0778d7a7b967"
+      }
+    ]
+  }
+]

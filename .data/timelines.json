@@ -1,0 +1,1606 @@
+[
+  {
+    "id": "5d0515ab-16bf-429e-afdd-156fe42246ce",
+    "sessionId": "898257be-cd58-4068-b4fc-1d259d82e284",
+    "totalMinutes": 45,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Introduction",
+        "durationMinutes": 1,
+        "order": 1,
+        "sectionId": "Introduction",
+        "id": "9686d800-4e30-4877-b7ff-37e08475bf22",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Course Information",
+        "durationMinutes": 1,
+        "order": 2,
+        "sectionId": "Course Information",
+        "id": "504052e1-f962-4744-b9e3-c36101923c2d",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Course Description",
+        "durationMinutes": 1,
+        "order": 3,
+        "sectionId": "Course Description",
+        "id": "d3cfe55a-5c8b-40b7-93a1-db685c965932",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Quick Check: Intro & Course Info",
+        "durationMinutes": 3,
+        "order": 4,
+        "id": "d27147d2-6639-4553-974a-861213fb54ff",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 5,
+        "id": "ac8d4c2e-6188-498d-941c-340a8023c411",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Rationale and Imperative for Civics and Ethical Education",
+        "durationMinutes": 2,
+        "order": 6,
+        "sectionId": "Rationale and Imperative for Civics and Ethical Education",
+        "id": "b298c751-5681-45d7-9639-f70077f9a615",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Course Objectives and Scope",
+        "durationMinutes": 2,
+        "order": 7,
+        "sectionId": "Course Objectives and Scope",
+        "id": "a26600bb-dff0-4fdf-8a13-61096ec848cb",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Teaching and Learning Techniques",
+        "durationMinutes": 2,
+        "order": 8,
+        "sectionId": "Teaching and Learning Techniques",
+        "id": "e192632d-3206-4096-80f9-e5f6e35aa68f",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Review Key Terms & Concepts",
+        "durationMinutes": 3,
+        "order": 9,
+        "id": "71b15587-be22-4012-849d-961b6fdc8d65",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Mind Refresh Break",
+        "durationMinutes": 5,
+        "order": 10,
+        "id": "049d624e-b03d-49d5-a1d8-f9c35428537f",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Assessment Strategies and Techniques",
+        "durationMinutes": 2,
+        "order": 11,
+        "sectionId": "Assessment Strategies and Techniques",
+        "id": "c1a440db-9ef5-4aa9-b077-4c56bc509157",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Research Context and Methodologies (Supporting Information)",
+        "durationMinutes": 3,
+        "order": 12,
+        "sectionId": "Research Context and Methodologies (External/Supporting Information)",
+        "id": "c893e5a2-0c80-4845-b6a7-04aaf2588305",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Course Contents Overview (Key Points)",
+        "durationMinutes": 10,
+        "order": 13,
+        "sectionId": "Course Contents",
+        "id": "86254e38-7315-49d4-893a-ff051ac18bd9",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Comprehensive Review Quiz",
+        "durationMinutes": 5,
+        "order": 14,
+        "id": "200205e1-232c-43c3-8336-da6e0b70aeb3",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "4b50ca39-75d2-4d27-ad53-1249db6d59ac",
+    "sessionId": "898257be-cd58-4068-b4fc-1d259d82e284",
+    "totalMinutes": 45,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Introduction & Course Information Overview",
+        "durationMinutes": 2,
+        "order": 1,
+        "sectionId": "Introduction",
+        "id": "69f68056-9c1a-46f2-9342-13929ae39e9a",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Course Description Deep Dive",
+        "durationMinutes": 3,
+        "order": 2,
+        "sectionId": "Course Description",
+        "id": "e52ac224-8850-4ff1-a4d9-132bba4a7af5",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 2,
+        "order": 3,
+        "id": "5663a5a9-8c93-4cf3-a02a-d0254324b603",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Course Contents - Key Themes & Structure",
+        "durationMinutes": 5,
+        "order": 4,
+        "sectionId": "Course Contents",
+        "id": "99304ec3-b693-4578-8a71-035020f6171c",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Teaching & Learning Techniques",
+        "durationMinutes": 2,
+        "order": 5,
+        "sectionId": "Teaching and Learning Techniques",
+        "id": "19477729-fa89-4f83-88f9-ef5dfffb2558",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Assessment Strategies",
+        "durationMinutes": 2,
+        "order": 6,
+        "sectionId": "Assessment Strategies and Techniques",
+        "id": "944d6de7-075b-484f-96ea-f01f76f55c47",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Quiz: Foundational Concepts",
+        "durationMinutes": 5,
+        "order": 7,
+        "id": "2af42352-4eb4-44d1-a62a-5495dff1a8ad",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Flashcard Review (Key Terms)",
+        "durationMinutes": 3,
+        "order": 8,
+        "id": "919ffcf9-7ef4-40c0-9481-195d356e411a",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Stretch Break",
+        "durationMinutes": 3,
+        "order": 9,
+        "id": "503300bc-1a52-4b22-a0ee-3b071646a4f7",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Course Contents - Deeper Dive (Topic A)",
+        "durationMinutes": 8,
+        "order": 10,
+        "sectionId": "Course Contents",
+        "id": "440d8d11-c063-41f6-af8f-a96a584096e4",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Research Methodologies (Supplementary)",
+        "durationMinutes": 3,
+        "order": 11,
+        "sectionId": "Research Methodologies (from supplementary material)",
+        "id": "cd852727-f021-49bb-ac75-8cbc6f58c7f3",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Comprehensive Review & Final Quiz",
+        "durationMinutes": 7,
+        "order": 12,
+        "id": "1e548990-dbbf-4194-b05d-c4308e9731c6",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "a7247aed-864f-4c63-867d-3df8df6d964c",
+    "sessionId": "fe0d4a91-c21c-4786-8134-90f53c813ac8",
+    "totalMinutes": 25,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Introduction",
+        "durationMinutes": 1,
+        "order": 1,
+        "sectionId": "Introduction",
+        "id": "2bd76f67-b85b-4e8d-b966-f4b2dc6b7c64",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Introduction to Ethical Inquiry",
+        "durationMinutes": 1,
+        "order": 2,
+        "sectionId": "1. Introduction to Ethical Inquiry",
+        "id": "d42d4b0a-e20a-47e6-877a-5c33576b4953",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Branches of Ethics",
+        "durationMinutes": 1,
+        "order": 3,
+        "sectionId": "2. Branches of Ethics",
+        "id": "95503c85-5bc8-4f03-8fd9-72bcfad7630c",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Quiz: Early Concepts (Sections 1-3)",
+        "durationMinutes": 1.5,
+        "order": 4,
+        "id": "dabc7b89-225b-4e93-8fa3-7cf58c5f2346",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "What is Morality?",
+        "durationMinutes": 1,
+        "order": 5,
+        "sectionId": "3. What is Morality?",
+        "id": "b116c3ff-57d9-465f-9cb4-5f6fe8464f3f",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Difference Between Ethics and Morality",
+        "durationMinutes": 1,
+        "order": 6,
+        "sectionId": "4. Difference Between Ethics and Morality",
+        "id": "2f09f3b4-e2fb-4bbd-80e3-4335a92c04c5",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Flashcard Review: Key Terms & Definitions",
+        "durationMinutes": 1,
+        "order": 7,
+        "id": "289eb093-286f-4433-a843-bd0529c34ec4",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Ethics and Law",
+        "durationMinutes": 1,
+        "order": 8,
+        "sectionId": "5. Ethics and Law",
+        "id": "b5776c08-5384-4509-aef3-59250f8f72aa",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Living in Society: The Need for Civics and Ethics",
+        "durationMinutes": 1,
+        "order": 9,
+        "sectionId": "6. Living in Society: The Need for Civics and Ethics",
+        "id": "14275204-4b79-4a20-9803-4916b4535b6f",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Importance of Civic and Moral Education",
+        "durationMinutes": 1.5,
+        "order": 10,
+        "sectionId": "7. Importance of Civic and Moral Education",
+        "id": "2871d4d3-2bc0-4046-9311-db3aef3f716c",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Quiz: Ethics in Society (Sections 4-8)",
+        "durationMinutes": 1.5,
+        "order": 11,
+        "id": "c606d932-f0a3-4cd9-82a5-6cf6cef982fc",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Political Culture",
+        "durationMinutes": 1,
+        "order": 12,
+        "sectionId": "8. Political Culture",
+        "id": "f2016285-5967-4f78-8060-82289699f00f",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Active Citizenship",
+        "durationMinutes": 1,
+        "order": 13,
+        "sectionId": "9. Active Citizenship",
+        "id": "9b329d28-77ac-4fb6-afd9-ecd7324f6b6e",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Importance of Knowledge, Skills, and Attitudes for Effective Citizenship",
+        "durationMinutes": 1,
+        "order": 14,
+        "sectionId": "10. Importance of Knowledge, Skills, and Attitudes for Effective Citizenship",
+        "id": "d8484a5b-8028-444e-8f67-8f7fef7b67ba",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Quick Stretch Break",
+        "durationMinutes": 1,
+        "order": 15,
+        "id": "2c6d2fb6-8afd-48d4-86ea-77f4429fcf22",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Intercultural Society and Peace Building",
+        "durationMinutes": 1,
+        "order": 16,
+        "sectionId": "11. Intercultural Society and Peace Building",
+        "id": "c43be757-6ec2-4b97-b590-b152b7ed43e1",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Core Values of Civic and Moral Education",
+        "durationMinutes": 1,
+        "order": 17,
+        "sectionId": "12. Core Values of Civic and Moral Education",
+        "id": "e509e2fe-9a55-4f87-b654-ffbe8d77627e",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Quiz: Citizenship & Values (Sections 9-13)",
+        "durationMinutes": 1.5,
+        "order": 18,
+        "id": "f607f0bc-a2b0-4506-a387-ec7df8705a3d",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Definitions of Civic Education",
+        "durationMinutes": 1,
+        "order": 19,
+        "sectionId": "13. Definitions of Civic Education",
+        "id": "01243edc-35f8-43a9-b28c-ae50456f7bd7",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Ethics Revisited: A Philosophical Perspective",
+        "durationMinutes": 1,
+        "order": 20,
+        "sectionId": "14. Ethics Revisited: A Philosophical Perspective",
+        "id": "7030a324-0719-48b1-a63b-81dd45501a57",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Comprehensive Final Quiz",
+        "durationMinutes": 3,
+        "order": 21,
+        "id": "71e56b92-aeb6-48cf-ab1d-df30c1168007",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "a732f0c7-437a-484f-bd47-32b24e3922ec",
+    "sessionId": "fe0d4a91-c21c-4786-8134-90f53c813ac8",
+    "totalMinutes": 25,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Introduction",
+        "durationMinutes": 1,
+        "order": 1,
+        "sectionId": "Introduction",
+        "id": "e8be39e3-06a1-43fd-90b4-105b2ec69711",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Introduction to Ethics and Moral Judgments",
+        "durationMinutes": 1,
+        "order": 2,
+        "sectionId": "1. Introduction to Ethics and Moral Judgments",
+        "id": "5242b435-3f6c-4618-8dbc-7a8695db4690",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Understanding Morality",
+        "durationMinutes": 1,
+        "order": 3,
+        "sectionId": "2. Understanding Morality",
+        "id": "47d7ca28-dbfa-461b-8148-45de7e578e14",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Quiz: Early Ethics & Morality Concepts",
+        "durationMinutes": 2,
+        "order": 4,
+        "id": "ec644c05-0ad9-409f-83b3-dded547b00bd",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Ethics, Morality, and Law",
+        "durationMinutes": 1,
+        "order": 5,
+        "sectionId": "3. Ethics, Morality, and Law",
+        "id": "32ccb5f5-135d-4b01-8151-2f56ad690419",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Introduction to Civics and Ethics",
+        "durationMinutes": 1,
+        "order": 6,
+        "sectionId": "4. Introduction to Civics and Ethics",
+        "id": "ae83a15a-b81b-4e36-8689-56e5f65095a6",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Political Culture and Active Citizenship",
+        "durationMinutes": 1,
+        "order": 7,
+        "sectionId": "5. Political Culture and Active Citizenship",
+        "id": "faf50712-7ead-48b6-87ab-aacc24df6d13",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Flashcards: Key Terms & Definitions",
+        "durationMinutes": 2,
+        "order": 8,
+        "id": "bea79f51-9eaf-44a5-9834-5481d8255d75",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Building a Harmonious Society",
+        "durationMinutes": 1,
+        "order": 9,
+        "sectionId": "6. Building a Harmonious Society",
+        "id": "50cb8931-bfb9-4f2e-8df2-96a61c23110b",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Understanding Civic Education",
+        "durationMinutes": 2,
+        "order": 10,
+        "sectionId": "7. Understanding Civic Education",
+        "id": "8f3a46c6-8575-44e1-8b08-3f5d517dbf09",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Deep Dive into Ethics",
+        "durationMinutes": 2,
+        "order": 11,
+        "sectionId": "8. Deep Dive into Ethics",
+        "id": "9e5fa7df-d79e-4177-8364-861cfec09353",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Quick Mental Reset",
+        "durationMinutes": 5,
+        "order": 12,
+        "id": "31f5ba16-823f-43f8-9681-ef56f54ea812",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Comprehensive Quiz: All Sections",
+        "durationMinutes": 5,
+        "order": 13,
+        "id": "35ffd7d2-6bdf-45f7-bc80-1eac25326592",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "10540cda-94bd-4689-a591-f54e76a6c413",
+    "sessionId": "ef19ad0c-db5f-494b-900a-7569fac76266",
+    "totalMinutes": 90,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "MCED 1011: Teaching Module Notes - Introduction",
+        "durationMinutes": 15,
+        "order": 1,
+        "sectionId": "MORAL AND CITIZENSHIP EDUCATION (MCED 1011): Teaching Module Notes",
+        "id": "c131d607-2ec3-428f-a82c-9e96983891e8",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 2,
+        "id": "5014383f-1308-4ae6-a594-2f85cad555b7",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "MCED 1011: Teaching Module Notes - Core Concepts",
+        "durationMinutes": 20,
+        "order": 3,
+        "sectionId": "MORAL AND CITIZENSHIP EDUCATION (MCED 1011): Teaching Module Notes",
+        "id": "65bc03a8-4bf2-4fdd-8217-9711c81ee30a",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "MCED 1011 Flashcard Review",
+        "durationMinutes": 10,
+        "order": 4,
+        "sectionId": "MORAL AND CITIZENSHIP EDUCATION (MCED 1011): Teaching Module Notes",
+        "id": "63fe3d8d-e337-4570-8227-c3be8ca633c9",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "MCED 1011 Quiz - Part 1",
+        "durationMinutes": 15,
+        "order": 5,
+        "sectionId": "MORAL AND CITIZENSHIP EDUCATION (MCED 1011): Teaching Module Notes",
+        "id": "49f195fe-1c51-4d6f-ae6e-1199abf0a180",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Longer Break",
+        "durationMinutes": 10,
+        "order": 6,
+        "id": "a8e9e35e-178e-49ab-b536-318a54baafa8",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "MCED 1011: Teaching Module Notes - Application",
+        "durationMinutes": 15,
+        "order": 7,
+        "sectionId": "MORAL AND CITIZENSHIP EDUCATION (MCED 1011): Teaching Module Notes",
+        "id": "02d499e3-2511-480a-8ae0-351aa90a0b85",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "MCED 1011 Flashcard Review - Application",
+        "durationMinutes": 5,
+        "order": 8,
+        "sectionId": "MORAL AND CITIZENSHIP EDUCATION (MCED 1011): Teaching Module Notes",
+        "id": "8341a050-e6e4-4d54-a4b3-0856826a6eda",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "MCED 1011 Comprehensive Final Quiz",
+        "durationMinutes": 10,
+        "order": 9,
+        "sectionId": "MORAL AND CITIZENSHIP EDUCATION (MCED 1011): Teaching Module Notes",
+        "id": "079642e4-29da-473e-a885-6acedbe6b49f",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "6c57ea38-5992-4986-b2c2-1f0ced866b80",
+    "sessionId": "fe9537ed-196d-4abe-91e8-9e49bbc14ffa",
+    "totalMinutes": 45,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Introduction and Module Overview",
+        "durationMinutes": 5,
+        "order": 1,
+        "sectionId": "Module Overview",
+        "id": "6287cf43-27b4-4c6f-a1bd-917c303d2279",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Mastering Chapter One: Understanding Civics",
+        "durationMinutes": 7,
+        "order": 2,
+        "sectionId": "Chapter One: Understanding Civics and Ethics",
+        "id": "f937e8f4-ab60-4230-86df-68c9928d204b",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Flashcard Review: Definitions and Themes",
+        "durationMinutes": 5,
+        "order": 3,
+        "id": "15228387-a0c2-41da-a7dd-0381166ecb5f",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Rest and Hydration",
+        "durationMinutes": 5,
+        "order": 4,
+        "id": "7f628a40-5b1e-4746-aab0-31b1ec17f7ea",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Detailed Study: Approaches to Ethics",
+        "durationMinutes": 10,
+        "order": 5,
+        "sectionId": "Chapter Two: Approaches to Ethics",
+        "id": "468fe70a-f580-4a30-8a29-dbe5df8101de",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Mental Reset",
+        "durationMinutes": 5,
+        "order": 6,
+        "id": "945d3d35-b46c-4ba4-abc4-82babbec693f",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Comprehensive Knowledge Check",
+        "durationMinutes": 8,
+        "order": 7,
+        "id": "9532c1e3-a023-4811-b0c1-656a02183c6d",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "a4100327-0da1-43e6-936f-bc5ebd28923c",
+    "sessionId": "af4998bf-d300-4a97-9b08-2cd84b0f8ff5",
+    "totalMinutes": 45,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Chapter Two: Approaches to Ethics",
+        "durationMinutes": 15,
+        "order": 1,
+        "sectionId": "Chapter Two: Approaches to Ethics (29 words)",
+        "id": "8867931a-95fa-4de8-90f2-d1efeead02b0",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 2,
+        "id": "3e46b332-9524-4e9e-8850-a3ae6e5912aa",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Review Ethics Approaches Flashcards",
+        "durationMinutes": 10,
+        "order": 3,
+        "sectionId": "Chapter Two: Approaches to Ethics (29 words)",
+        "id": "413151fc-210e-49fd-8e17-b8798d2e0d88",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 4,
+        "id": "bf0d1a51-c0f7-4f83-8958-c178830817d5",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Chapter Two Quiz",
+        "durationMinutes": 10,
+        "order": 5,
+        "sectionId": "Chapter Two: Approaches to Ethics (29 words)",
+        "id": "0e20bfd6-a097-4efd-8944-f6044fa296b0",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "fd2d0235-2b2b-4bc1-b7ab-52ad4388295c",
+    "sessionId": "af4998bf-d300-4a97-9b08-2cd84b0f8ff5",
+    "totalMinutes": 5,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Introduction to Ethics",
+        "durationMinutes": 0.15,
+        "order": 1,
+        "sectionId": "1. Introduction",
+        "id": "a0b2af9c-2e2c-45a2-9717-a1d4c89326b7",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Chapter Introduction",
+        "durationMinutes": 0.25,
+        "order": 2,
+        "sectionId": "2.1. Chapter Introduction",
+        "id": "cf702a44-cb46-463e-8785-5c6e401a6ff4",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Chapter Objectives",
+        "durationMinutes": 0.25,
+        "order": 3,
+        "sectionId": "2.2. Chapter Objectives",
+        "id": "db938298-5314-4cff-9e4c-264b13b6940e",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Quiz: Introduction & Objectives",
+        "durationMinutes": 0.2,
+        "order": 4,
+        "id": "2c879d00-5491-4467-ba86-679d9f096e9c",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Normative Ethics Overview",
+        "durationMinutes": 0.25,
+        "order": 5,
+        "sectionId": "2.3. Normative Ethics",
+        "id": "b98a4638-03a6-42f7-82e1-4bc3eaab4307",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Teleological Ethics (Consequentialist)",
+        "durationMinutes": 0.25,
+        "order": 6,
+        "sectionId": "2.3.1. Teleological Ethics (Consequentialist)",
+        "id": "4155bede-709b-4652-9776-2a9abfd84c1c",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Flashcard Review: Normative Ethics Terms",
+        "durationMinutes": 0.2,
+        "order": 7,
+        "id": "53495492-f6a0-4d3f-9337-a89eef4f9ff7",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Egoism: Ethical and Psychological",
+        "durationMinutes": 0.3,
+        "order": 8,
+        "sectionId": "2.3.2. Egoism: Ethical and Psychological Egoism",
+        "id": "93a73fd7-9459-4ef3-a68a-cc7fa169f35b",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Utilitarianism: Best Consequences",
+        "durationMinutes": 0.25,
+        "order": 9,
+        "sectionId": "2.3.3. Utilitarianism: Producing the Best Consequences",
+        "id": "f13493bb-1d7b-4627-84ad-0fbe1305ed0b",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Deontological Ethics (Non-Consequentialist)",
+        "durationMinutes": 0.3,
+        "order": 10,
+        "sectionId": "2.3.4. Deontological Ethics (Non-Consequentialist)",
+        "id": "81408e6a-950c-4e1a-b898-4e39d26b7508",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Quiz: Types of Normative Ethics",
+        "durationMinutes": 0.3,
+        "order": 11,
+        "id": "53469c20-9073-491c-b43f-81a67641a520",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Virtue Ethics",
+        "durationMinutes": 0.2,
+        "order": 12,
+        "sectionId": "2.3.5. Virtue Ethics",
+        "id": "597aaf6a-7216-41ee-943f-a3d3b4b2b91d",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Non-Normative Ethics/Meta-ethics",
+        "durationMinutes": 0.3,
+        "order": 13,
+        "sectionId": "2.4. Non-Normative Ethics/Meta-ethics",
+        "id": "e212029a-852d-4c58-8d59-d1541700a395",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Flashcard Review: Meta-ethics Concepts",
+        "durationMinutes": 0.2,
+        "order": 14,
+        "id": "136a1e61-9171-4432-aae7-42567d2ae23d",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Cognitivism and Non-Cognitivism",
+        "durationMinutes": 0.25,
+        "order": 15,
+        "sectionId": "2.4.2. Cognitivism and Non-Cognitivism",
+        "id": "939d84f6-d986-4383-a8d0-849799cd1201",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Non-Cognitivism Details",
+        "durationMinutes": 0.25,
+        "order": 16,
+        "sectionId": "2.4.3. Non-Cognitivism",
+        "id": "b0b7c2c6-6993-470f-9f88-6034434d1737",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Internalism & Externalism, Humeanism",
+        "durationMinutes": 0.3,
+        "order": 17,
+        "sectionId": "2.4.3.1. Internalism and Externalism, Humeanism and Anti- Humeanism",
+        "id": "a009548f-86ab-45f6-a90e-923f57cc3640",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Chapter Summary",
+        "durationMinutes": 0.2,
+        "order": 18,
+        "sectionId": "Chapter Summary",
+        "id": "6261a16d-2bc2-4bb1-a068-408aba4ccf14",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "References Review",
+        "durationMinutes": 0.2,
+        "order": 19,
+        "sectionId": "References",
+        "id": "1b25d700-0484-4bf2-a790-3df4de4ca0e0",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Comprehensive Final Quiz",
+        "durationMinutes": 0.4,
+        "order": 20,
+        "id": "7a6d3934-eab7-4cad-98fb-2232ecd28c88",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "149a2d45-0360-4f35-b964-fe3929b2a0f4",
+    "sessionId": "74215d36-a9e5-4421-9c9d-ff7d27585549",
+    "totalMinutes": 60,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Introduction to Ethical Approaches",
+        "durationMinutes": 15,
+        "order": 1,
+        "sectionId": "Chapter Two: Approaches to Ethics",
+        "id": "10a28336-4a74-4def-a9d1-0efde1320bc1",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 2,
+        "id": "e9d66bb7-b385-428e-92f8-d2e791cdb978",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Examining Key Ethical Theories",
+        "durationMinutes": 15,
+        "order": 3,
+        "sectionId": "Chapter Two: Approaches to Ethics",
+        "id": "8ce6f588-b647-47b2-9a8c-94164222bbcb",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Review Ethical Approach Definitions",
+        "durationMinutes": 10,
+        "order": 4,
+        "sectionId": "Chapter Two: Approaches to Ethics",
+        "id": "8ddaad45-0923-4d2e-9cfd-845f4764a1e0",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Chapter Two Concept Check",
+        "durationMinutes": 15,
+        "order": 5,
+        "sectionId": "Chapter Two: Approaches to Ethics",
+        "id": "59174b3b-b354-4321-8e50-4db1be11bbd1",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Final Break",
+        "durationMinutes": 5,
+        "order": 6,
+        "id": "f5faaed4-6c09-49b2-b04d-411cadb4979c",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Comprehensive Chapter Two Review",
+        "durationMinutes": 5,
+        "order": 7,
+        "sectionId": "Chapter Two: Approaches to Ethics",
+        "id": "6c18a35f-186b-41c1-babc-9b99c4524e47",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "f77a63a1-471a-4d38-8fc8-f96b4eebe7ed",
+    "sessionId": "74215d36-a9e5-4421-9c9d-ff7d27585549",
+    "totalMinutes": 60,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Study: Approaches to Ethics",
+        "durationMinutes": 15,
+        "order": 1,
+        "sectionId": "Approaches to Ethics",
+        "id": "9a36c287-f9db-47ff-9778-46bac5458171",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 2,
+        "id": "4de29b32-06be-4385-9cf6-bd8b597db52a",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Study: Introduction to Normative Ethics",
+        "durationMinutes": 20,
+        "order": 3,
+        "sectionId": "Introduction to Normative Ethics",
+        "id": "5b2d67b1-6ab2-478d-b26f-be717e79cc8f",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Quiz: Ethics Concepts",
+        "durationMinutes": 10,
+        "order": 4,
+        "id": "e8337c47-5446-4835-b779-556f5ad10a9b",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Flashcard Review",
+        "durationMinutes": 5,
+        "order": 5,
+        "id": "5ed8f141-9da5-4c77-b0d0-ac7701ea7624",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 6,
+        "id": "83931fa7-f919-4f7d-919a-988c253c218e",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Comprehensive Quiz",
+        "durationMinutes": 5,
+        "order": 7,
+        "id": "212bef6d-8228-4fb4-b451-8372bf7d6070",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "4d2d9f60-d7eb-4c1a-8290-3bd71bd8a6a0",
+    "sessionId": "233a14c4-0554-456b-874b-e7eb22bebe49",
+    "totalMinutes": 45,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Introduction to Approaches to Ethics",
+        "durationMinutes": 10,
+        "order": 1,
+        "sectionId": "Chapter Two: Approaches to Ethics",
+        "id": "a52655ff-9a3f-499f-8e91-72fc7dd35df4",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 2,
+        "id": "19f68a66-6fac-4eaf-97ba-64a7fb487e46",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Detailed Explanation of Ethical Frameworks",
+        "durationMinutes": 15,
+        "order": 3,
+        "sectionId": "Chapter Two: Approaches to Ethics",
+        "id": "5c35dc66-f0cd-4166-aafc-21426f978bd3",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Ethical Terminology Review",
+        "durationMinutes": 5,
+        "order": 4,
+        "id": "23b30d03-a305-4339-812d-802919e388df",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Chapter Two Concepts Quiz",
+        "durationMinutes": 10,
+        "order": 5,
+        "sectionId": "Chapter Two: Approaches to Ethics",
+        "id": "beb7a8a6-9191-4718-814d-b89e1e95f0da",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "510a4285-a0f4-4771-b0fb-a158244da698",
+    "sessionId": "233a14c4-0554-456b-874b-e7eb22bebe49",
+    "totalMinutes": 45,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Chapter Two: Approaches to Ethics",
+        "durationMinutes": 10,
+        "order": 1,
+        "sectionId": "Chapter Two: Approaches to Ethics",
+        "id": "2e09cf8d-8d95-4fa1-a139-39d089ab2bed",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 2,
+        "id": "942f4e1a-bdb9-4061-9eca-412beaa0ffac",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Chapter Two: Deeper Dive into Ethical Frameworks",
+        "durationMinutes": 10,
+        "order": 3,
+        "sectionId": "Chapter Two: Approaches to Ethics",
+        "id": "463f6166-acf8-4e7a-a9e5-4cc824b52ced",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Key Ethical Terms Review",
+        "durationMinutes": 5,
+        "order": 4,
+        "sectionId": "Chapter Two: Approaches to Ethics",
+        "id": "5ebaba9b-e867-48e3-b9c4-e36789615e7f",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 5,
+        "id": "82c0417a-363d-43b2-a576-a3ae43467d17",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Chapter Two Comprehensive Quiz",
+        "durationMinutes": 10,
+        "order": 6,
+        "sectionId": "Chapter Two: Approaches to Ethics",
+        "id": "a835d26b-63e8-40e8-ae9c-eb759e2108a2",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "83d704f7-f0f3-4793-bf6c-75ef7aef2947",
+    "sessionId": "bfc15bcf-b8cf-43eb-a8a9-cc9b67e4fcfa",
+    "totalMinutes": 1278,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Study: Introduction to Digital Information",
+        "durationMinutes": 30,
+        "order": 1,
+        "sectionId": "1. Introduction",
+        "id": "9741730c-cec8-4663-baf6-821a4fe9179e",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 2,
+        "id": "cb5bb4a9-98f1-4986-9e09-363e8adf86d3",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Study: The Nature of Digital Information",
+        "durationMinutes": 30,
+        "order": 3,
+        "sectionId": "2. The Nature of Digital Information",
+        "id": "278f821e-c014-4a92-92e2-5133b437ae0f",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Study: Introduction to Logic Gates",
+        "durationMinutes": 45,
+        "order": 4,
+        "sectionId": "3. Introduction to Logic Gates",
+        "id": "44e0acf6-609b-4047-b522-3bffcb73a71e",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Quiz: Logic Gates",
+        "durationMinutes": 20,
+        "order": 5,
+        "id": "70aa0376-0bd0-4922-a592-23a4f4529f2b",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 10,
+        "order": 6,
+        "id": "c6bffc2d-c907-4348-b984-6b55da951ac8",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Study: Combinational Logic Circuits",
+        "durationMinutes": 50,
+        "order": 7,
+        "sectionId": "4. Combinational Logic Circuits",
+        "id": "cf43a2db-6098-48c5-bdb5-2fbb53f9014c",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Study: Sequential Logic Circuits (Introduction)",
+        "durationMinutes": 45,
+        "order": 8,
+        "sectionId": "5. Sequential Logic Circuits (Introduction)",
+        "id": "30f00462-aabf-4e0e-8e48-eeedaf066328",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Flashcard Review: Key Concepts",
+        "durationMinutes": 25,
+        "order": 9,
+        "id": "32963612-81b2-4346-8e66-0705e64bf547",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 10,
+        "order": 10,
+        "id": "3edc133c-ee21-4897-8782-8f661e8cb8af",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Deep Dive: Combinational Circuit Examples",
+        "durationMinutes": 50,
+        "order": 11,
+        "id": "210eeda8-27b3-4f9e-9cd3-b2c381e8b794",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Deep Dive: Sequential Circuit Examples",
+        "durationMinutes": 50,
+        "order": 12,
+        "id": "4c9c32b6-0b31-4648-8de6-5a947d5f1ceb",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Quiz: Circuit Types",
+        "durationMinutes": 30,
+        "order": 13,
+        "id": "018aba9c-cdc6-4fc4-a70c-88ee63ddaa56",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Lunch Break",
+        "durationMinutes": 30,
+        "order": 14,
+        "id": "51076f4e-a549-452c-b229-f69b51421607",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Advanced Topic: Flip-Flops and Registers",
+        "durationMinutes": 70,
+        "order": 15,
+        "id": "7e7e2f2b-4760-454c-974a-7e557865ea75",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Advanced Topic: Counters and Timers",
+        "durationMinutes": 70,
+        "order": 16,
+        "id": "f71819a9-bb99-4e47-947c-4e8cdcd652a8",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Flashcard Review: Advanced Concepts",
+        "durationMinutes": 35,
+        "order": 17,
+        "id": "e4088713-12b4-4789-bd41-e82d8238d8ca",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 15,
+        "order": 18,
+        "id": "83668f60-c30f-49ad-bd13-55a8580495bb",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Application: Memory Systems",
+        "durationMinutes": 60,
+        "order": 19,
+        "id": "07703ca5-307e-46b0-910b-f432b8f7bc04",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Application: Microprocessors",
+        "durationMinutes": 60,
+        "order": 20,
+        "id": "f8aedf4e-b1ce-40b5-bc20-72a62e09d611",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Quiz: Applications and Advanced Topics",
+        "durationMinutes": 40,
+        "order": 21,
+        "id": "0e44a087-7ddd-454f-9092-7b6ea9520b91",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 15,
+        "order": 22,
+        "id": "e38f9a8f-36a4-48b1-ac60-58489f1607e8",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Review: Digital Information Fundamentals",
+        "durationMinutes": 75,
+        "order": 23,
+        "id": "10f51d43-b593-4e0c-bf38-a5f492c12d4f",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Review: Logic and Circuit Design Principles",
+        "durationMinutes": 75,
+        "order": 24,
+        "id": "2ddab126-1bd0-4856-826e-53b5dc244478",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Comprehensive Flashcard Review",
+        "durationMinutes": 45,
+        "order": 25,
+        "id": "7399e7a3-a981-4b88-9b3d-210354ed5f90",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Long Break Before Final Review",
+        "durationMinutes": 20,
+        "order": 26,
+        "id": "e706c35b-e161-4eb4-9990-572e87ac4b9e",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Final Review: All Topics",
+        "durationMinutes": 100,
+        "order": 27,
+        "id": "f87870a5-8355-47de-af0c-d017be291f37",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Comprehensive Final Exam",
+        "durationMinutes": 128,
+        "order": 28,
+        "id": "17ae8e61-a1d2-4ef6-b5da-f9f640dcd72c",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "8ae27953-c424-47ca-b033-6a1cb0aa05bd",
+    "sessionId": "8f0dab1c-e60c-400a-875f-94cba6b9f605",
+    "totalMinutes": 45,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Introduction to Civics and Ethics",
+        "durationMinutes": 10,
+        "order": 1,
+        "sectionId": "Chapter 1: Understanding Civics and Ethics",
+        "id": "f39c972d-6cae-4408-b99e-946aeb6410fe",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 2,
+        "id": "986f4f4c-a419-4c81-8afc-a8515fc791b7",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Core Concepts of Civics",
+        "durationMinutes": 10,
+        "order": 3,
+        "sectionId": "Chapter 1: Understanding Civics and Ethics",
+        "id": "d1e41142-da5b-4d53-86d0-50f9aeb0d665",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Civics Key Terms Review",
+        "durationMinutes": 5,
+        "order": 4,
+        "sectionId": "Chapter 1: Understanding Civics and Ethics",
+        "id": "a3d26ba6-20e5-4f53-b3e0-4c5ee2c20f24",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Civics and Ethics Quiz 1",
+        "durationMinutes": 5,
+        "order": 5,
+        "sectionId": "Chapter 1: Understanding Civics and Ethics",
+        "id": "f8039688-e786-4cc7-9513-31cc65ec74de",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 6,
+        "id": "b3f8f72f-210b-4da4-a961-092a61c072a1",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Ethical Principles in Society",
+        "durationMinutes": 5,
+        "order": 7,
+        "sectionId": "Chapter 1: Understanding Civics and Ethics",
+        "id": "044bce73-3243-4d27-918c-024b5a1f6a5c",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "1d1d3553-46d9-43cd-8a1c-177199eac79c",
+    "sessionId": "f3144563-8332-473f-a7b8-04dd002e27c6",
+    "totalMinutes": 45,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Introduction to Civics and Ethics",
+        "durationMinutes": 10,
+        "order": 1,
+        "sectionId": "Chapter One: Understanding Civics and Ethics (29 words)",
+        "id": "df21ee4b-02a8-4c64-b7c6-f600b3225628",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 2,
+        "id": "32951a66-e68d-4a25-81df-da299be319c0",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Core Concepts of Civics",
+        "durationMinutes": 10,
+        "order": 3,
+        "sectionId": "Chapter One: Understanding Civics and Ethics (29 words)",
+        "id": "b35fb7c3-6dbe-42bc-beff-f5b54a4b2e67",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Civics Key Terms Review",
+        "durationMinutes": 5,
+        "order": 4,
+        "sectionId": "Chapter One: Understanding Civics and Ethics (29 words)",
+        "id": "a0f69982-b79d-4bde-b7b5-2337ca8fdd7c",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 5,
+        "id": "74f13a1f-48b1-42c7-b763-6fe597ca0393",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Foundations of Ethics",
+        "durationMinutes": 5,
+        "order": 6,
+        "sectionId": "Chapter One: Understanding Civics and Ethics (29 words)",
+        "id": "e6e9867f-e3c5-4549-bcc5-f00dd2f9f4ba",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Chapter One Quiz",
+        "durationMinutes": 5,
+        "order": 7,
+        "sectionId": "Chapter One: Understanding Civics and Ethics (29 words)",
+        "id": "efcb49f6-8064-4c75-b432-677b8dcdae92",
+        "completed": false
+      }
+    ]
+  },
+  {
+    "id": "795147f1-8e3c-4fc7-80b5-2809dddc6d74",
+    "sessionId": "f3144563-8332-473f-a7b8-04dd002e27c6",
+    "totalMinutes": 60,
+    "blocks": [
+      {
+        "type": "study",
+        "title": "Introduction to Civics and Ethics",
+        "durationMinutes": 5,
+        "order": 1,
+        "sectionId": "1. Introduction",
+        "id": "9b8c4249-7b7d-4ee9-b6aa-92ba9a49d60d",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Chapter One: Understanding Civics and Ethics",
+        "durationMinutes": 20,
+        "order": 2,
+        "sectionId": "2. Chapter One: Understanding Civics and Ethics",
+        "id": "498aff75-839a-4f4c-95ca-b350adc64b8e",
+        "completed": false
+      },
+      {
+        "type": "break",
+        "title": "Short Break",
+        "durationMinutes": 5,
+        "order": 3,
+        "id": "b98efe7e-02be-49b9-a85a-2371c6f3c363",
+        "completed": false
+      },
+      {
+        "type": "study",
+        "title": "Chapter Two: Approaches to Ethics",
+        "durationMinutes": 20,
+        "order": 4,
+        "sectionId": "3. Chapter Two: Approaches to Ethics",
+        "id": "b34a399e-8adf-4a2c-8543-b3270347b305",
+        "completed": false
+      },
+      {
+        "type": "flashcard",
+        "title": "Flashcard Review: Key Terms",
+        "durationMinutes": 5,
+        "order": 5,
+        "id": "ff812c22-27bf-49c0-b238-58b244821f5d",
+        "completed": false
+      },
+      {
+        "type": "quiz",
+        "title": "Comprehensive Quiz",
+        "durationMinutes": 5,
+        "order": 6,
+        "id": "01b1af1f-a37b-443b-b4ca-db94b36d0550",
+        "completed": false
+      }
+    ]
+  }
+]
