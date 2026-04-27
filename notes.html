@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Study AI — Notes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:    #0a0a0a;
+    --s0:    #0d0d0d;
+    --s1:    #111111;
+    --s2:    #171717;
+    --s3:    #1e1e1e;
+    --s4:    #262626;
+    --b:     #2a2a2a;
+    --bb:    #383838;
+    --td:    #333;
+    --tm:    #555;
+    --ts:    #808080;
+    --tb:    #aaa;
+    --tw:    #e8e8e8;
+    --acc:   #c0c0c0;
+    --mono:  'JetBrains Mono', monospace;
+    --serif: 'Lora', Georgia, serif;
+    --sans:  'DM Sans', sans-serif;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: var(--serif);
+    background: var(--bg);
+    color: var(--tw);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+  }
+
+  /* Scanlines overlay */
+  body::before {
+    content: '';
+    position: fixed; inset: 0;
+    background: repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(255,255,255,.008) 3px, rgba(255,255,255,.008) 4px);
+    pointer-events: none;
+    z-index: 9999;
+  }
+
+  /* ── TOPBAR ── */
+  .topbar {
+    position: fixed; top: 0; left: 0; right: 0;
+    height: 48px;
+    background: rgba(10,10,10,0.97);
+    border-bottom: 1px solid var(--b);
+    display: flex; align-items: center;
+    padding: 0 20px;
+    gap: 16px;
+    z-index: 200;
+    backdrop-filter: blur(8px);
+  }
+
+  .back-btn {
+    display: flex; align-items: center; gap: 6px;
+    font-family: var(--mono); font-size: 10px;
+    color: var(--ts); text-transform: uppercase; letter-spacing: .1em;
+    background: none; border: none; cursor: pointer;
+    padding: 5px 0; transition: color .15s;
+    flex-shrink: 0;
+  }
+  .back-btn:hover { color: var(--tw); }
+  .back-btn svg { width: 12px; height: 12px; }
+
+  .topbar-sep { width: 1px; height: 18px; background: var(--b); flex-shrink: 0; }
+
+  .session-info { flex-shrink: 0; }
+  .session-title {
+    font-family: var(--mono); font-size: 11px; font-weight: 500;
+    color: var(--tb); letter-spacing: .04em;
+  }
+  .session-sub {
+    font-family: var(--mono); font-size: 9px;
+    color: var(--tm); letter-spacing: .08em; text-transform: uppercase;
+    margin-top: 1px;
+  }
+
+  /* Timer */
+  .timer-wrap {
+    display: flex; align-items: center; gap: 10px;
+    margin: 0 auto;
+  }
+  .timer-icon { color: var(--ts); }
+  .timer-icon svg { width: 14px; height: 14px; }
+  .timer-val {
+    font-family: var(--mono); font-size: 16px; font-weight: 600;
+    color: var(--tw); letter-spacing: .08em;
+    font-variant-numeric: tabular-nums;
+  }
+  .timer-add {
+    font-family: var(--mono); font-size: 10px;
+    color: var(--tm); letter-spacing: .06em;
+    border: 1px solid var(--b);
+    padding: 3px 8px; border-radius: 3px;
+    cursor: pointer; background: none;
+    transition: all .15s;
+  }
+  .timer-add:hover { color: var(--tw); border-color: var(--bb); background: var(--s2); }
+
+  /* Right buttons */
+  .topbar-actions { display: flex; align-items: center; gap: 8px; margin-left: auto; flex-shrink: 0; }
+
+  /* ── PRO BUTTONS ── */
+  .btn {
+    display: inline-flex; align-items: center; gap: 7px;
+    font-family: var(--mono); font-size: 10px; font-weight: 500;
+    letter-spacing: .1em; text-transform: uppercase;
+    padding: 0 14px; height: 30px;
+    border-radius: 4px; border: none; cursor: pointer;
+    transition: all .18s ease;
+    white-space: nowrap;
+    position: relative; overflow: hidden;
+  }
+  .btn::before {
+    content: '';
+    position: absolute; inset: 0;
+    background: linear-gradient(135deg, rgba(255,255,255,.04), transparent 60%);
+    pointer-events: none;
+  }
+  .btn svg { width: 12px; height: 12px; flex-shrink: 0; }
+
+  .btn-ghost {
+    background: var(--s2);
+    border: 1px solid var(--b);
+    color: var(--ts);
+  }
+  .btn-ghost:hover {
+    background: var(--s3);
+    border-color: var(--bb);
+    color: var(--tb);
+    transform: translateY(-1px);
+  }
+  .btn-ghost:active { transform: translateY(0); }
+
+  .btn-solid {
+    background: var(--s4);
+    border: 1px solid var(--bb);
+    color: var(--tw);
+  }
+  .btn-solid:hover {
+    background: var(--b);
+    border-color: var(--acc);
+    color: #fff;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(0,0,0,.5);
+  }
+  .btn-solid:active { transform: translateY(0); box-shadow: none; }
+
+  /* ── LAYOUT ── */
+  .wrapper {
+    display: flex;
+    flex: 1;
+    margin-top: 48px;
+  }
+
+  /* Sidebar TOC */
+  .sidebar {
+    width: 220px;
+    flex-shrink: 0;
+    position: fixed;
+    top: 48px; left: 0; bottom: 0;
+    background: var(--s0);
+    border-right: 1px solid var(--b);
+    padding: 24px 0;
+    overflow-y: auto;
+    z-index: 100;
+  }
+
+  .toc-label {
+    font-family: var(--mono); font-size: 9px;
+    color: var(--td); letter-spacing: .14em; text-transform: uppercase;
+    padding: 0 18px 12px;
+    border-bottom: 1px solid var(--b);
+    margin-bottom: 10px;
+  }
+  .toc-label::before { content: '// '; color: var(--b); }
+
+  .toc-item {
+    display: block;
+    font-family: var(--mono); font-size: 10px;
+    color: var(--tm); letter-spacing: .04em;
+    padding: 7px 18px;
+    text-decoration: none;
+    transition: color .12s, background .12s;
+    border-left: 2px solid transparent;
+    line-height: 1.4;
+  }
+  .toc-item:hover { color: var(--tb); background: var(--s1); }
+  .toc-item.active { color: var(--tw); border-left-color: var(--ts); background: var(--s2); }
+  .toc-item.sub { padding-left: 30px; font-size: 10px; color: var(--td); }
+  .toc-item.sub:hover { color: var(--tm); }
+  .toc-item.subsub { padding-left: 42px; font-size: 9px; color: #2e2e2e; }
+  .toc-item.subsub:hover { color: var(--td); }
+
+  /* Scrollbar */
+  .sidebar::-webkit-scrollbar { width: 3px; }
+  .sidebar::-webkit-scrollbar-track { background: transparent; }
+  .sidebar::-webkit-scrollbar-thumb { background: var(--b); border-radius: 2px; }
+
+  /* Main content */
+  .content {
+    margin-left: 220px;
+    flex: 1;
+    max-width: 760px;
+    padding: 56px 64px 120px;
+    margin-right: auto;
+  }
+
+  /* ── NOTES TYPOGRAPHY ── Lora serif = actual academic notes feel */
+
+  .note-unit {
+    font-family: var(--mono); font-size: 9px;
+    color: var(--td); letter-spacing: .16em; text-transform: uppercase;
+    margin-bottom: 10px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .note-unit::before { content: '§'; color: var(--b); font-size: 11px; }
+  .note-unit::after {
+    content: '';
+    flex: 1; height: 1px;
+    background: linear-gradient(90deg, var(--b), transparent);
+  }
+
+  .note-h1 {
+    font-family: var(--serif); font-size: 26px; font-weight: 700;
+    color: var(--tw); line-height: 1.25;
+    letter-spacing: -.01em;
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--b);
+  }
+
+  .note-p {
+    font-family: var(--serif); font-size: 15px; font-weight: 400;
+    color: #c0c0c0; line-height: 1.85;
+    letter-spacing: .008em;
+    margin-bottom: 24px;
+    text-align: justify;
+    hyphens: auto;
+  }
+
+  .note-section { margin-top: 40px; margin-bottom: 6px; }
+
+  .note-h2 {
+    font-family: var(--serif); font-size: 18px; font-weight: 700;
+    color: var(--tw); line-height: 1.3;
+    margin-bottom: 14px;
+    position: relative;
+    padding-left: 14px;
+  }
+  .note-h2::before {
+    content: '';
+    position: absolute; left: 0; top: 3px; bottom: 3px;
+    width: 3px; background: var(--ts); border-radius: 2px;
+  }
+
+  .note-h3 {
+    font-family: var(--serif); font-size: 15px; font-weight: 600;
+    color: var(--tb); line-height: 1.4;
+    margin-top: 24px; margin-bottom: 12px;
+    font-style: italic;
+  }
+
+  /* Bullet list */
+  .note-list { margin: 0 0 24px 0; padding: 0; list-style: none; }
+  .note-list li {
+    font-family: var(--serif); font-size: 15px;
+    color: #c0c0c0; line-height: 1.8;
+    padding: 5px 0 5px 22px;
+    position: relative;
+    border-bottom: 1px solid rgba(255,255,255,.025);
+  }
+  .note-list li::before {
+    content: '—';
+    position: absolute; left: 0;
+    color: var(--ts); font-size: 13px;
+    font-family: var(--mono);
+  }
+  .note-list li strong {
+    font-family: var(--serif); font-weight: 700;
+    color: var(--tw);
+  }
+
+  /* Sub-list */
+  .note-sublist { margin: 8px 0 4px 0; padding: 0; list-style: none; }
+  .note-sublist li {
+    font-family: var(--serif); font-size: 14px;
+    color: #a0a0a0; line-height: 1.75;
+    padding: 4px 0 4px 20px;
+    position: relative;
+    border-bottom: none;
+  }
+  .note-sublist li::before {
+    content: '·';
+    position: absolute; left: 6px;
+    color: var(--td); font-size: 16px;
+    font-family: var(--mono); line-height: 1.5;
+  }
+
+  /* Callout / highlight box */
+  .callout {
+    margin: 28px 0;
+    padding: 18px 22px;
+    background: var(--s1);
+    border: 1px solid var(--b);
+    border-left: 3px solid var(--ts);
+    border-radius: 0 4px 4px 0;
+    position: relative;
+  }
+  .callout-label {
+    font-family: var(--mono); font-size: 9px;
+    color: var(--ts); letter-spacing: .14em; text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+  .callout p {
+    font-family: var(--serif); font-size: 14px;
+    color: var(--tb); line-height: 1.75; font-style: italic;
+  }
+
+  /* Definition term */
+  .def-term {
+    font-family: var(--mono); font-size: 10px;
+    color: var(--ts); letter-spacing: .1em; text-transform: uppercase;
+    margin-top: 6px;
+  }
+
+  /* Divider between big sections */
+  .section-divider {
+    margin: 48px 0;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .section-divider::before, .section-divider::after {
+    content: ''; flex: 1; height: 1px; background: var(--b);
+  }
+  .section-divider span {
+    font-family: var(--mono); font-size: 9px;
+    color: var(--td); letter-spacing: .12em; text-transform: uppercase;
+  }
+
+  /* ── BOTTOM BAR ── */
+  .bottombar {
+    position: fixed; bottom: 0; left: 0; right: 0;
+    height: 56px;
+    background: rgba(10,10,10,0.97);
+    border-top: 1px solid var(--b);
+    display: flex; align-items: center;
+    padding: 0 24px;
+    gap: 12px;
+    z-index: 200;
+    backdrop-filter: blur(8px);
+  }
+
+  .bottombar-left { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+
+  .avatar {
+    width: 28px; height: 28px;
+    border-radius: 4px;
+    background: var(--s3);
+    border: 1px solid var(--bb);
+    display: grid; place-items: center;
+    font-family: var(--mono); font-size: 10px; font-weight: 600;
+    color: var(--ts);
+  }
+
+  .btn-flash {
+    background: var(--s2);
+    border: 1px solid var(--b);
+    color: var(--ts);
+  }
+  .btn-flash:hover {
+    background: var(--s3); border-color: var(--bb);
+    color: var(--tb); transform: translateY(-1px);
+  }
+
+  /* Ask AI button — special treatment */
+  .btn-ai {
+    margin-left: auto;
+    background: var(--s3);
+    border: 1px solid var(--bb);
+    color: var(--tw);
+    padding: 0 18px;
+    height: 32px;
+  }
+  .btn-ai:hover {
+    background: var(--s4);
+    border-color: var(--acc);
+    color: #fff;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 20px rgba(0,0,0,.6);
+  }
+  .btn-ai .ai-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--ts);
+    animation: sdot 1.4s infinite;
+    flex-shrink: 0;
+  }
+  @keyframes sdot { 0%,100%{opacity:.3;transform:scale(1)} 50%{opacity:1;transform:scale(1.3)} }
+
+  /* Progress indicator in bottom bar */
+  .read-progress-wrap {
+    flex: 1; max-width: 160px;
+    display: flex; flex-direction: column; gap: 4px;
+  }
+  .read-progress-label {
+    font-family: var(--mono); font-size: 9px;
+    color: var(--td); letter-spacing: .1em; text-transform: uppercase;
+    display: flex; justify-content: space-between;
+  }
+  .read-progress-track {
+    height: 2px; background: var(--s3); border-radius: 1px;
+  }
+  .read-progress-fill {
+    height: 100%; width: 34%;
+    background: var(--ts); border-radius: 1px;
+    transition: width .3s ease;
+  }
+
+  /* Page scrollbar */
+  ::-webkit-scrollbar { width: 4px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--s3); border-radius: 2px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--b); }
+
+  /* Fade-in on load */
+  .content { animation: fadeIn .4s ease both; }
+  @keyframes fadeIn { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:none} }
+
+  /* Hover highlight on paragraphs */
+  .note-p, .note-list li, .note-sublist li {
+    transition: color .15s;
+  }
+  .note-p:hover { color: #d0d0d0; }
+</style>
+</head>
+<body>
+
+<!-- Topbar -->
+<header class="topbar">
+  <button class="back-btn">
+    <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
+      <path d="M10 3L5 8l5 5"/>
+    </svg>
+    Back
+  </button>
+  <div class="topbar-sep"></div>
+  <div class="session-info">
+    <div class="session-title">Study Session — 2 files</div>
+    <div class="session-sub">2 files loaded</div>
+  </div>
+
+  <div class="timer-wrap">
+    <div class="timer-icon">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+        <circle cx="12" cy="12" r="9"/>
+        <path d="M12 7v5l3 3"/>
+      </svg>
+    </div>
+    <div class="timer-val" id="timer">1:14:54</div>
+    <button class="timer-add">+ 10m</button>
+  </div>
+
+  <div class="topbar-actions">
+    <button class="btn btn-ghost">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+        <circle cx="12" cy="12" r="3"/>
+        <path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M4.9 19.1l2.1-2.1M17 7l2.1-2.1"/>
+      </svg>
+      Quick Quiz
+    </button>
+    <button class="btn btn-solid">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+        <path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2"/>
+        <rect x="9" y="3" width="6" height="4" rx="1"/>
+        <path d="M9 12h6M9 16h4"/>
+      </svg>
+      Final Exam
+    </button>
+  </div>
+</header>
+
+<!-- Layout -->
+<div class="wrapper">
+
+  <!-- Sidebar TOC -->
+  <nav class="sidebar">
+    <div class="toc-label">Contents</div>
+    <a class="toc-item active" href="#unit1">Unit One</a>
+    <a class="toc-item sub" href="#s1-1">1.1 Definition & Scope</a>
+    <a class="toc-item subsub" href="#s1-1-1">1.1.1 Defining Anthropology</a>
+    <a class="toc-item subsub" href="#s1-1-2">1.1.2 Four Fields</a>
+    <a class="toc-item sub" href="#s1-2">1.2 Subject Matter</a>
+    <a class="toc-item subsub" href="#s1-2-1">1.2.1 Holism</a>
+    <a class="toc-item subsub" href="#s1-2-2">1.2.2 Comparativism</a>
+    <a class="toc-item sub" href="#s1-3">1.3 Key Concepts</a>
+  </nav>
+
+  <!-- Notes content -->
+  <main class="content" id="notes-content">
+
+    <div class="note-unit">Unit One</div>
+    <h1 class="note-h1" id="unit1">Introducing Anthropology<br>and its Subject Matter</h1>
+
+    <p class="note-p">
+      Anthropology is the systematic study of humankind, exploring human nature, society, and behavior in their environmental interactions. It examines humans both biologically and culturally, across all forms, time periods, and regions. The discipline is fundamentally holistic and comparative, seeking to understand the interrelationships between biology, society, and culture.
+    </p>
+
+    <div class="callout">
+      <div class="callout-label">Core Insight</div>
+      <p>Anthropology occupies a unique position among the sciences — it is simultaneously biological and social, historical and contemporary, treating the human condition as a single, unified object of inquiry.</p>
+    </div>
+
+    <!-- Section 1.1 -->
+    <div class="note-section" id="s1-1"></div>
+    <h2 class="note-h2">1.1 Definition, Scope and Subject Matter of Anthropology</h2>
+
+    <p class="note-p">
+      In an increasingly interconnected world, understanding diverse societies and cultures is essential. Anthropology provides a broad, cross-cultural perspective crucial for navigating the 21st century. It has amassed extensive knowledge about the human condition, highlighting both similarities and differences.
+    </p>
+
+    <!-- Section 1.1.1 -->
+    <h3 class="note-h3" id="s1-1-1">1.1.1 Defining Anthropology</h3>
+
+    <ul class="note-list">
+      <li>
+        <strong>Etymology:</strong> The word "anthropology" derives from the Greek words <em>"anthropos"</em> (human beings/humankind) and <em>"logia"</em> (the study of/knowledge of).
+      </li>
+      <li>
+        <strong>Core Definition:</strong> Anthropology is the systematic study of humankind.
+      </li>
+      <li>
+        <strong>Broader Definition:</strong> It is the scientific study of human beings as social organisms, interacting within their environment. This includes the study of human nature, society, behavior, their interactions, and their material environment.
+      </li>
+      <li>
+        <strong>Key Characteristics:</strong>
+        <ul class="note-sublist">
+          <li>Humans possess both biological and cultural characteristics.</li>
+          <li>Adaptation to the environment involves an interplay between culture and biology.</li>
+          <li>Anthropology considers both biological and cultural aspects of humans across all times and places.</li>
+        </ul>
+      </li>
+    </ul>
+
+    <!-- Section 1.1.2 -->
+    <h3 class="note-h3" id="s1-1-2">1.1.2 The Four Fields of Anthropology</h3>
+
+    <ul class="note-list">
+      <li>
+        <strong>Cultural Anthropology:</strong> Studies living human societies and cultures, focusing on social norms, kinship, ritual, economics, and symbolic systems.
+      </li>
+      <li>
+        <strong>Biological (Physical) Anthropology:</strong> Examines human evolution, genetics, primatology, and the biological diversity of modern humans.
+      </li>
+      <li>
+        <strong>Archaeology:</strong> Investigates past human societies through material remains — artifacts, structures, and environmental data.
+      </li>
+      <li>
+        <strong>Linguistic Anthropology:</strong> Analyzes how language shapes and is shaped by social life, identity, and cognition.
+      </li>
+    </ul>
+
+    <div class="section-divider"><span>continued</span></div>
+
+    <!-- Section 1.2 -->
+    <h2 class="note-h2" id="s1-2">1.2 Subject Matter of Anthropology</h2>
+
+    <p class="note-p">
+      Anthropology's subject matter is arguably the broadest of any academic discipline. It encompasses the entirety of the human experience — past and present, biological and cultural, individual and collective. This breadth is both its strength and its methodological challenge.
+    </p>
+
+    <h3 class="note-h3" id="s1-2-1">1.2.1 Holism</h3>
+
+    <p class="note-p">
+      Holism is the foundational principle that all aspects of human existence are interconnected. No single behavior, institution, or belief can be understood in isolation — it must be examined within the broader context of the social, biological, historical, and environmental forces that shape it.
+    </p>
+
+    <div class="callout">
+      <div class="callout-label">Key Term</div>
+      <p>Holism — the analytical approach that insists on examining phenomena as integrated wholes rather than isolated parts. Central to all four sub-fields of anthropology.</p>
+    </div>
+
+    <h3 class="note-h3" id="s1-2-2">1.2.2 Comparativism</h3>
+
+    <p class="note-p">
+      The comparative method allows anthropologists to identify universal patterns in human behavior while also documenting the extraordinary diversity of cultural expression. By comparing societies across time and space, anthropology avoids ethnocentrism and grounds its claims in cross-cultural evidence.
+    </p>
+
+    <ul class="note-list">
+      <li>Enables identification of cultural universals — features found in all known human societies.</li>
+      <li>Reveals the contingent, constructed nature of seemingly "natural" social norms.</li>
+      <li>Provides empirical basis for theories of human nature.</li>
+    </ul>
+
+    <!-- Section 1.3 -->
+    <div class="section-divider"><span>section 1.3</span></div>
+    <h2 class="note-h2" id="s1-3">1.3 Key Concepts</h2>
+
+    <ul class="note-list">
+      <li><strong>Culture:</strong> The learned, shared patterns of behavior, belief, and value that characterize a social group. Not biologically inherited — transmitted through socialization.</li>
+      <li><strong>Ethnocentrism:</strong> The tendency to evaluate other cultures through the lens of one's own. A central bias anthropology seeks to overcome.</li>
+      <li><strong>Cultural Relativism:</strong> The principle that a culture must be understood on its own terms, without imposing external value judgments.</li>
+      <li><strong>Fieldwork:</strong> Extended immersive research within a community — the methodological cornerstone of cultural and linguistic anthropology.</li>
+    </ul>
+
+  </main>
+</div>
+
+<!-- Bottombar -->
+<footer class="bottombar">
+  <div class="bottombar-left">
+    <div class="avatar">N</div>
+    <button class="btn btn-flash">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="width:12px;height:12px">
+        <rect x="2" y="6" width="16" height="11" rx="1"/>
+        <path d="M6 6V4a1 1 0 011-1h14a1 1 0 011 1v11a1 1 0 01-1 1h-2"/>
+      </svg>
+      Go to Flashcards
+    </button>
+  </div>
+
+  <div class="read-progress-wrap">
+    <div class="read-progress-label">
+      <span>Reading</span>
+      <span id="pct-label">34%</span>
+    </div>
+    <div class="read-progress-track">
+      <div class="read-progress-fill" id="read-fill"></div>
+    </div>
+  </div>
+
+  <button class="btn btn-ai">
+    <div class="ai-dot"></div>
+    Ask AI
+  </button>
+</footer>
+
+<script>
+  // Timer
+  let secs = 4494;
+  function fmt(s) {
+    const h = Math.floor(s/3600), m = Math.floor((s%3600)/60), ss = s%60;
+    return `${h}:${String(m).padStart(2,'0')}:${String(ss).padStart(2,'0')}`;
+  }
+  const timerEl = document.getElementById('timer');
+  timerEl.textContent = fmt(secs);
+  setInterval(() => { secs++; timerEl.textContent = fmt(secs); }, 1000);
+
+  document.querySelector('.timer-add').addEventListener('click', () => { secs += 600; });
+
+  // Reading progress
+  const fill = document.getElementById('read-fill');
+  const pctEl = document.getElementById('pct-label');
+  const main = document.querySelector('.content');
+
+  function updateScroll() {
+    const scrollTop = window.scrollY;
+    const docH = document.documentElement.scrollHeight - window.innerHeight;
+    const pct = Math.min(100, Math.round((scrollTop / docH) * 100)) || 0;
+    fill.style.width = pct + '%';
+    pctEl.textContent = pct + '%';
+  }
+  window.addEventListener('scroll', updateScroll);
+  updateScroll();
+
+  // TOC active state
+  const tocs = document.querySelectorAll('.toc-item');
+  const headings = document.querySelectorAll('[id]');
+  window.addEventListener('scroll', () => {
+    let current = '';
+    headings.forEach(h => {
+      if (window.scrollY >= h.offsetTop - 80) current = h.id;
+    });
+    tocs.forEach(t => {
+      t.classList.toggle('active', t.getAttribute('href') === '#' + current);
+    });
+  });
+</script>
+</body>
+</html>

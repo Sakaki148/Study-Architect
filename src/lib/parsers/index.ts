@@ -2,17 +2,30 @@
 // File Parsers - PDF, DOCX, TXT, PPTX
 // ============================================
 
-import { PDFParse } from 'pdf-parse';
+if (typeof global !== 'undefined' && typeof (global as any).DOMMatrix === 'undefined') {
+  (global as any).DOMMatrix = class DOMMatrix {
+    a = 1; b = 0; c = 0; d = 1; e = 0; f = 0;
+    m11 = 1; m12 = 0; m21 = 0; m22 = 1; m41 = 0; m42 = 0;
+    is2D = true; isIdentity = true;
+    constructor() {}
+    multiply() { return this; }
+    translate() { return this; }
+    scale() { return this; }
+    rotate() { return this; }
+  };
+}
 
 export async function parsePDF(buffer: Buffer): Promise<string> {
   let parser;
   try {
+    const lib = await import('pdf-parse');
+    const PDFParse = lib.PDFParse;
     parser = new PDFParse({ data: buffer });
     const result = await parser.getText();
     return result.text;
   } catch (error) {
     console.error('PDF parse error:', error);
-    throw new Error('Failed to parse PDF file');
+    throw new Error(`Failed to parse PDF file: ${error instanceof Error ? error.message : String(error)}`);
   } finally {
     if (parser && typeof parser.destroy === 'function') {
       await parser.destroy();

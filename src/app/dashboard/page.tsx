@@ -665,7 +665,7 @@ export default function DashboardPage() {
       <nav className="dash-nav">
         <Link className="nav-brand" href="/">
           <div className="brand-icon"></div>
-          <span className="brand-name">AI Study <span>Architect</span></span>
+          <span className="brand-name">Zylo</span>
         </Link>
         <div className="nav-right">
           <span className="nav-email">{user?.email}</span>
@@ -750,11 +750,12 @@ export default function DashboardPage() {
                     <span className="session-date">{formatDate(session.createdAt)}</span>
                   </div>
                   
-                  <h4 className="session-title">{session.title}</h4>
-                  
-                  <p className="session-meta">
-                    {session.materials?.length || 0} file{(session.materials?.length || 0) !== 1 ? 's' : ''} • {session.studyDepth === '1hr' ? 'Fast review' : session.studyDepth === 'detailed' ? 'In-depth study' : 'Standard depth'}
-                  </p>
+                   <h4 className="session-title">{session.title}</h4>
+                   
+                   <p className="session-meta">
+                     {session.notes?.subject ? <span>{session.notes.subject} • </span> : ''}
+                     {session.materials?.length || 0} file{(session.materials?.length || 0) !== 1 ? 's' : ''} • {session.studyDepth === '1hr' ? 'Fast review' : session.studyDepth === 'detailed' ? 'In-depth study' : 'Standard depth'}
+                   </p>
                   
                   <div className="session-footer">
                     <span className="session-status">Ready</span>
@@ -769,7 +770,7 @@ export default function DashboardPage() {
         )}
 
         <div className="footer-rule">
-          <span className="footer-text">AI Study Architect &mdash; Beta</span>
+          <span className="footer-text">Zylo &mdash; Beta</span>
         </div>
       </main>
     </div>

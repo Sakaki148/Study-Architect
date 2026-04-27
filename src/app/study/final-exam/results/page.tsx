@@ -51,7 +51,7 @@ function ResultsContent() {
       <div className="min-h-screen bg-[#111111] text-[#f1f1f1] flex flex-col items-center justify-center font-sans">
         <Loader2 className="w-10 h-10 text-white animate-spin mb-4" />
         <h2 className="text-xl font-serif">Analyzing your performance...</h2>
-        <p className="text-[#a0a0a0] mt-2">Generating focus areas from your incorrect answers.</p>
+        <p className="text-[#a0a0a0] mt-2">Zylo is generating focus areas from your incorrect answers.</p>
       </div>
     );
   }

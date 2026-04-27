@@ -46,48 +46,65 @@ export async function POST(request: NextRequest) {
 
     // Re-parallelizing calls to meet the strict <15s requirement. 
     // Small inputs ensure we don't hit the concurrent TPM rate limit that causes 15s retries.
-    // Replacing Promise.all with sequential awaits to prevent the free tier 1-minute burst cooldown limit.
-    const notesContent = await generateNotes(trimmedNotesContent, combinedFocus, session.studyDepth);
+    // Sequential awaits to prevent the free tier 1-minute burst cooldown limit.
+    const notesResult = await generateNotes(trimmedNotesContent, combinedFocus, session.studyDepth);
     const timeSuggestion = totalTimeMinutes ? null : await generateTimeSuggestion(trimmedTimeContent);
     const flashcards = await generateFlashcards(trimmedFlashcardContent, sessionId);
 
-    // Parse notes into sections
+    // Parse notes into sections based on the generated chapters
     const sections: NoteSection[] = [];
-    let order = 0;
-    const lines = notesContent.split('\n');
-    let currentTitle = 'Introduction';
-    let currentContent: string[] = [];
+    let globalOrder = 0;
 
-    for (const line of lines) {
-      if (line.startsWith('## ')) {
-        if (currentContent.length > 0) {
-          sections.push({
-            id: crypto.randomUUID(),
-            title: currentTitle,
-            content: currentContent.join('\n'),
-            order: order++,
-          });
+    notesResult.chapters.forEach((chapter, chapterIdx) => {
+      const lines = chapter.content.split('\n');
+      let currentTitle = chapter.title;
+      let currentContent: string[] = [];
+      let currentLevel = 1;
+
+      const slugify = (t: string) =>
+        t.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+      for (const line of lines) {
+        const h2 = line.match(/^## (.+)/);
+        const h3 = line.match(/^### (.+)/);
+        const heading = h2 || h3;
+        if (heading) {
+          if (currentContent.length > 0) {
+            sections.push({
+              id: crypto.randomUUID(),
+              title: currentTitle,
+              content: currentContent.join('\n'),
+              order: globalOrder++,
+              slug: slugify(currentTitle),
+              level: currentLevel,
+            });
+          }
+          currentTitle = heading[1];
+          currentLevel = h2 ? 1 : 2;
+          currentContent = [];
+        } else {
+          currentContent.push(line);
         }
-        currentTitle = line.replace('## ', '');
-        currentContent = [];
-      } else {
-        currentContent.push(line);
       }
-    }
-    if (currentContent.length > 0) {
-      sections.push({
-        id: crypto.randomUUID(),
-        title: currentTitle,
-        content: currentContent.join('\n'),
-        order: order++,
-      });
-    }
+      if (currentContent.length > 0) {
+        sections.push({
+          id: crypto.randomUUID(),
+          title: currentTitle,
+          content: currentContent.join('\n'),
+          order: globalOrder++,
+          slug: slugify(currentTitle),
+          level: currentLevel,
+        });
+      }
+    });
 
     const notes: GeneratedNotes = {
       id: crypto.randomUUID(),
       sessionId,
-      content: notesContent,
+      content: notesResult.fullContent,
       sections,
+      subject: notesResult.subject,
+      chapters: notesResult.chapters,
       createdAt: new Date().toISOString(),
     };
     await sessionService.saveNotes(notes);

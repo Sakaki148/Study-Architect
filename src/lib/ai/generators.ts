@@ -7,7 +7,7 @@ import { Flashcard, QuizQuestion, QuizAnswerEvaluation, TimeSuggestion, TimeBloc
 import crypto from 'crypto';
 
 // --- Generate Structured Notes ---
-export async function generateNotes(content: string, focusAreas?: string[], studyDepth?: string): Promise<string> {
+export async function generateNotes(content: string, focusAreas?: string[], studyDepth?: string): Promise<{ subject: string; chapters: { title: string; content: string }[]; fullContent: string }> {
   const focusPrompt = focusAreas && focusAreas.length > 0
     ? `Pay special attention to these focus areas: ${focusAreas.join(', ')}.`
     : '';
@@ -21,27 +21,36 @@ export async function generateNotes(content: string, focusAreas?: string[], stud
     depthPrompt = '- Cover material thoroughly based precisely on the depth of the source document.';
   }
 
-  const prompt = `You are an expert study material architect. Transform the following study material into well-structured notes.
+  const prompt = `You are an expert study material architect. Analyze the following study material and transform it into a classified system of notes.
 
 Requirements:
-- Use Markdown formatting with proper headings (##, ###, ####)
+- Identify the overarching Subject of the material.
+- Divide the content into logical Chapters.
+- For each chapter, generate comprehensive study notes using Markdown formatting (headings, bullet points, etc.).
 ${depthPrompt}
 - Include clear explanations for complex concepts
 - Add examples where they help understanding
 - Use bullet points for lists and key takeaways
 - Include "Key Takeaway" sections at the end of major topics
 - No emojis
-- Do not reference the module name, the author, the PowerPoint, or the source document in any way. Do not use phrases like "based on the module," "according to the presentation," or "as stated in the file." Focus exclusively on the lesson content itself.
+- Do not reference the module name, the author, the PowerPoint, or the source document in any way. Focus exclusively on the lesson content itself.
 ${focusPrompt}
+
+Respond as a JSON object with these fields:
+- subject: string (The name of the subject, e.g., "Emergent Technologies")
+- chapters: array of objects, each with:
+    - title: string (Chapter name, e.g., "Chapter 1: Introduction to AI")
+    - content: string (The detailed notes for this chapter in Markdown)
+- fullContent: string (The entire notes content concatenated, as it would appear in a single document)
 
 Study Material:
 ${content}
 
-Generate the comprehensive study notes now:`;
+Generate the classified study notes now:`;
 
-  const systemInstruction = 'You are a world-class educator who creates thorough, structured study notes. Your notes are known for being comprehensive yet clear, covering every concept with proper depth. Never use emojis.';
+  const systemInstruction = 'You are a world-class educator who creates thorough, structured study notes. You categorize information logically by subject and chapter. Never use emojis.';
 
-  return generateWithGemini(prompt, systemInstruction);
+  return generateJSONWithGemini<{ subject: string; chapters: { title: string; content: string }[]; fullContent: string }>(prompt, systemInstruction);
 }
 
 // --- Generate Time Suggestion ---

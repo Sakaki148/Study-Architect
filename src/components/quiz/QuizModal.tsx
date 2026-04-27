@@ -210,7 +210,7 @@ export default function QuizModal({ sessionId, selectedText, onClose }: QuizModa
                 <Loader2 className="h-10 w-10 text-white/65" />
               </motion.div>
               <div className="mt-5 text-lg font-semibold text-white">
-                {phase === 'loading' ? 'Generating your quiz' : 'Reviewing your answers'}
+                {phase === 'loading' ? 'Zylo is generating your quiz' : 'Reviewing your answers'}
               </div>
               <p className="mt-2 max-w-sm text-sm text-white/45">
                 {phase === 'loading'

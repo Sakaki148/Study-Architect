@@ -2,6 +2,12 @@
 
 import { motion, AnimatePresence } from 'framer-motion';
 import { Sparkles, MessageSquare, Brain } from 'lucide-react';
+import React from 'react';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
+import 'katex/dist/katex.min.css';
 
 interface FloatingToolbarProps {
   visible: boolean;
@@ -39,9 +45,33 @@ export default function FloatingToolbar({ visible, position, onExplainMore, onAs
                   <span className="text-sm font-bold text-white/90">Explanation</span>
                 </div>
               </div>
-              <p className="select-text text-white/80 leading-relaxed cursor-text text-[15px]">
-                {expandedExplanation}
-              </p>
+              <div className="select-text text-white/80 leading-relaxed cursor-text text-[15px] [&_.katex]:text-white/90 [&_.katex-display]:overflow-x-auto [&_.katex-display]:my-4">
+                <ReactMarkdown
+                  remarkPlugins={[remarkGfm, remarkMath]}
+                  rehypePlugins={[rehypeKatex]}
+                  components={{
+                    strong: ({ children }) => <strong className="font-extrabold text-white">{children}</strong>,
+                    b: ({ children }) => <b className="font-extrabold text-white">{children}</b>,
+                    p: ({ children }) => <p className="mb-4 text-white/80 whitespace-pre-wrap" style={{ whiteSpace: 'pre-wrap', marginBottom: '1rem' }}>{children}</p>,
+                    ul: ({ children }) => <ul className="mb-4 ml-4 list-disc text-white/80">{children}</ul>,
+                    ol: ({ children }) => <ol className="mb-4 ml-4 list-decimal text-white/80">{children}</ol>,
+                    li: ({ children }) => <li className="mb-1 text-white/80">{children}</li>,
+                    h1: ({ children }) => <h1 className="text-2xl font-bold mt-6 mb-4 text-white">{children}</h1>,
+                    h2: ({ children }) => <h2 className="text-xl font-bold mt-5 mb-3 text-white">{children}</h2>,
+                    h3: ({ children }) => <h3 className="text-lg font-bold mt-4 mb-2 text-white">{children}</h3>,
+                    code: ({ children }) => <code className="bg-white/10 px-1 py-0.5 rounded text-sm font-mono text-emerald-300">{children}</code>,
+                    pre: ({ children }) => <pre className="bg-white/10 p-4 rounded-lg overflow-x-auto mb-4 text-white/80 whitespace-pre-wrap">{children}</pre>,
+                    span: ({ className, children, ...props }) => {
+                      if (className?.includes('katex')) {
+                        return <span className={`${className} text-white/90`} {...props}>{children}</span>;
+                      }
+                      return <span className={className} {...props}>{children}</span>;
+                    },
+                  }}
+                >
+                  {expandedExplanation}
+                </ReactMarkdown>
+              </div>
             </div>
           ) : (
             <div className="flex items-center gap-1">

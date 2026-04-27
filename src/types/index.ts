@@ -38,6 +38,8 @@ export interface GeneratedNotes {
   sessionId: string;
   content: string; // Markdown content
   sections: NoteSection[];
+  subject?: string;
+  chapters?: { title: string; content: string }[];
   createdAt: string;
 }
 
@@ -46,6 +48,16 @@ export interface NoteSection {
   title: string;
   content: string;
   order: number;
+  slug?: string;   // URL-safe anchor id
+  level?: number;  // 1 = h2, 2 = h3, etc.
+}
+
+export interface TocEntry {
+  id: string;
+  title: string;
+  slug: string;
+  level: number; // 1 | 2 | 3
+  children: TocEntry[];
 }
 
 // --- Study Timeline ---
